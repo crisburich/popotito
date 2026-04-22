@@ -53,7 +53,7 @@ div[data-testid="stButton"] > button {
 """, unsafe_allow_html=True)
 
 # ── LOAD DATA ─────────────────────────────────────────────────────────────────
-QUESTIONS_PATH = "data/questions.json"
+QUESTIONS_PATH = "questions.json"
 
 @st.cache_data
 def load_data():
