@@ -1,0 +1,190 @@
+{
+  "topics": [
+    {
+      "id": "caev-maedi-visna",
+      "title": "Lentivirosis: CAEV y Maedi-Visna",
+      "description": "Artritis encefalitis caprina viral y Maedi-Visna ovino",
+      "questions": [
+        {
+          "question": "¿Cuál es la principal vía de transmisión del virus CAEV en cabritos recién nacidos?",
+          "options": [
+            "Vía transplacentaria exclusivamente",
+            "Vía digestiva (calostro y leche) y vía respiratoria",
+            "Vía genitourinaria durante el apareamiento",
+            "Transmisión vectorial por insectos hematófagos"
+          ],
+          "correct": 1,
+          "explanation": "El CAEV se transmite principalmente por vía digestiva a través del calostro y la leche de madres infectadas, y por vía respiratoria mediante aerosoles y secreciones. La vía transplacentaria es sospechada pero no demostrada formalmente. El control del programa se basa precisamente en interrumpir la transmisión calostrosa mediante termización (56 °C, 1 hora) y separación del cabrito de la madre al nacer."
+        },
+        {
+          "question": "¿Qué porcentaje de animales infectados por CAEV puede evolucionar de forma latente y asintomática?",
+          "options": [
+            "Alrededor del 10 %",
+            "Alrededor del 30 %",
+            "Cerca del 70 %",
+            "Casi el 100 %"
+          ],
+          "correct": 2,
+          "explanation": "Según Rowe (2006), cerca del 70 % de los animales infectados por CAEV evolucionan de manera latente y asintomática. Esto tiene una consecuencia diagnóstica fundamental: la ausencia de signos clínicos (como 'gros genoux') no permite considerar el rebaño como indemne, y el diagnóstico serológico es imprescindible para establecer el estado sanitario."
+        },
+        {
+          "question": "¿A qué categoría de peligros sanitarios pertenece la AECV (artritis encefalitis caprina viral) en Francia?",
+          "options": [
+            "Peligro sanitario de primera categoría",
+            "Peligro sanitario de segunda categoría",
+            "Enfermedad exótica sin categorización nacional",
+            "Zoonosis prioritaria de vigilancia europea"
+          ],
+          "correct": 1,
+          "explanation": "La AECV (junto al Maedi-Visna) pertenece a la lista de peligros sanitarios de 2.ª categoría en Francia. Esto implica que existe un programa de control sanitario oficial (CSO) voluntario, a diferencia de los peligros de 1.ª categoría (como la FCO) que son de gestión obligatoria por el Estado."
+        },
+        {
+          "question": "La termización del calostro a 56 °C durante 1 hora para el control del CAEV:",
+          "options": [
+            "Garantiza la inactivación total del virus y de Mycobacterium avium paratuberculosis (Map) simultáneamente",
+            "Reduce fuertemente las seroconversiones pero no previene completamente la infección",
+            "Es equivalente a la pasteurización a 72 °C y elimina todos los patógenos",
+            "Ha sido abandonada en todos los programas europeos por ineficacia demostrada"
+          ],
+          "correct": 1,
+          "explanation": "La termización a 56 °C/1 h reduce considerablemente las seroconversiones posteriores, pero no impide totalmente la infección: algunos animales nacidos de madres positivas aún seroconvierten, probablemente por transmisión intraútero o perinatal. Además, esta temperatura no es suficiente para destruir Map (se necesitan 60 °C/1 h). Algunos países europeos la descartaron en sus programas de erradicación por problemas de observancia."
+        },
+        {
+          "question": "En el Maedi-Visna ovino, ¿cómo se denomina la forma nerviosa y cuáles son sus características?",
+          "options": [
+            "Maedi: disnea progresiva, pérdida de peso y dificultad para seguir al rebaño",
+            "Visna: encefalomielitis con parálisis progresiva ascendente, más rara que la forma respiratoria",
+            "Arthritis-encefalitis: poliartritis crónica con signos nerviosos simultáneos",
+            "Big-head syndrome: edema cefálico con signos neurológicos agudos en borregos"
+          ],
+          "correct": 1,
+          "explanation": "En el Maedi-Visna, 'maedi' es la forma respiratoria (disnea, pérdida de peso) y 'visna' es la forma nerviosa, caracterizada por una encefalomielitis con parálisis progresiva ascendente. La forma nerviosa es más rara y aparece a partir de los 2-3 años. La distinción es importante ya que las dos formas pueden coexistir en el mismo rebaño pero con frecuencias muy diferentes."
+        }
+      ]
+    },
+    {
+      "id": "enfermedades-metabolicas",
+      "title": "Enfermedades metabólicas y nutricionales",
+      "description": "Toxemia de gestación, acidosis ruminal y entérotoxemias",
+      "questions": [
+        {
+          "question": "La toxemia de gestación en pequeños rumiantes está fundamentalmente ligada a:",
+          "options": [
+            "Un balance energético negativo por inadecuación entre necesidades y aporte",
+            "Una hipocalcemia aguda por movilización ósea insuficiente",
+            "Una hipofunción tiroidea secundaria al estrés del parto",
+            "Un exceso de ingesta proteica con déficit de vitaminas del grupo B"
+          ],
+          "correct": 0,
+          "explanation": "La cétosis/toxemia de gestación resulta de un balance energético negativo: los requerimientos energéticos (UFl) son muy elevados en el último tercio de gestación, mientras que la capacidad de ingestión está limitada por el útero grávido y el estado corporal. La lipomobilización resultante genera la acumulación de cuerpos cetónicos. No se trata de hipocalcemia (esa es la fiebre de leche bovina) ni de déficit proteico en sí mismo."
+        },
+        {
+          "question": "¿Cuál es el agente etiológico principal de la entérotoxemia en la cabra adulta?",
+          "options": [
+            "Clostridium novyi tipo B",
+            "Clostridium perfringens tipo A",
+            "Clostridium perfringens tipo D",
+            "Clostridium chauvoei"
+          ],
+          "correct": 2,
+          "explanation": "En la cabra adulta el principal agente es Clostridium perfringens tipo D, productor de la toxina epsilon (la 'maladie du rein pulpeux' o riñón pulposo). C. novyi tipo B causa la hepatitis infecciosa necrosante (black disease) en ovinos. C. chauvoei produce el edema maligno y el 'black leg'. C. perfringens tipo A puede estar implicado pero de forma secundaria."
+        },
+        {
+          "question": "La lesión más característica —considerada prácticamente patognomónica— de la entérotoxemia caprina a la necropsia es:",
+          "options": [
+            "Autolisis rápida del riñón (riñón pulposo)",
+            "Enterocolitis fibrinohemorrágica a nivel del ciego",
+            "Hepatitis necrosante con focos blanquecinos periféricos",
+            "Neumonía fibrinosa con pleuritis serofibrinosa"
+          ],
+          "correct": 1,
+          "explanation": "En el caprino, la lesión patognomónica es la enterocolitis fibrinohemorrágica del ciego (tiflocolitis), con contenido sanguinolento y fibrinoso, mucosa congestionada y ulcerada. Esto difiere del ovino, donde la autolisis renal rápida ('riñón pulposo') es más característica. La glucosuria está presente en ~60 % de los caprinos pero no es patognomónica. El frotis intestinal muestra abundantes bacilos gram+ típicos de C. perfringens."
+        },
+        {
+          "question": "En la acidosis ruminal subaguda en caprinos, ¿cuál es la alteración productiva más característica en la leche?",
+          "options": [
+            "Aumento del contenido en proteína bruta",
+            "Disminución del porcentaje de materia grasa (taux butyreux)",
+            "Incremento de células somáticas sin modificación de composición",
+            "Reducción del contenido en lactosa con aumento de caseínas"
+          ],
+          "correct": 1,
+          "explanation": "En la acidosis subaguda o crónica, las fermentaciones ruminales se desplazan de la producción mayoritaria de acetato hacia propionato (pH ~5,5). Como el acetato es el principal precursor de la materia grasa de la leche, su reducción se traduce directamente en una caída del taux butyreux. Este signo indirecto en el control lechero es una herramienta de alerta precoz antes de que aparezcan signos clínicos digestivos."
+        },
+        {
+          "question": "¿Qué concentración mínima de C. perfringens en contenido ileal permite el diagnóstico de certeza de entérotoxemia?",
+          "options": [
+            "≥ 10⁴ UFC/mL",
+            "≥ 10⁵ UFC/mL",
+            "≥ 10⁶ UFC/mL",
+            "≥ 10⁷ UFC/mL"
+          ],
+          "correct": 3,
+          "explanation": "Una concentración ≥ 10⁷ UFC/mL de C. perfringens en contenido ileal es el umbral de certeza diagnóstica. En el animal sano este germen está presente en cantidades bajas; solo una multiplicación masiva indica patología. El prélèvement debe hacerse pocas horas post-mortem en un segmento intestinal sin abrir y enviarse en frío (la concentración se mantiene estable hasta 4 días a +4 °C)."
+        }
+      ]
+    },
+    {
+      "id": "patologia-infecciosa",
+      "title": "Patología infecciosa: micoplasmosis, piétín y FCO",
+      "description": "Síndrome micoplásmico, boiteries del pie y Fiebre Catarrhale Ovine",
+      "questions": [
+        {
+          "question": "En el síndrome micoplásmico caprino, ¿cuál es la característica microbiológica que hace ineficaces a las betalactaminas?",
+          "options": [
+            "Producción de betalactamasas de amplio espectro",
+            "Ausencia de pared celular",
+            "Alta tasa de mutación en la PBP objetivo",
+            "Capacidad de formar biofilms resistentes"
+          ],
+          "correct": 1,
+          "explanation": "Los micoplasmas carecen totalmente de pared celular (no poseen peptidoglicano). Las betalactaminas (penicilinas, cefalosporinas) actúan precisamente inhibiendo la síntesis de pared celular, por lo que son ineficaces frente a estos microorganismos independientemente de si producen o no betalactamasas. Los antibióticos de elección son los macrólidos y las tetraciclinas, que actúan sobre ribosomas o síntesis proteica."
+        },
+        {
+          "question": "En el piétín virulento ovino, la lesión histopatológica está mediada principalmente por:",
+          "options": [
+            "La acción hemolítica de Fusobacterium necrophorum sobre la dermis",
+            "La acción proteolítica y elastolítica de cepas virulentas de Dichelobacter nodosus",
+            "La reacción inmunomediada tipo III frente a antígenos de Treponema sp.",
+            "La colonización directa de la cápsula articular por Actinomyces pyogenes"
+          ],
+          "correct": 1,
+          "explanation": "Dichelobacter nodosus virulento posee enzimas proteolíticas y elastolíticas que permiten que la infección se extienda desde el epidermis interdigital hacia las estructuras córneas del talón y la suela, con necrosis, desprendimiento del casco y olor característico. F. necrophorum actúa como cofactor iniciador al macerar el epidermis, pero la extensión invasiva depende de la virulencia de D. nodosus. Las cepas poco virulentas solo producen dermatitis interdigital benigna."
+        },
+        {
+          "question": "La Fiebre Catarrhale Ovine (FCO) pertenece al género Orbivirus. ¿Cuántos serotipos existen?",
+          "options": [
+            "8 serotipos",
+            "16 serotipos",
+            "25 serotipos",
+            "40 serotipos"
+          ],
+          "correct": 2,
+          "explanation": "Existen 25 serotipos del virus de la FCO. En Francia continental emergieron los sérotypes 1 y 8 a partir de 2008, mientras que en Córcega han circulado los serotipos 2, 4 y 16. La multiplicidad de serotipos complica la vacunación: la inmunidad es serotipo-específica, por lo que la vacuna eficaz debe corresponder al sérotype circulante. Esta heterogeneidad también explica los diferentes patrones epidemiológicos observados."
+        },
+        {
+          "question": "¿Cuál es la lesión patognomónica de la Fiebre Catarrhale Ovine a la necropsia?",
+          "options": [
+            "Esplenomegalia hemorrágica con infartos capsulares",
+            "Hemorragias en la base de la arteria pulmonar",
+            "Necrosis multifocal hepática con calcificaciones",
+            "Pleuritis fibrinosa bilateral con derrame serosanguinolento"
+          ],
+          "correct": 1,
+          "explanation": "La lesión patognomónica de la FCO es la presencia de hemorragias en la base de la arteria pulmonar (y eventualmente de la aorta). El cuadro general combina lesiones congestivo-hemorrágicas en aparatos respiratorio y digestivo, pero esta localización arterial pulmonar es la hallazgo específico que orienta el diagnóstico diferencial en la necropsia. Su ausencia no descarta la FCO, pero su presencia es altamente orientadora."
+        },
+        {
+          "question": "En la linfadenitis caseosa caprina (Corynebacterium pseudotuberculosis), ¿cuál es la actitud terapéutica correcta?",
+          "options": [
+            "Antibioterapia sistémica prolongada con tetraciclinas como primera línea",
+            "Los antibióticos son totalmente ineficaces; el tratamiento es quirúrgico (apertura, drenaje, antisépticos)",
+            "Inmunoterapia pasiva con suero hiperinmune específico como tratamiento de elección",
+            "Desbridamiento e irrigación intralesional con penicilina G en dosis altas"
+          ],
+          "correct": 1,
+          "explanation": "Los antibióticos son totalmente ineficaces en la linfadenitis caseosa porque C. pseudotuberculosis está encapsulado dentro de un piogranuloma con cápsula fibrosa densa que impide la penetración de los antibacterianos. El único tratamiento eficaz es la apertura quirúrgica del absceso con drenaje declive, lavado con antisépticos y solución iodada, lo que permite la curación en 20-30 días. Dejar que el absceso se abra espontáneamente —práctica habitual en los ganaderos— contamina gravemente el entorno."
+        }
+      ]
+    }
+  ]
+}
