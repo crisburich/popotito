@@ -15,6 +15,16 @@ st.markdown("""
 <style>
 #MainMenu, footer, header { visibility: hidden; }
 
+/* ── Fixed sidebar ── */
+section[data-testid="stSidebar"] {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    height: 100vh !important;
+    overflow-y: auto !important;
+    z-index: 999 !important;
+}
+
 /* Option buttons: make them look like cards */
 div[data-testid="stButton"] > button {
     text-align: left !important;
