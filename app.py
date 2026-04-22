@@ -55,9 +55,20 @@ div[data-testid="stButton"] > button {
 # ── LOAD DATA ─────────────────────────────────────────────────────────────────
 @st.cache_data
 def load_data():
-    path = Path(__file__).parent / "data" / "questions.json"
-    with open(path, encoding="utf-8") as f:
-        return json.load(f)
+    # Streamlit Cloud runs from the repo root, so use a relative path directly.
+    # Fallback to __file__-relative path for local development.
+    candidates = [
+        Path("data/questions.json"),
+        Path(__file__).parent / "data" / "questions.json",
+    ]
+    for path in candidates:
+        if path.exists():
+            with open(path, encoding="utf-8") as f:
+                return json.load(f)
+    raise FileNotFoundError(
+        "No se encontró data/questions.json. "
+        "Asegurate de que la carpeta 'data/' con el archivo esté commiteada en el repo."
+    )
 
 data = load_data()
 topics_list = data["topics"]
