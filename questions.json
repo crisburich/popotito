@@ -8,9 +8,9 @@
         {
           "question": "Chez la chèvre adulte infectée par le CAEV, quel signe clinique est le plus fréquemment observé ?",
           "options": [
-            "Une pneumonie chronique avec dyspnée progressive",
-            "Une agalactie totale brutale en début de lactation",
-            "Une encéphalomyélite avec paralysie progressive ascendante",
+            "Une pneumonie chronique avec signes respiratoires progressifs",
+            "Une agalactie totale brutale apparaissant en début de lactation",
+            "Une encéphalomyélite avec paralysie progressive ascendante chez la chevrette",
             "Des arthrites chroniques des carpes (« gros genoux »)"
           ],
           "correct": 3,
@@ -19,10 +19,10 @@
         {
           "question": "Quelle est la proportion d'animaux infectés par le CAEV qui évoluent de façon latente et asymptomatique ?",
           "options": [
-            "Près de 70 % des animaux infectés",
-            "Environ 30 % des animaux infectés",
-            "Moins de 10 % des animaux infectés",
-            "La quasi-totalité des animaux infectés (> 95 %)"
+            "Moins de 10 % des animaux infectés évoluent sans symptômes",
+            "Environ 30 % des animaux infectés évoluent sans symptômes",
+            "Près de 70 % des animaux infectés évoluent sans symptômes",
+            "Plus de 95 % des animaux infectés évoluent sans symptômes"
           ],
           "correct": 0,
           "explanation": "Selon Rowe (2006), près de 70 % des animaux infectés par le CAEV évoluent de manière latente et asymptomatique. Cette donnée est essentielle : l'absence de symptômes ne permet pas de considérer un troupeau comme indemne, rendant le dépistage sérologique indispensable."
@@ -30,9 +30,9 @@
         {
           "question": "Pour obtenir un colostrum non infectieux vis-à-vis du CAEV, quelle thermisation est recommandée ?",
           "options": [
-            "65 °C pendant 45 minutes avec agitation continue",
-            "74 °C pendant 14 secondes (pasteurisation flash)",
-            "60 °C pendant 30 minutes en bain-marie",
+            "65 °C pendant 45 minutes avec agitation continue du colostrum",
+            "74 °C pendant 14 secondes (pasteurisation flash haute température)",
+            "60 °C pendant 30 minutes en bain-marie avec contrôle thermique",
             "56 °C pendant 1 heure dans un stérilisateur à régulation électronique"
           ],
           "correct": 3,
@@ -41,10 +41,10 @@
         {
           "question": "Pourquoi les bêta-lactamines sont-elles inefficaces contre les mycoplasmes caprins ?",
           "options": [
-            "Parce que les mycoplasmes sont dépourvus de paroi cellulaire (pas de peptidoglycane)",
-            "Parce que les mycoplasmes survivent uniquement en milieu intracellulaire strict",
-            "Parce que les mycoplasmes produisent des bêta-lactamases plasmidiques transférables",
-            "Parce que les mycoplasmes possèdent des pompes à efflux actives contre la pénicilline"
+            "Les mycoplasmes sont dépourvus de paroi cellulaire (pas de peptidoglycane cible)",
+            "Les mycoplasmes survivent en milieu intracellulaire strict inaccessible aux antibiotiques",
+            "Les mycoplasmes produisent des bêta-lactamases plasmidiques transférables",
+            "Les mycoplasmes possèdent des pompes à efflux actives contre la pénicilline"
           ],
           "correct": 0,
           "explanation": "Les mycoplasmes sont de très petites bactéries dépourvues de paroi cellulaire. Les bêta-lactamines agissent en inhibant la synthèse du peptidoglycane, donc elles sont sans effet sur des bactéries qui n'en possèdent pas. Les antibiotiques actifs sont ceux qui ciblent les ribosomes : macrolides et tétracyclines, voire fluoroquinolones."
@@ -53,8 +53,8 @@
           "question": "Chez les caprins, quel est le type cellulaire hôte principal du CAEV ?",
           "options": [
             "Les cellules de la lignée monocyte/macrophage et les cellules dendritiques",
-            "Les hépatocytes et les cellules de Kupffer",
-            "Les pneumocytes de type II et les cellules de Clara",
+            "Les hépatocytes et les cellules de Kupffer du parenchyme hépatique",
+            "Les pneumocytes de type II et les cellules de Clara des bronchioles",
             "Les lymphocytes T CD4+ et les cellules dendritiques folliculaires"
           ],
           "correct": 0,
@@ -63,10 +63,10 @@
         {
           "question": "Dans le syndrome mycoplasmique caprin, quelle localisation est la plus importante sur le plan économique chez l'adulte ?",
           "options": [
-            "La localisation mammaire (agalactie partielle ou totale)",
-            "La localisation oculaire (kératoconjonctivite avec opacification de la cornée)",
-            "La localisation articulaire (polyarthrite fibrineuse fébrile)",
-            "La localisation pulmonaire (pleuropneumonie sérofibrineuse)"
+            "La localisation mammaire entraînant une agalactie partielle ou totale",
+            "La localisation oculaire avec kératoconjonctivite et opacification de la cornée",
+            "La localisation articulaire provoquant une polyarthrite fibrineuse fébrile",
+            "La localisation pulmonaire responsable d'une pleuropneumonie sérofibrineuse"
           ],
           "correct": 0,
           "explanation": "Les symptômes mammaires sont les plus importants en fréquence et pour leur répercussion économique. Ils se traduisent essentiellement par une diminution voire un arrêt de la production laitière, sans nécessairement les signes classiques d'une mammite (inflammation, lait modifié). La maîtrise d'un foyer de mycoplasmose mammaire reste extrêmement difficile."
@@ -74,10 +74,10 @@
         {
           "question": "Quelle est la lésion pathognomonique de l'entérotoxémie caprine à Clostridium perfringens type D à l'autopsie ?",
           "options": [
-            "Une autolyse rénale rapide avec glucosurie (rein pulpeux)",
+            "Une autolyse rénale rapide avec glucosurie marquée (rein pulpeux)",
             "Une entérocolite fibrinohémorragique au niveau du cæcum (typhlo-colite)",
-            "Un épanchement péricardique exsudatif avec fibrine",
-            "Des foyers de nécrose hépatique centrés sur les veinules"
+            "Un épanchement péricardique exsudatif avec dépôts fibrineux denses",
+            "Des foyers de nécrose hépatique centrés sur les veinules centro-lobulaires"
           ],
           "correct": 1,
           "explanation": "Chez les caprins, la lésion pathognomonique de l'entérotoxémie à C. perfringens type D est l'entérocolite fibrinohémorragique du cæcum (typhlo-colite) avec contenu sanguinolent et fibrineux. Contrairement aux ovins, l'autolyse rénale rapide (« rein pulpeux ») est moins fréquente en caprin, bien qu'une glucosurie soit observée dans environ 60 % des cas."
@@ -85,10 +85,10 @@
         {
           "question": "En élevage caprin laitier, quelle est la première cause de mortalité chez la chevrette d'après les résultats d'autopsie ?",
           "options": [
-            "La paratuberculose (28 % des cas)",
-            "L'entérotoxémie (15 % des cas)",
-            "La pathologie respiratoire (40 % des cas)",
-            "La coccidiose (15 % des cas)"
+            "La paratuberculose représente 28 % des cas chez la chevrette",
+            "L'entérotoxémie représente 15 % des cas chez la chevrette",
+            "La pathologie respiratoire représente 40 % des cas chez la chevrette",
+            "La coccidiose représente 15 % des cas chez la chevrette"
           ],
           "correct": 2,
           "explanation": "Les résultats d'autopsie chez la chevrette indiquent la prédominance de la pathologie respiratoire (40 % des cas), suivie par la coccidiose et l'entérotoxémie (15 % chacune). Chez les adultes, ce sont les entérotoxémies (38 %) et la paratuberculose (28 %) qui dominent."
@@ -96,7 +96,7 @@
         {
           "question": "Quelle particularité clinique distingue la paratuberculose caprine de la paratuberculose ovine ?",
           "options": [
-            "L'amaigrissement est beaucoup plus rapide chez les ovins que chez les caprins",
+            "L'amaigrissement est plus rapide chez les ovins que chez les caprins",
             "La diarrhée est exceptionnelle chez la chèvre, contrairement à la brebis",
             "Les caprins n'excrètent pas Map dans leurs fèces contrairement aux ovins",
             "Les caprins présentent une hyperthermie marquée, absente chez les ovins"
@@ -107,7 +107,7 @@
         {
           "question": "La Fièvre Catarrhale Ovine (FCO) appartient à la famille des Reoviridae, genre Orbivirus. Quelle est la lésion pathognomonique à l'autopsie ?",
           "options": [
-            "Un épanchement pleural bilatéral sérofibrineux avec pleurite",
+            "Un épanchement pleural bilatéral sérofibrineux avec pleurite diffuse",
             "Des hémorragies à la base de l'artère pulmonaire",
             "Une hépatite nécrosante multifocale avec calcification des cotylédons",
             "Des ulcères profonds sur la muqueuse du rumen et du feuillet"
@@ -125,9 +125,9 @@
         {
           "question": "La péricardite traumatique bovine (PCE) est une complication de la réticulopéritonite traumatique. Quel mécanisme explique l'insuffisance cardiaque droite observée ?",
           "options": [
-            "Une destruction valvulaire mitrale par l'endocardite associée",
-            "Une myocardite nécrosante due aux toxines bactériennes libérées",
-            "Une accumulation d'exsudat dans le sac péricardique gênant la distension diastolique du cœur droit",
+            "Une destruction valvulaire mitrale par endocardite bactérienne associée",
+            "Une myocardite nécrosante par diffusion directe des toxines bactériennes",
+            "Une accumulation d'exsudat péricardique gênant la distension diastolique droite",
             "Une thrombose coronarienne droite par embolie septique directe"
           ],
           "correct": 2,
@@ -136,10 +136,10 @@
         {
           "question": "Quel est le principal vecteur de la kératoconjonctivite infectieuse bovine (KCIB) à Moraxella bovis ?",
           "options": [
-            "Le moucheron Culicoides, actif au crépuscule pendant l'été",
-            "La mouche Musca autumnalis, qui transmet M. bovis et génère des microtraumatismes cornéens",
-            "La tique Ixodes ricinus, qui dépose M. bovis lors du repas sanguin",
-            "Le pou broyeur Damalinia bovis lors du grattage des yeux"
+            "Le moucheron Culicoides, actif principalement au crépuscule en été",
+            "La mouche Musca autumnalis, vecteur mécanique et traumatisme cornéen",
+            "La tique Ixodes ricinus, vecteur biologique lors du repas sanguin",
+            "Le pou broyeur Damalinia bovis lors du grattage des zones oculaires"
           ],
           "correct": 1,
           "explanation": "Le facteur le plus important est la présence de la mouche Musca autumnalis. Elle véhicule M. bovis d'un animal malade ou porteur sain vers un animal sensible, mais occasionne aussi des microtraumatismes de la cornée avec ses pièces buccales. M. bovis peut persister plus de 3 jours sur les pattes des mouches. Cela explique le caractère estival et la prédilection pour les animaux au pâturage."
@@ -147,10 +147,10 @@
         {
           "question": "Dans l'urolithiase bovine, quel est le ratio Ca/P recommandé dans la ration pour prévenir la formation de calculs phosphatiques ?",
           "options": [
-            "Le ratio Ca/P n'a pas d'influence sur la lithiase bovine",
-            "Un ratio Ca/P de 1,2 à 2 (apport calcique supérieur au phosphore)",
-            "Un ratio Ca/P de 0,5 à 0,8 (apport phosphoré supérieur au calcium)",
-            "Un ratio Ca/P strictement égal à 1 (apports équilibrés)"
+            "Un ratio Ca/P de 0,5 à 0,8 avec apport phosphoré supérieur au calcium",
+            "Un ratio Ca/P de 1,2 à 2 avec apport calcique supérieur au phosphore",
+            "Un ratio Ca/P de 0,5 à 0,8 avec équilibre strict entre calcium et phosphore",
+            "Le ratio Ca/P n'a pas d'influence sur la formation de calculs bovins"
           ],
           "correct": 1,
           "explanation": "Le ratio Ca/P recherché est de 1,2, avec des apports supplémentaires en calcium (ratio de 1,5 à 2) recommandés par certains auteurs. Un excès de phosphore (ratio inverse) favorise la précipitation de phosphate ammoniaco-magnésien dans les urines et la formation de calculs. On évite les aliments riches en phosphore : son de blé, avoine, tourteaux de lin ou de coton."
@@ -158,10 +158,10 @@
         {
           "question": "Quelle est la cause principale de l'hématurie essentielle des bovins ?",
           "options": [
-            "Une carence sévère en vitamine A avec métaplasie vésicale",
+            "Une carence sévère en vitamine A avec métaplasie de l'épithélium vésical",
             "Une intoxication chronique par la Fougère Aigle (Pteridium aquilinum)",
-            "Une cystite infectieuse chronique à Corynebacterium renale",
-            "Un adénocarcinome vésical spontané de la race Hereford"
+            "Une cystite infectieuse chronique à Corynebacterium renale avec toxine",
+            "Un adénocarcinome vésical spontané lié à un herpèsvirus bovin inconnu"
           ],
           "correct": 1,
           "explanation": "L'hématurie essentielle est une cystite hémorragique chronique dont la cause principale est l'intoxication chronique par la Fougère Aigle, qui contient du ptaquiloside, un composé immunosuppresseur et carcinogène induisant des lésions hémorragiques et tumorales de la muqueuse vésicale. Elle se rencontre dans les régions d'élevage extensif où les bovins accèdent aux zones à fougères."
@@ -169,10 +169,10 @@
         {
           "question": "Quel est le traitement de première intention recommandé (avec AMM) pour la KCIB par voie générale ?",
           "options": [
-            "Le florfénicol (40 mg/kg SC, deux injections à 48 heures d'intervalle)",
-            "L'oxytétracycline longue action (20 mg/kg IM, injection unique)",
-            "La tulathromycine (2,5 mg/kg SC, injection unique)",
-            "L'amoxicilline (15 mg/kg IM, 5 jours consécutifs)"
+            "Le florfénicol 40 mg/kg SC, deux injections à 48 heures d'intervalle",
+            "L'oxytétracycline longue action 20 mg/kg IM, injection unique sans AMM",
+            "La tulathromycine 2,5 mg/kg SC, injection unique avec AMM spécifique",
+            "L'amoxicilline 15 mg/kg IM, cinq jours consécutifs obligatoires"
           ],
           "correct": 2,
           "explanation": "La tulathromycine à 2,5 mg/kg SC en injection unique est le traitement de choix disposant d'une AMM pour la KCIB. Elle permet de traiter un lot entier en une seule intervention, ce qui est très avantageux lors de foyers collectifs. L'oxytétracycline LA peut aussi être utilisée, mais sans AMM spécifique pour cette indication."
@@ -180,10 +180,10 @@
         {
           "question": "Pour le diagnostic pronostique d'une pyélonéphrite bovine, quel dosage sanguín est le plus informatif ?",
           "options": [
-            "La protéine C-réactive (marqueur d'inflammation aiguë)",
-            "La phosphatase alcaline (enzyme de lyse ostéocytaire)",
-            "La bilirubine totale (reflétant l'atteinte hépatique secondaire)",
-            "L'urée sanguine (marqueur de l'insuffisance rénale chronique)"
+            "La protéine C-réactive, marqueur de l'inflammation rénale aiguë",
+            "La phosphatase alcaline, enzyme de lyse des ostéocytes rénaux",
+            "La bilirubine totale, reflétant l'atteinte hépatique secondaire associée",
+            "L'urée sanguine, marqueur direct de l'insuffisance rénale chronique"
           ],
           "correct": 3,
           "explanation": "Le dosage de l'urée sanguine est le marqueur pronostique essentiel : < 0,35 g/L = bon pronostic ; 0,35-0,80 g/L = réservé ; 0,80-2,50 g/L = grave ; > 2,50 g/L = fatal. Une forte urémie signe l'atteinte profonde des deux reins avec insuffisance rénale irréversible, justifiant l'euthanasie plutôt que le traitement."
@@ -191,10 +191,10 @@
         {
           "question": "La fibrillation auriculaire idiopathique bovine se distingue de la tachycardie sinusale par quel critère auscultatoire essentiel ?",
           "options": [
-            "La fibrillation auriculaire produit un rythme cardiaque parfaitement régulier avec intervalles R-R constants",
-            "La fibrillation auriculaire est toujours accompagnée de fièvre > 40 °C contrairement à la tachycardie sinusale",
-            "La tachycardie sinusale génère des souffles holosystoliques absents en fibrillation auriculaire",
-            "La fibrillation auriculaire est caractérisée par une arythmie complète avec intervalles R-R irréguliers et déficit de pouls"
+            "La FA produit un rythme parfaitement régulier avec intervalles R-R constants",
+            "La FA est toujours accompagnée de fièvre > 40 °C, contrairement à la TS",
+            "La TS génère des souffles holosystoliques absents lors de fibrillation",
+            "La FA est une arythmie complète avec intervalles R-R irréguliers et déficit de pouls"
           ],
           "correct": 3,
           "explanation": "La fibrillation auriculaire produit une arythmie complète : les intervalles R-R sont totalement irréguliers et il existe un déficit de pouls (certains complexes QRS ne génèrent pas un pouls périphérique palpable, par remplissage ventriculaire insuffisant). La tachycardie sinusale est rythmée et proportionnelle à la cause (douleur, fièvre, déshydratation). La FA idiopathique répond à la quinidine IV."
@@ -202,10 +202,10 @@
         {
           "question": "Quel est l'agent principal de l'endocardite valvulaire bovine et quelles valves sont préférentiellement atteintes ?",
           "options": [
-            "Moraxella bovis — valvule mitrale gauche exclusivement",
-            "Pasteurella multocida — valvules aortiques et pulmonaires",
-            "Fusobacterium necrophorum — endocarde ventriculaire gauche",
-            "Trueperella pyogenes et Streptococcus spp. — principalement valves du cœur droit"
+            "Moraxella bovis affectant la valvule mitrale gauche exclusivement",
+            "Pasteurella multocida affectant les valvules aortiques et pulmonaires",
+            "Fusobacterium necrophorum avec atteinte de l'endocarde ventriculaire gauche",
+            "Trueperella pyogenes et Streptococcus spp., principalement valves du cœur droit"
           ],
           "correct": 3,
           "explanation": "L'endocardite bactérienne bovine est causée principalement par Trueperella pyogenes et Streptococcus spp. Contrairement à d'autres espèces, les valves du cœur droit (tricuspide et pulmonaire) sont préférentiellement atteintes chez les bovins. Le souffle holosystolique droit, la fièvre récurrente et les emboles septiques pulmonaires sont des signes évocateurs."
@@ -213,10 +213,10 @@
         {
           "question": "Lors d'urolithiase obstructive chez un bovin, quel traitement médical peut être tenté mais reste généralement insuffisant ?",
           "options": [
-            "Des myorelaxants spasmolytiques pour faciliter le passage spontané des calculs",
-            "L'administration de furosémide pour augmenter la production urinaire",
-            "La fluidothérapie intensive IV pour augmenter la pression dans l'urètre",
-            "L'administration de chlorure d'ammonium à 50 g/j pour dissoudre les calculs phosphatiques"
+            "Des myorelaxants spasmolytiques pour tenter le passage spontané du calcul",
+            "Du furosémide à forte dose pour augmenter la production urinaire",
+            "Une fluidothérapie intensive IV pour augmenter la pression urétrale",
+            "Du chlorure d'ammonium pour dissoudre les calculs phosphatiques existants"
           ],
           "correct": 0,
           "explanation": "Des myorelaxants spasmolytiques (comme le Spasmoglucinol®) peuvent être administrés pour tenter de faciliter le passage des calculs, mais leur efficacité reste le plus souvent insuffisante ou nulle. Les calculs ne peuvent pas être dissous par voie médicale. L'urétrostomie ou la cystotomie chirurgicales sont les seules solutions efficaces pour l'obstruction urétrale."
@@ -224,10 +224,10 @@
         {
           "question": "Quelle race bovine présente une prédisposition à la KCIB en raison d'une faible pigmentation des paupières ?",
           "options": [
-            "La race Normande et la race Limousine",
-            "La race Salers et la race Aubrac",
-            "La race Charolaise et la race Hereford",
-            "La race Prim'Holstein et la race Montbéliarde"
+            "La race Normande et la race Limousine par manque de larmoiement naturel",
+            "La race Salers et la race Aubrac par cornée plus convexe favorisant les traumatismes",
+            "La race Charolaise et la race Hereford par faible pigmentation des paupières",
+            "La race Prim'Holstein et la race Montbéliarde par flore nasale spécifique"
           ],
           "correct": 2,
           "explanation": "Les races ayant une faible pigmentation des paupières (Charolais, Hereford) semblent plus fréquemment atteintes de KCIB, la pigmentation jouant un rôle de protection contre les rayons UV qui favorisent le développement de l'infection. Le risque de cécité consécutive à la KCIB est estimé à 2 %, avec un pronostic économique plus réservé en raison des retards de croissance."
@@ -242,10 +242,10 @@
         {
           "question": "Chez la vache laitière au pic de lactation, pourquoi le glucose disponible ne provient-il pas principalement des glucides alimentaires ?",
           "options": [
-            "Parce que le glucose alimentaire est presque intégralement détruit par les fermentations ruminales ; le précurseur principal est l'acide propionique converti par néoglucogenèse hépatique",
-            "Parce que l'insuline inhibe l'absorption intestinale du glucose chez les vaches hautes productrices",
-            "Parce que le foie dégrade immédiatement le glucose en corps cétoniques pour alimenter la sécrétion lactée",
-            "Parce que les ruminants ont une capacité d'absorption intestinale du glucose très réduite par rapport aux monogastriques"
+            "Le glucose alimentaire est fermenté dans le rumen ; le précurseur gluconéogénique principal est l'acide propionique converti hépatiquement",
+            "L'insuline inhibe l'absorption intestinale du glucose chez les vaches hautes productrices laitières",
+            "Le foie dégrade immédiatement le glucose absorbé en corps cétoniques pour alimenter directement la sécrétion lactée",
+            "Les ruminants ont une très faible capacité d'absorption intestinale du glucose comparée aux espèces monogastriques"
           ],
           "correct": 0,
           "explanation": "Chez les ruminants, le glucose alimentaire est presque totalement détruit par les fermentations du rumen. La source principale de glucose est la néoglucogenèse hépatique à partir de l'acide propionique (AGV en C3, représentant environ 20 % des AGV produits dans le rumen). Cet acide propionique est le précurseur glucoformateur essentiel de la vache laitière."
@@ -253,10 +253,10 @@
         {
           "question": "La cétose de type 2 se distingue de la cétose de type 1 (primitive) par quel mécanisme pathogénique ?",
           "options": [
-            "Elle résulte d'un excès d'acide butyrique apporté par des ensilages mal conservés",
-            "Elle résulte d'une carence en cobalt et vitamine B12 qui bloque le cycle de Krebs",
+            "Elle résulte d'un excès d'acide butyrique apporté par des ensilages mal conservés et fermentés",
+            "Elle résulte d'une carence en cobalt et vitamine B12 bloquant le cycle de Krebs hépatique",
             "Elle survient exclusivement au pic de lactation chez les vaches de 3ème lactation et plus",
-            "Elle implique une stéatose hépatique marquée sur vache grasse au vêlage, qui altère la capacité gluconéogénique du foie"
+            "Elle implique une stéatose hépatique sévère sur vache grasse au vêlage, altérant la néoglucogenèse"
           ],
           "correct": 3,
           "explanation": "La cétose de type 2 résulte d'un dysmétabolisme hépatique consécutif à une stéatose hépatique marquée. Elle se voit sur des « vaches grasses » au vêlage, dès la première semaine de lactation. La lipomobilisation intense en fin de gestation surcharge le foie en triglycérides, altérant sa capacité de néoglucogenèse et d'oxydation des corps cétoniques. Son pronostic est plus grave que la cétose primitive."
@@ -264,9 +264,9 @@
         {
           "question": "L'acétyl-CoA produit en excès lors de cétose ne peut pas entrer dans le cycle de Krebs. Quelle en est la raison ?",
           "options": [
-            "L'oxaloacétate (OAA) est insuffisant car il est détourné vers la néoglucogenèse",
+            "L'oxaloacétate est détourné vers la néoglucogenèse, rendant le cycle de Krebs insuffisant",
             "Les mitochondries hépatiques manquent de coenzyme A libre pour condenser l'acétyl-CoA",
-            "L'acétyl-CoA est activement exporté hors du foie sous forme de VLDL",
+            "L'acétyl-CoA est activement exporté hors du foie sous forme de VLDL en excès",
             "Le NADH produit en excès par la lipolyse inhibe de façon compétitive la citrate synthase"
           ],
           "correct": 0,
@@ -275,10 +275,10 @@
         {
           "question": "Quelle est la cause de la cétose de type 3, la forme la plus rare ?",
           "options": [
-            "Une myopathie hépato-cellulaire consécutive à un excès de vitamine E dans la ration",
-            "Une insuffisance thyroïdienne fonctionnelle réduisant le métabolisme glucidique basal",
-            "Un excès d'acide butyrique fermentaire dans des ensilages mal conservés, apportant des corps cétoniques directement",
-            "Une carence profonde en vitamine B12 par insuffisance en cobalt du sol"
+            "Une carence en vitamine B12 par insuffisance en cobalt des sols acides et pauvres",
+            "Une insuffisance thyroïdienne fonctionnelle réduisant le métabolisme glucidique de base",
+            "Un excès d'acide butyrique dans des ensilages mal conservés apportant des corps cétoniques directement",
+            "Une myopathie hépatocellulaire consécutive à un excès de vitamine E dans la ration concentrée"
           ],
           "correct": 2,
           "explanation": "La cétose de type 3 résulte d'un excès d'apport en acide butyrique, produit par des fermentations butyriques dans des ensilages mal conservés. Cet acide butyrique est converti en bêtahydroxybutyrate dans la paroi du rumen, apportant directement des corps cétoniques à l'organisme sans déficit énergétique réel sous-jacent. C'est la forme la plus facile à contrôler en corrigeant la qualité des fourrages."
@@ -287,9 +287,9 @@
           "question": "Quelle est la forme clinique la plus fréquente (90 % des cas) de la cétose primitive de la vache laitière ?",
           "options": [
             "La forme « hypo » avec dépression, anorexie progressive et chute de production",
-            "La forme « hyper » avec excitation, hyperesthésie et automutilation",
-            "La forme convulsive avec opisthotonus et pédalage",
-            "La forme ictérique avec ictère sclérotical et bilirubinurie"
+            "La forme « hyper » avec excitation, hyperesthésie et comportement anormal",
+            "La forme convulsive avec opisthotonus et pédalage continu",
+            "La forme ictérique avec ictère sclérotical et bilirubinurie notable"
           ],
           "correct": 0,
           "explanation": "La cétose primitive se présente dans 90 % des cas sous la forme « hypo » : dépression, tristesse, anorexie progressive, chute de la production laitière. La forme « hyper » (nerveuse) avec excitation, hyperesthésie et ataxie représente environ 10 % des cas. Les deux formes sont toujours apyrétiques, ce qui les distingue des maladies infectieuses."
@@ -297,10 +297,10 @@
         {
           "question": "La leptospirose bovine est une zoonose. Quel sérovar est principalement responsable des troubles de la reproduction en Europe ?",
           "options": [
-            "Leptospira borgpetersenii serovar hardjo",
-            "Leptospira interrogans serovar pomona",
-            "Leptospira interrogans serovar canicola",
-            "Leptospira interrogans serovar icterohaemorrhagiae"
+            "Leptospira borgpetersenii serovar hardjo, responsable de troubles reproducteurs",
+            "Leptospira interrogans serovar pomona, causant surtout des atteintes aiguës",
+            "Leptospira interrogans serovar canicola, réservoir principal : le chien",
+            "Leptospira interrogans serovar icterohaemorrhagiae, réservoir principal : le rat"
           ],
           "correct": 0,
           "explanation": "En Europe, Leptospira borgpetersenii serovar hardjo est le principal responsable de la leptospirose bovine, causant préférentiellement des troubles reproducteurs (avortements, infertilité) et une baisse de production laitière. Le serovar icterohaemorrhagiae (réservoir : rat) produit des formes aiguës plus graves avec hémoglobinurie et ictère. Le serovar pomona cause principalement des atteintes aiguës chez les jeunes bovins."
@@ -308,10 +308,10 @@
         {
           "question": "Comment différencier une hémoglobinurie d'une hématurie à l'examen de l'urine ?",
           "options": [
-            "L'hémoglobinurie s'accompagne toujours de fièvre élevée ; l'hématurie est constamment apyrétique",
-            "Après centrifugation, l'hémoglobinurie laisse un surnageant brun sans hématies au culot ; l'hématurie donne un surnageant clair avec hématies au culot",
-            "L'hémoglobinurie est visible uniquement par bandelette urinaire ; l'hématurie est visible à l'œil nu",
-            "L'hémoglobinurie donne une urine rose clair ; l'hématurie une urine rouge foncé avec caillots"
+            "L'hémoglobinurie s'accompagne toujours d'une fièvre élevée ; l'hématurie est constamment apyrétique",
+            "Hémoglobinurie : surnageant brun sans hématies ; hématurie : surnageant clair avec hématies au culot après centrifugation",
+            "L'hémoglobinurie est détectable uniquement par bandelette réactive ; l'hématurie est visible macroscopiquement à l'œil nu",
+            "L'hémoglobinurie produit une urine rose clair ; l'hématurie produit une urine rouge foncé avec présence de caillots"
           ],
           "correct": 1,
           "explanation": "La centrifugation est le test clé : en hémoglobinurie (hémolyse intravasculaire ou nécrose musculaire), le surnageant reste brun après centrifugation et il n'y a pas d'hématies au culot. Le plasma est hémolysé. En hématurie (origine urinaire : cystite, pyélonéphrite), le surnageant est clair et le culot contient des hématies. Le plasma est clair."
@@ -319,10 +319,10 @@
         {
           "question": "Quelle est la classification correcte des ictères bovins et quel type est causé par la leptospirose ?",
           "options": [
-            "On distingue ictère aigu et chronique ; la leptospirose cause toujours un ictère chronique",
-            "On distingue ictère bactérien et ictère viral ; la leptospirose cause naturellement le premier type",
-            "On distingue ictère prèhépatique, hépatique et posthépatique ; la leptospirose cause un ictère hépatique (atteinte du parenchyme)",
-            "On distingue ictère hémolytique et ictère obstructif ; la leptospirose cause un ictère obstructif"
+            "On distingue ictère aigu et chronique ; la leptospirose cause toujours un ictère de type chronique lent",
+            "On distingue ictère bactérien et ictère viral ; la leptospirose cause naturellement un ictère bactérien",
+            "On distingue ictère prèhépatique, hépatique et posthépatique ; la leptospirose cause un ictère hépatique par nécrose hépatocytaire",
+            "On distingue ictère hémolytique et obstructif ; la leptospirose cause un ictère obstructif par cholestase"
           ],
           "correct": 2,
           "explanation": "Les ictères se classent en trois types : prèhépatique (hémolytique — babésiose, intoxication au cuivre), hépatique (atteinte parenchymateuse — leptospirose, stéatose, toxines) et posthépatique (obstruction biliaire — distomatose, cholangite). La leptospirose cause un ictère hépatique par nécrose hépatocytaire. Le diagnostic différentiel repose sur la combinaison des analyses biochimiques et de l'anamnèse."
@@ -330,9 +330,9 @@
         {
           "question": "Quel facteur prédisposant explique que les vaches de 3ème lactation et au-delà soient davantage concernées par la cétose primitive ?",
           "options": [
-            "Elles ont une muqueuse ruminale moins développée et absorbent moins d'acide propionique",
+            "Elles absorbent moins d'acide propionique par atrophie des papilles ruminales",
             "Elles ont des réserves en glycogène musculaire naturellement inférieures",
-            "Elles ont une meilleure production laitière et une moins bonne intégrité hépatique",
+            "Elles ont une meilleure production laitière et une intégrité hépatique moins bonne",
             "Elles présentent une résistance accrue à l'insuline due au vieillissement"
           ],
           "correct": 2,
@@ -343,8 +343,8 @@
           "options": [
             "La perfusion de bicarbonate de sodium pour corriger l'acidose métabolique associée",
             "L'injection de glucagon pour stimuler la glycogénolyse hépatique d'urgence",
-            "L'injection de dexaméthasone pour stimuler la néoglucogenèse par induction enzymatique",
-            "L'administration per os de propylène glycol à raison de 60 mL 2 à 3 fois par jour"
+            "L'injection de dexaméthasone pour stimuler la néoglucogenèse hépatique",
+            "L'administration per os de propylène glycol à raison de 60 mL, 2 à 3 fois par jour"
           ],
           "correct": 3,
           "explanation": "L'apport per os de propylène glycol (60 mL, 2 à 3 fois par jour) est le traitement de première intention pour les cas initiaux où la vache mange encore. Le propylène glycol est un précurseur gluconéogénique qui augmente la disponibilité en glucose. En cas d'anorexie complète ou de décubitus, on passe aux perfusions de glucose 5-10 % et de bicarbonate, avec un pronostic alors beaucoup plus réservé."
@@ -359,10 +359,10 @@
         {
           "question": "Combien de régions neuroanatomiques sont évaluées lors de l'examen neurologique bovin et lesquelles ?",
           "options": [
-            "Six régions incluant les nœuds de la base et le cervelet en deux zones distinctes",
-            "Trois régions : cortex cérébral, cervelet et moelle épinière cervicale",
-            "Quatre régions : encéphale, cervelet, moelle cervicale et moelle lombaire",
-            "Cinq régions : cortex cérébral, cervelet, tronc cérébral/nerfs crâniens, vestibule, moelle épinière et nerfs périphériques"
+            "Six régions incluant les nœuds de la base et le cervelet en deux zones anatomiques",
+            "Trois régions : cortex cérébral, cervelet et moelle épinière cervicale uniquement",
+            "Quatre régions : encéphale, cervelet, moelle cervicale et moelle lombaire distinctement",
+            "Cinq régions : cortex, cervelet, tronc/nerfs crâniens, vestibule, moelle/nerfs périphériques"
           ],
           "correct": 3,
           "explanation": "L'examen neurologique bovine évalue 5 régions aux fonctions distinctes : cortex cérébral, cervelet, tronc cérébral et nerfs crâniens, système vestibulaire, moelle épinière et nerfs périphériques. Chaque région produit un pattern de signes cliniques caractéristique permettant la localisation lésionnelle avant le diagnostic étiologique."
@@ -370,10 +370,10 @@
         {
           "question": "La listériose bovine provoque une romboencéphalite. Quel pattern de signes cliniques en résulte ?",
           "options": [
-            "Une paralysie asymétrique de nerfs crâniens ipsilatéraux (NC V, VII, IX-XII) avec tendency à tourner en rond",
-            "Une ataxie cérébelleuse bilatérale avec tremblement intentionnel et hypermétrie",
-            "Une paralysie flasque des quatre membres avec arréflexie",
-            "Des convulsions généralisées tonicocloniques avec perte de connaissance"
+            "Paralysie asymétrique de nerfs crâniens homolatéraux avec tendance à tourner en rond",
+            "Ataxie cérébelleuse bilatérale avec tremblement intentionnel et hypermétrie",
+            "Paralysie flasque des quatre membres avec arréflexie et décubitus rapide",
+            "Convulsions généralisées tonicocloniques répétées avec perte de conscience"
           ],
           "correct": 0,
           "explanation": "La listériose à Listeria monocytogenes provoque une romboencéphalite avec prédilection unilatérale pour le tronc cérébral. Le tableau clinique classique associe : paralysie faciale (NC VII), dysphagie (NC IX-X-XII), ptôsis palpébral et perte du réflexe cornéen du même côté. L'animal tend à tourner vers le côté lésé. L'asymétrie unilatérale est caractéristique."
@@ -382,8 +382,8 @@
           "question": "La nécrose du cortex cérébral (polioencéphalomalacies) bovine résulte d'une carence fonctionnelle en quelle vitamine ?",
           "options": [
             "Vitamine B12 (cobalamination) par carence en cobalt dans les sols acides",
-            "Vitamine E (tocophérol) par consommation d'ensilages oxydés",
-            "Vitamine B1 (thiamine) par production de thiaminases dans le rumen lors d'acidose",
+            "Vitamine E (tocophérol) par consommation d'ensilages très oxydés",
+            "Vitamine B1 (thiamine) par production de thiaminases ruminales lors d'acidose",
             "Vitamine A (rétinol) par excès de caroténoïdes alimentaires compétitifs"
           ],
           "correct": 2,
@@ -392,10 +392,10 @@
         {
           "question": "Quelle est la différence physiopathologique entre le tétanos et le botulisme au niveau synaptique ?",
           "options": [
-            "La toxine tétanique produit une paralysie descendante ; la toxine botulique une rigidité ascendante",
-            "Le tétanos bloque les récepteurs nicotiniques de la jonction neuromusculaire ; le botulisme bloque les récepteurs muscariniques",
-            "Le tétanos agit uniquement sur le système nerveux central ; le botulisme agit uniquement en périphérie",
-            "La tétanospasmina bloque les neurotransmetteurs inhibiteurs (glycine, GABA) produisant une rigidité spastique ; la toxine botulique bloque la libération d'acétylcholine produisant une paralysie flasque"
+            "La toxine tétanique produit une paralysie flasque descendante ; la toxine botulique une rigidité spastique ascendante",
+            "Le tétanos bloque les récepteurs nicotiniques postsynaptiques ; le botulisme bloque les récepteurs muscariniques présynaptiques",
+            "Le tétanos agit uniquement sur le système nerveux central ; le botulisme agit exclusivement sur la jonction neuromusculaire périphérique",
+            "La tétanospasmina bloque les inhibiteurs spinaux (rigidité spastique) ; la toxine botulique bloque la libération d'acétylcholine (paralysie flasque)"
           ],
           "correct": 3,
           "explanation": "La tétanospasmina (C. tetani) bloque la libération des neurotransmetteurs inhibiteurs (glycine et GABA) dans les interneurones spinaux, produisant une rigidité spastique et des spasmes musculaires. La toxine botulique (C. botulinum) bloque la libération d'acétylcholine à la jonction neuromusculaire, produisant une paralysie flasque descendante. Cette différence physiopathologique explique les tableaux cliniques opposés."
@@ -404,8 +404,8 @@
           "question": "Quel type d'anomalie locomotoire oriente préférentiellement vers une lésion cérébelleuse chez le bovin ?",
           "options": [
             "Un déficit proprioceptif isolé sans anomalie de la démarche spontanée",
-            "Une inclinaison de la tête persistante avec nystagmus horizontal et chute vers un côté",
-            "Une ataxie avec tremor intentionnel, dysmétrie (hypermétrie) et base de sustentation élargie",
+            "Une inclinaison de tête persistante avec nystagmus horizontal et chute latérale",
+            "Une ataxie avec tremor intentionnel, hypermétrie et base de sustentation élargie",
             "Une parésie flasque avec arréflexie et atrophie musculaire rapide"
           ],
           "correct": 2,
@@ -416,7 +416,7 @@
           "options": [
             "Les génisses gestantes dans le dernier tiers de gestation en période estivale",
             "Les veaux sous la mère en stabulation hivernale avec foin pauvre en magnésium",
-            "Les vaches en lactation lors de la mise à l'herbe printanière sur prairies riches en potassium",
+            "Les vaches en lactation lors de la mise à l'herbe printanière sur prairies riches en K",
             "Les taureaux adultes pendant la période de forte activité sexuelle en été"
           ],
           "correct": 2,
@@ -425,10 +425,10 @@
         {
           "question": "Pour confirmer une hypomagnésiémie post-mortem, quel prélèvement est recommandé plutôt que le sang ?",
           "options": [
-            "Le contenu ruminal pour mesure du Mg ruminal résiduel",
-            "Le liquide céphalorachidien ou l'humeur vitrée, plus stables que le sang après la mort",
-            "Un fragment de foie pour dosage du Mg hépatique par spectrométrie",
-            "L'urine vésicale pour calcul de la magnésiurie post-mortem"
+            "Le contenu ruminal pour mesure du Mg résiduel dans le rumen post-mortem",
+            "Le liquide céphalorachidien ou l'humeur vitrée, plus stables que le sang post-mortem",
+            "Un fragment de foie pour dosage du magnésium hépatique par spectrométrie d'absorption",
+            "L'urine vésicale pour calcul de la magnésiurie dans les heures suivant la mort"
           ],
           "correct": 1,
           "explanation": "La magnésiémie sanguine se redistribue rapidement après la mort et est peu fiable. Le liquide céphalorachidien (LCR) et l'humeur vitrée sont beaucoup plus stables biochimiquement après la mort. Des valeurs de Mg dans le LCR < 0,2 mmol/L confirment l'hypomagnésiémie. L'humeur vitrée est également utilisée pour ce type de diagnostic rétrospectif."
@@ -436,10 +436,10 @@
         {
           "question": "Le botulisme bovin résulte le plus souvent de quel mécanisme ?",
           "options": [
-            "D'une transmission vectorielle par les tiques lors de repas sanguin sur bovins virémiques",
-            "D'une colonisation intestinale par C. botulinum avec production de toxine dans le tube digestif",
-            "D'une infection des plaies par C. botulinum avec production locale de toxine in situ",
-            "De l'ingestion de toxine botulique préformée dans des cadavres ou ensilages contaminés"
+            "Une transmission vectorielle par les tiques lors de repas sanguin estival",
+            "Une colonisation intestinale par C. botulinum avec production de toxine in situ",
+            "Une infection de plaies par C. botulinum avec production locale de toxine",
+            "L'ingestion de toxine botulique préformée dans des cadavres ou ensilages contaminés"
           ],
           "correct": 3,
           "explanation": "Le botulisme bovin résulte le plus souvent de l'ingestion de toxine botulique préformée présente dans des cadavres en décomposition ou des fourrages/ensilages contaminés. La toxine bloque la libération d'acétylcholine à la jonction neuromusculaire, produisant une paralysie flasque descendante commençant par une dysphagie avec langue flasque (« tongue test » positif), puis paralysie respiratoire terminale."
@@ -447,10 +447,10 @@
         {
           "question": "Comment différencier la nécrose du cortex cérébral (NCC) de la listériose face à un bovin présentant une cécité ?",
           "options": [
-            "Dans la NCC la cécité est bilatérale avec réflexes pupillaires conservés (cécité corticale) sans paralysie de nerfs crâniens ; dans la listériose les signes sont asymétriques avec paralysie de nerfs crâniens homolatéraux",
-            "Dans la NCC la cécité est unilatérale ; dans la listériose elle est bilatérale",
-            "La NCC produit une fièvre > 41 °C ; la listériose est toujours apyrétique",
-            "Dans la NCC l'animal est hyperexcité ; dans la listériose il est toujours prostré et en décubitus"
+            "NCC : cécité bilatérale corticale, réflexes pupillaires conservés, sans paralysie de nerfs crâniens",
+            "NCC : cécité unilatérale avec mydriase ; listériose : cécité bilatérale avec myosis",
+            "NCC : fièvre > 41 °C constante ; listériose : température toujours strictement normale",
+            "NCC : paralysie faciale asymétrique ; listériose : cécité corticale bilatérale sans déficit NC"
           ],
           "correct": 0,
           "explanation": "La distinction est essentielle car les traitements diffèrent : Dans la NCC, la cécité est bilatérale et corticale (les réflexes pupillaires directs et indirects sont conservés car la voie pupillaire est sous-corticale) sans déficit de nerfs crâniens — traitement urgent par thiamine IV. Dans la listériose, les signes sont asymétriques/unilatéraux avec paralysie de nerfs crâniens homolatéraux (NC VII, IX-XII) — traitement par pénicilline G IV haute dose."
@@ -458,10 +458,10 @@
         {
           "question": "Quelle est la fréquence cardiaque normale chez le bovin adulte et que signifie une tachycardie persistante > 100 bpm sans fièvre ?",
           "options": [
-            "60-80 bpm normal ; tachycardie persistante sans fièvre oriente vers une insuffisance cardiaque congestive, une douleur chronique sévère ou une anémie",
-            "80-100 bpm normal ; toute tachycardie sans fièvre est physiologique chez les vaches laitières hautes productrices",
-            "40-60 bpm normal ; tachycardie sans fièvre = hypocalcémie subclinique obligatoire",
-            "100-120 bpm normal au repos ; la tachycardie n'est pathologique qu'au-delà de 150 bpm"
+            "60-80 bpm normal ; tachycardie > 100 bpm sans fièvre oriente vers insuffisance cardiaque, douleur ou anémie",
+            "80-100 bpm normal ; toute tachycardie sans fièvre est physiologique chez les hautes productrices laitières",
+            "40-60 bpm normal ; toute tachycardie sans fièvre équivaut à une hypocalcémie subclinique systématique",
+            "100-120 bpm normal au repos ; la tachycardie n'est pathologique qu'au-delà de 150 bpm chez les bovins"
           ],
           "correct": 0,
           "explanation": "La fréquence cardiaque normale chez le bovin adulte est de 60-80 bpm. Une tachycardie persistante > 100 bpm sans fièvre oriente principalement vers : une insuffisance cardiaque congestive (PCE, endocardite avancée) avec bas débit, une douleur chronique sévère (RPT, péritonite), ou une anémie sévère (compensation par augmentation du débit cardiaque). L'examen cardiaque complet est indispensable."
@@ -476,10 +476,10 @@
         {
           "question": "Quelle proportion des boiteries bovines est attribuée aux affections podales, et quelle localisation prédomine chez l'adulte ?",
           "options": [
-            "Environ 90 % des boiteries ; parmi elles, 90 % concernent les onglons des membres postérieurs chez l'adulte",
-            "Environ 50 % des boiteries ; prédominance des onglons des membres antérieurs",
-            "Environ 70 % des boiteries ; répartition égale entre membres antérieurs et postérieurs",
-            "La totalité des boiteries chez les adultes sont d'origine podale sans exception"
+            "~90 % des boiteries sont podales ; parmi elles, 90 % concernent les onglons postérieurs",
+            "~50 % des boiteries sont podales ; prédominance des onglons des membres antérieurs",
+            "~70 % des boiteries sont podales ; répartition égale membres antérieurs et postérieurs",
+            "~100 % des boiteries bovines adultes sont podales, sans aucune exception connue"
           ],
           "correct": 0,
           "explanation": "Les affections podales sont responsables d'environ 90 % des boiteries bovines, et parmi celles-ci, 90 % intéressent les onglons des membres postérieurs chez les adultes. Les boiteries représentent la 3e-4e maladie bovine par fréquence et leur coût économique est estimé à 40 € par vache présente/an, avec des impacts sur la production laitière, la reproduction et le bien-être animal."
@@ -487,10 +487,10 @@
         {
           "question": "La dystrophie musculaire nutritionnelle (maladie du muscle blanc) résulte d'une carence en quels nutriments ?",
           "options": [
-            "Calcium et phosphore — avec minéralisation insuffisante des fibres musculaires striées",
-            "Vitamine E et/ou Sélénium — avec dégénérescence cireuse de Zenker de la fibre musculaire striée",
-            "Cuivre et cobalt — avec démyélinisation des nerfs intramusculaires et atrophie neurogène",
-            "Vitamine A et zinc — avec kératinisation anormale des cellules musculaires cardiaques"
+            "Calcium et phosphore — minéralisation insuffisante des fibres musculaires striées",
+            "Vitamine E et/ou Sélénium — dégénérescence cireuse de Zenker de la fibre musculaire striée",
+            "Cuivre et cobalt — démyélinisation des nerfs intramusculaires et atrophie neurogène",
+            "Vitamine A et zinc — kératinisation anormale des cellules musculaires cardiaques"
           ],
           "correct": 1,
           "explanation": "La dystrophie musculaire nutritionnelle résulte d'une carence en vitamine E et/ou sélénium. Ces deux antioxydants protègent les membranes musculaires contre les peroxydes lipidiques et les radicaux libres. La carence produit la dégénérescence cireuse de Zenker de la fibre musculaire striée. Elle touche principalement les jeunes ruminants (15 jours à 3 mois) dans les zones à sols carencés en sélénium (sols granitiques, volcaniques)."
@@ -498,9 +498,9 @@
         {
           "question": "Quelle est la forme clinique la plus dangereuse de la dystrophie musculaire nutritionnelle chez le veau ?",
           "options": [
-            "La forme nerveuse avec ataxie cérébelleuse et nystagmus",
-            "La forme cardio-respiratoire avec mort subite ou syndrome myopathie-dyspnée par atteinte du myocarde",
-            "La forme cutanée avec hyperkératose généralisée et alopécie",
+            "La forme nerveuse avec ataxie cérébelleuse et nystagmus rotatoire persistant",
+            "La forme cardio-respiratoire : mort subite ou syndrome myopathie-dyspnée",
+            "La forme cutanée avec hyperkératose généralisée et alopécie extensive",
             "La forme locomotrice avec rigidité des membres postérieurs au lever"
           ],
           "correct": 1,
@@ -509,10 +509,10 @@
         {
           "question": "Dans la fourbure (laminite) bovine, quel est le mécanisme physiopathologique principal lié à l'alimentation ?",
           "options": [
-            "Une carence en biotine qui altère la qualité de la kératine produite par la ligne blanche du sabot",
-            "Une intoxication par les ergots de seigle qui provoque une vasoconstriction sévère du pied",
-            "Une surcharge pondérale qui comprime mécaniquement le tissu lamellaire sensitif",
-            "Une acidose ruminale subaigu chronique qui génère une vasodilatation et microthrombiose dans la microcirculation du coussinet digital"
+            "Une carence en biotine qui altère la qualité de la kératine de la ligne blanche du sabot",
+            "Une intoxication par les ergots de seigle provoquant une vasoconstriction sévère du pied",
+            "Une surcharge pondérale comprimant mécaniquement le tissu lamellaire sensitif du sabot",
+            "Une acidose ruminale subaiguë chronique générant microthrombioses dans le coussinet digital"
           ],
           "correct": 3,
           "explanation": "La fourbure bovine a une pathogénie multifactorielle mais l'acidose ruminale subaigu chronique est le principal déclencheur : les toxines bactériennes (endotoxines gram-) et l'histamine produits dans le rumen acide génèrent une vasodilatation et microthrombiose dans la microcirculation du coussinet digital, provoquant un œdème et une inflammation de la lame sensible. La carence en biotine et en zinc sont des facteurs coadjuvants."
@@ -520,10 +520,10 @@
         {
           "question": "Le panaris interdigité (phlegmon) se distingue du piétin bénin par quel critère de gravité et de traitement ?",
           "options": [
-            "Le panaris se traite uniquement avec un pédiluve de sulfate de zinc ; le piétin nécessite une antibiothérapie systémique",
-            "Le panaris ne touche que les membres postérieurs ; le piétin ne touche que les membres antérieurs",
-            "Le panaris (Fusobacterium necrophorum, Trueperella pyogenes) est une infection profonde très douloureuse nécessitant impérativement une antibiothérapie systémique",
-            "Le panaris est causé par Dichelobacter nodosus ; le piétin par Fusobacterium necrophorum uniquement"
+            "Le panaris se traite uniquement avec un pédiluve de sulfate de zinc sans antibiotiques",
+            "Le panaris ne touche que les membres postérieurs ; le piétin que les membres antérieurs",
+            "Le panaris est une infection profonde très douloureuse nécessitant une antibiothérapie systémique",
+            "Le panaris est causé par Dichelobacter nodosus ; le piétin par Fusobacterium necrophorum"
           ],
           "correct": 2,
           "explanation": "Le panaris interdigité est causé par Fusobacterium necrophorum et Trueperella pyogenes, produisant une infection profonde très douloureuse (sévérité ++++) touchant le talon et la paroi. Contrairement au piétin bénin qui peut répondre à un pédiluve seul, le panaris requiert impérativement une antibiothérapie systémique (pénicilline G, ampicilline, tétracyclines). Il touche préférentiellement les adultes, généralement un seul membre."
@@ -532,8 +532,8 @@
           "question": "La parésie du nerf obturateur chez la vache après le part se manifeste cliniquement par quel tableau ?",
           "options": [
             "Une déviation latérale de la tête avec nystagmus et syndrome vestibulaire",
-            "Une tétraplégie spastique avec opisthotonus et trismus après velage difficile",
-            "Une incapacité à adducter les membres postérieurs avec ouverture « en compas » et décubitus",
+            "Une tétraplégie spastique avec opisthotonus et trismus après vêlage difficile",
+            "Une incapacité à adducter les membres postérieurs, ouverture « en compas » et décubitus",
             "Une paralysie flasque des membres antérieurs avec chute vers l'avant"
           ],
           "correct": 2,
@@ -542,10 +542,10 @@
         {
           "question": "Quelle est la différence entre une boiterie d'appui et une boiterie de soutien ?",
           "options": [
-            "La boiterie d'appui n'affecte que le trot ; la boiterie de soutien ne s'observe qu'au pas",
-            "La boiterie d'appui correspond à un raccourcissement de la phase d'appui (lésions douloureuses distales) ; la boiterie de soutien à un raccourcissement de la phase de lever du membre",
-            "La boiterie d'appui est indolore ; la boiterie de soutien s'accompagne toujours d'une forte douleur",
-            "La boiterie d'appui est toujours d'origine infectieuse ; la boiterie de soutien d'origine traumatique"
+            "La boiterie d'appui ne s'observe qu'au trot ; la boiterie de soutien ne s'observe qu'au pas et à la station",
+            "Boiterie d'appui : raccourcissement de la phase d'appui (lésions distales) ; de soutien : raccourcissement de la phase de lever",
+            "La boiterie d'appui est toujours indolore ; la boiterie de soutien s'accompagne toujours d'une forte douleur articulaire",
+            "La boiterie d'appui est toujours d'origine infectieuse ; la boiterie de soutien est toujours d'origine traumatique pure"
           ],
           "correct": 1,
           "explanation": "La boiterie d'appui se caractérise par un raccourcissement de la phase d'appui : l'animal réduit le contact douloureux de la pezuña avec le sol (lésions très douloureuses, typiquement distales). La boiterie de soutien résulte du raccourcissement de la phase de lever pour limiter l'extension ou la flexion du segment atteint, produisant des adductions ou abductions anormales et un appui préférentiel."
@@ -553,10 +553,10 @@
         {
           "question": "Le Sélénium intervient comme composant de quelle enzyme clé dans la protection des membranes musculaires ?",
           "options": [
-            "La catalase, qui dégrade le peroxyde d'hydrogène en eau et oxygène",
-            "La superoxyde dismutase (SOD), enzyme cytoplasmique antioxydante",
-            "La cytochrome c oxydase, qui couple la chaîne respiratoire à la synthèse d'ATP",
-            "La glutathion peroxydase, qui catalyse la réduction des peroxydes en protégeant les membranes"
+            "La catalase, qui dégrade le peroxyde d'hydrogène en eau et en oxygène moléculaire",
+            "La superoxyde dismutase (SOD), enzyme cytoplasmique antioxydante protégeant les mitochondries",
+            "La cytochrome c oxydase, qui couple la chaîne respiratoire à la synthèse d'ATP membranaire",
+            "La glutathion peroxydase, qui catalyse la réduction des peroxydes lipidiques membranaires"
           ],
           "correct": 3,
           "explanation": "Le sélénium est un composant structural essentiel de la glutathion peroxydase (GPx), enzyme qui catalyse l'oxydation du glutathion et la réduction des peroxydes lipidiques, protégeant ainsi les membranes cellulaires (mitochondries, lysosomes). Son mode d'action est complémentaire de celui de la vitamine E. Le dosage de l'activité GPx est le principal test diagnostique de la carence en sélénium."
@@ -565,9 +565,9 @@
           "question": "Dans l'ataxie enzootique du veau par déficit en cuivre, quelle lésion histologique explique les signes cliniques ?",
           "options": [
             "Une inflammation granulomateuse de la muqueuse intestinale bloquant l'absorption",
-            "Une nécrose centrolobulaire hépatique avec libération de cuivre hépatique",
-            "Une démyélinisation et dégénérescence neuronale dans le tronc cérébral et la moelle épinière",
-            "Une dégénérescence cireuse de Zenker des fibres musculaires des membres postérieurs"
+            "Une nécrose hépatique centrolobulaire avec libération de cuivre hépatique toxique",
+            "Une dégénérescence cireuse de Zenker des fibres musculaires des membres postérieurs",
+            "Une démyélinisation et dégénérescence neuronale dans le tronc cérébral et la moelle"
           ],
           "correct": 2,
           "explanation": "L'ataxie enzootique (swayback) est due à une carence en cuivre pendant la gestation. Le cuivre est indispensable à la synthèse de la cytochrome c oxydase nécessaire à la myélinisation. La carence produit une démyélinisation et dégénérescence neuronale dans le tronc cérébral et la moelle épinière. L'histologie du tronc cérébral ou de la moelle épinière confirme la démyélinisation caractéristique."
@@ -575,10 +575,10 @@
         {
           "question": "Quelle est l'indication et la limite de l'aimant magnétique (bolus) utilisé en prophylaxie de la RPT chez les bovins ?",
           "options": [
-            "Il retient tous les corps étrangers ingérés, qu'ils soient métalliques ou non",
-            "Il retient magnétiquement les corps étrangers ferromagnétiques dans le réseau, mais ne prévient pas la migration des CE déjà sortis du réseau ni ceux non ferromagnétiques",
-            "Il est uniquement efficace chez les bovins de moins de 2 ans avant la calcification du réseau",
-            "Il traite la RPT constituée en attirant le CE vers le réseau depuis sa position de migration"
+            "Il retient seulement les CE ferromagnétiques ; inefficace si CE non métallique ou déjà migré",
+            "Il doit être remplacé tous les 6 mois en raison de la perte progressive de magnétisme",
+            "Il se déplace vers les poumons lors du décubitus dans 10-15 % des cas",
+            "Il provoque une anémie ferriprive par captation du fer alimentaire dans le réseau"
           ],
           "correct": 1,
           "explanation": "L'aimant magnétique (bolus de ~200 g logé définitivement dans le réseau) retient magnétiquement les corps étrangers ferromagnétiques (fils de fer, aiguilles, clous) pour éviter qu'ils perforent la paroi réticulaire. Ses limites : il ne retient que les CE ferromagnétiques (pas le plastique, l'aluminium) ; il est inefficace si le CE a déjà migré hors du réseau ; et il peut se saturer en cas de nombreux CE. La traçabilité de sa pose est importante."
@@ -593,9 +593,9 @@
         {
           "question": "La péricardite traumatique se manifeste typiquement par une triade clinique. Quelle est-elle ?",
           "options": [
-            "Turgescence jugulaire bilatérale + bruit de moulin à l'auscultation cardiaque + matité de percussion ventrale thoracique",
+            "Turgescence jugulaire + bruit de moulin auscultatoire + matité percutoire thoracique ventrale",
             "Douleur abdominale antérieure + météorisation gazeuse + arrêt de la rumination",
-            "Fièvre > 41 °C + diarrhée hémorragique + effondrement de la production laitière en 24 h",
+            "Fièvre > 41 °C + diarrhée hémorragique + effondrement de la production laitière",
             "Polypnée + tachycardie > 120 bpm + muqueuses cyanotiques avec souffle systolique gauche"
           ],
           "correct": 0,
@@ -604,10 +604,10 @@
         {
           "question": "Quelle est la différence entre la cystite simple et la pyélonéphrite bovine sur le plan clinique ?",
           "options": [
-            "La cystite entraîne des troubles mictionnels sans signes généraux ; la pyélonéphrite ajoute une fièvre, un état général altéré et des uretères hypertrophiés palpables par voie transrectale",
-            "La cystite n'affecte que les mâles ; la pyélonéphrite n'affecte que les femelles",
-            "La cystite produit toujours de l'hémoglobinurie ; la pyélonéphrite de l'hématurie macroscopique uniquement",
-            "La cystite est causée par Corynebacterium renale ; la pyélonéphrite par Moraxella bovis"
+            "Cystite : troubles mictionnels sans signes généraux ; pyélonéphrite : fièvre, état altéré, uretères hypertrophiés",
+            "Cystite : hémoglobinurie brunâtre sans troubles mictionnels ; pyélonéphrite : hématurie macroscopique",
+            "Cystite : affecte exclusivement les mâles ; pyélonéphrite : affecte exclusivement les femelles",
+            "Cystite : causée par Corynebacterium renale avec toxine uroépithéliale ; pyélonéphrite : causée par Moraxella bovis"
           ],
           "correct": 0,
           "explanation": "La cystite produit des troubles mictionnels (pollakiurie, dysurie, strangurie) et des modifications de l'urine (pyurie, hématurie) sans altération significative de l'état général ni fièvre. La pyélonéphrite ajoute : fièvre modérée, anorexie, dégradation de l'état général, douleur en région rénale et urétères hypertrophiés et bosselés palpables par voie transrectale. Le dosage de l'urée sanguine guide le pronostic."
@@ -615,10 +615,10 @@
         {
           "question": "Pourquoi le bovin est-il particulièrement prédisposé à ingérer des corps étrangers métalliques à l'origine de la RPT ?",
           "options": [
-            "Son pH ruminal très acide dissout les revêtements protecteurs des corps étrangers les rendant acérés",
-            "Son réseau possède une structure alvéolaire unique qui attire et retient activement les métaux",
+            "Son pH ruminal très acide dissout les revêtements protecteurs des corps étrangers",
+            "Son réseau possède une structure alvéolaire qui attire et retient activement les métaux",
             "Son cardia n'a pas de sphincter fonctionnel permettant le passage facile des CE vers le réseau",
-            "Sa préhension alimentaire non sélective (langue, faible mastication initiale) l'amène à ingérer facilement des CE contrairement aux petits ruminants plus sélectifs"
+            "Sa préhension alimentaire non sélective (langue, faible mastication) facilite l'ingestion de CE"
           ],
           "correct": 3,
           "explanation": "Les bovins ingèrent facilement des corps étrangers par leur mode de préhension non sélectif : ils utilisent la langue pour enrouler et arracher la végétation en masse avec une mastication initiale très réduite. Contrairement aux petits ruminants et aux chevaux qui sont très sélectifs, les bovins ingèrent les CE présents dans leur alimentation. Facteurs aggravants : pica, prairies remembrées avec débris de clôtures, ensileuses déréglées."
@@ -626,7 +626,7 @@
         {
           "question": "Le signe du garrot est un test de douleur réticulaire. Quel est le protocole correct et comment s'interprète-il ?",
           "options": [
-            "On pince un pli de peau au garrot et on observe : positif si l'animal se met en lordose ET se plaint ou se défend",
+            "On pince un pli de peau au garrot : positif si lordose ET plainte ou défense de l'animal",
             "On percute le garrot avec un marteau et on ausculte à distance ; positif si l'animal mugit",
             "On soulève la queue de la vache brusquement ; positif si l'animal adopte une posture voûtée",
             "On applique une pression sous-sternale avec le poing ; positif si l'animal recule immédiatement"
@@ -638,9 +638,9 @@
           "question": "Quelle est la principale complication de la RPT qui peut évoluer sans signes cliniques préalables évidents ?",
           "options": [
             "La stéatose hépatique par mobilisation lipidique secondaire à l'anorexie prolongée",
-            "La mésentérite adhésive causant un syndrome vagal chronique",
+            "La mésentérite adhésive causant un syndrome vagal avec météorisation chronique",
             "La péricardite traumatique (PCE), quand le CE migre rapidement directement vers le péricarde",
-            "La pyélonéphrite ascendante par contiguïté anatomique"
+            "La pyélonéphrite ascendante par contiguïté anatomique avec le réseau infecté"
           ],
           "correct": 2,
           "explanation": "La PCE est la complication majeure de la RPT mais elle peut évoluer sans manifestations cliniques préalables de RPT lorsque le CE est très court, très acéré et à migration rapide. La proximité anatomique entre le réseau et le sac péricardique (séparés seulement par le diaphragme en position médiane) explique cette évolution directe. Actuellement, les PCE sont moins fréquentes grâce au traitement systématique des RPT."
@@ -648,8 +648,8 @@
         {
           "question": "Comment l'alcalose métabolique hypochlorémique apparaît-elle lors d'un déplacement de caillette ?",
           "options": [
-            "Le rumen produit du bicarbonate en excès lors des fermentations alcalines accompagnant le déplacement",
-            "La caillette déplacée accumule l'HCl qu'elle sécrète normalement sans pouvoir l'évacuer vers le duodénum, séquestrant le chlore plasmatique",
+            "Le rumen produit du bicarbonate en excès lors des fermentations alcalines du déplacement",
+            "La caillette déplacée accumule l'HCl sécrété sans pouvoir l'évacuer vers le duodénum",
             "L'activation du système rénine-angiotensine-aldostérone provoque une rétention de bicarbonate",
             "L'anorexie provoque une alcalose de jeûne par consommation des réserves acides musculaires"
           ],
@@ -659,10 +659,10 @@
         {
           "question": "Dans le cadre du complexe BVD/MD, comment définit-on un animal IPI (Infecté Persistant Immunotolérant) ?",
           "options": [
-            "Un animal contaminé in utero entre J30-J125 par une souche NCP, qui ne reconnaît pas le virus comme étranger et l'excrète de façon permanente à charges virales très élevées",
-            "Un animal vacciné ayant subi une primo-infection ultérieure sans développer de maladie clinique",
-            "Un animal porteur asymptomatique d'un BVDV latent qui peut se réactiver lors d'un stress immunologique",
-            "Un animal adulte réinfecté plusieurs fois par le BVDV ayant développé une tolérance immunitaire progressive"
+            "Animal contaminé in utero entre J30-J125 par souche NCP, immunotolérant, excréteur permanent",
+            "Animal vacciné ayant subi une primo-infection ultérieure sans développer de maladie clinique",
+            "Animal porteur asymptomatique d'un BVDV latent réactivable lors d'un stress immunologique",
+            "Animal adulte réinfecté plusieurs fois par le BVDV avec tolérance immunitaire progressive"
           ],
           "correct": 0,
           "explanation": "L'IPI résulte d'une infection fœtale in utero entre J30-J125 (période d'acquisition de l'immunocompétence) par une souche NCP (non cytopathogène). Le système immunitaire en développement ne reconnaît pas le virus comme étranger : l'animal naît immunotolérant au BVDV, l'excrète en permanence à des charges virales très élevées (10⁵-10⁶ TCID50/mL de sang) et constitue la principale source de contamination dans les troupeaux."
@@ -670,10 +670,10 @@
         {
           "question": "La météorisation mousseuse diffère de la météorisation gazeuse par sa cause et son traitement. Quelle en est la différence essentielle ?",
           "options": [
-            "Dans la météorisation gazeuse le sondage œsophagien est contre-indiqué ; dans la mousseuse il est impératif",
-            "Dans la météorisation gazeuse le gaz est libre et se libère par sondage œsophagien ; dans la mousseuse le gaz est emprisonné dans une écume stable que la sonde ne peut évacuer",
-            "La météorisation mousseuse est toujours mortelle en moins d'une heure ; la gazeuse est bénigne",
-            "La météorisation gazeuse touche uniquement les bovins en stabulation ; la mousseuse uniquement les bovins au pâturage"
+            "Dans la météorisation gazeuse le sondage est contre-indiqué ; dans la mousseuse il est indispensable pour drainer le gaz",
+            "Dans la météorisation gazeuse le gaz est libre (libéré par sondage) ; dans la mousseuse il est piégé dans une écume stable que la sonde ne peut drainer",
+            "La météorisation mousseuse est toujours mortelle en moins d'une heure ; la météorisation gazeuse est toujours bénigne et résolutive",
+            "La météorisation gazeuse touche exclusivement les bovins en stabulation ; la météorisation mousseuse ceux au pâturage uniquement"
           ],
           "correct": 1,
           "explanation": "La météorisation gazeuse (gaz libre dans le rumen, par obstruction de l'éructation) : le sondage œsophagien libère immédiatement le gaz avec soulagement spectaculaire. La météorisation mousseuse (gaz emprisonné dans une écume stable formée par des protéines solubles des légumineuses) : la sonde ne peut drainer le gaz. Le traitement requiert des agents antimoussants (diméthylpolisiloxane, huile végétale, poloxalène) et parfois une ruminocentèse."
@@ -681,10 +681,10 @@
         {
           "question": "Dans le diagnostic de la paratuberculose bovine, pourquoi aucune technique ne permet-elle un dépistage précoce fiable en phase subclinique ?",
           "options": [
-            "Parce que les bovins éliminent totalement l'infection dans les 6 premiers mois de vie, rendant le dépistage précoce inutile",
-            "Parce que Map mute régulièrement ses antigènes de surface, rendant les tests sérologiques inefficaces",
-            "Parce que Map est uniquement intracellulaire strict et ne peut être mis en évidence que par PCR intramusculaire",
-            "Parce que l'excrétion fécale de Map et la séroconversion ne s'établissent que des mois à des années après l'infection initiale, restant indétectables en phase subclinique précoce"
+            "Les bovins éliminent totalement l'infection dans les 6 premiers mois de vie",
+            "Map mute régulièrement ses antigènes de surface, rendant les tests sérologiques inefficaces",
+            "Map est uniquement intracellulaire strict et ne peut être mis en évidence que par PCR",
+            "L'excrétion de Map et la séroconversion ne s'établissent que des mois à des années après l'infection"
           ],
           "correct": 3,
           "explanation": "L'excrétion fécale de Map débute 12-18 mois avant l'apparition des signes cliniques, et la séroconversion est encore plus tardive. En phase précoce, les animaux infectés sont indétectables par les techniques disponibles (culture fécale, PCR, ELISA). L'image de l'iceberg résume bien cette réalité : la majorité des animaux infectés sont « sous la surface ». C'est pourquoi la prévention de l'infection des jeunes est prioritaire sur le dépistage."
@@ -692,10 +692,10 @@
         {
           "question": "Le volvulus de caillette (DCD avec torsion) est une urgence chirurgicale. Pourquoi le pronostic est-il si grave sans intervention rapide ?",
           "options": [
-            "Parce que l'alcalose hypochlorémique devient irréversible après 6 heures d'évolution",
-            "Parce que le stress du volvulus déclenche invariablement une hypocalcémie sévère terminale",
-            "Parce que la dilatation gazeuse de la caillette peut provoquer une rupture spontanée en quelques heures",
-            "Parce que la torsion du pédicule vasculaire produit une ischémie et une nécrose rapide de la paroi de la caillette, évoluant vers la péritonite septique et le choc endotoxique"
+            "L'alcalose hypochlorémique devient irréversible après seulement 6 heures d'évolution sans correction IV",
+            "Le stress du volvulus déclenche invariablement une hypocalcémie sévère et terminale chez la vache",
+            "La dilatation gazeuse de la caillette peut provoquer une rupture spontanée en quelques heures",
+            "La torsion du pédicule vasculaire entraîne une nécrose pariétale rapide avec péritonite septique et choc endotoxique"
           ],
           "correct": 3,
           "explanation": "La torsion du pédicule vasculaire de la caillette produit une ischémie artérielle et veineuse de la paroi : en quelques heures se développe une nécrose ischémique avec libération d'endotoxines bactériennes, perforation éventuelle et péritonite septique avec choc endotoxique. Sans laparotomie exploratrice en urgence, la mortalité dépasse 80-90 %. La viabilité de la paroi de la caillette évaluée en per-opératoire détermine si une résection est nécessaire."
@@ -704,8 +704,8 @@
           "question": "Quelle est la sensibilité de la sérologie ELISA pour le dépistage de la paratuberculose bovine et comment s'interprète une sérologie négative ?",
           "options": [
             "Sensibilité de 80 % ; valide uniquement pour les animaux de moins de 3 ans",
-            "Sensibilité nulle avant 5 ans ; utilisable uniquement chez les animaux cliniquement malades",
-            "Sensibilité de 50 % environ par rapport à la culture fécale de référence ; une sérologie négative n'exclut pas l'infection (les animaux en phase subclinique ou précoce sont séronégatifs)",
+            "Sensibilité nulle avant 5 ans ; utilisable seulement chez les animaux cliniquement malades",
+            "Sensibilité de ~50 % ; une sérologie négative n'exclut pas l'infection en phase subclinique",
             "Sensibilité de 95 % ; une sérologie négative garantit que l'animal n'est pas infecté"
           ],
           "correct": 2,
@@ -714,10 +714,10 @@
         {
           "question": "Quel mécanisme explique l'immunosuppression induite par le BVDV chez les bovins infectés transitoires (IT) ?",
           "options": [
-            "Le virus produit une toxine directement lytique pour les lymphocytes T auxiliaires CD4+",
-            "Le BVDV bloque spécifiquement la production d'interféron gamma par les cellules NK",
-            "Le BVDV se multiplie dans les leucocytes (lymphocytes, monocytes) et plaquettes, provoquant leucopénie, neutropénie et altération fonctionnelle des cellules immunitaires restantes",
-            "Le BVDV induit une réponse auto-immune contre les antigènes de surface des neutrophiles"
+            "Le virus produit une toxine directement lytique pour les lymphocytes T auxiliaires CD4+ circulants",
+            "Le BVDV bloque spécifiquement la production d'interféron gamma par les cellules NK spléniques",
+            "Le BVDV se multiplie dans leucocytes et plaquettes, causant leucopénie et altération des phagocytes restants",
+            "Le BVDV induit une réponse auto-immune contre les antigènes de surface des neutrophiles bovins"
           ],
           "correct": 2,
           "explanation": "Le BVDV exerce un effet immunosuppresseur en se multipliant directement dans les leucocytes (lymphocytes, monocytes, granulocytes) et les plaquettes sanguines, produisant une leucopénie (lymphopénie et neutropénie), une thrombocytopénie et une altération fonctionnelle des phagocytes restants. Cette fenêtre d'immunosuppression (durant la virémie, ~10 jours) favorise les infections secondaires par Mannheimia haemolytica, Pasteurella multocida et autres pathogènes du complexe respiratoire bovin."
@@ -725,9 +725,9 @@
         {
           "question": "Dans la salmonellose bovine adulte en Europe, quels sérotypes sont les plus impliqués et quelle est leur importance en santé publique ?",
           "options": [
-            "Salmonella Typhimurium et Dublin — zoonoses transmissibles à l'homme, les cepas DT104 de Typhimurium sont pentarésistantes aux antibiotiques",
+            "Salmonella Typhimurium et Dublin — zoonoses, DT104 pentarésistante aux antibiotiques",
             "Salmonella Kentucky et Infantis — sérotypes bovins spécifiques sans impact zoonotique connu",
-            "Salmonella Enteritidis et Heidelberg — contamination exclusivement de la viande, sans signes cliniques chez les bovins",
+            "Salmonella Enteritidis et Heidelberg — contamination de la viande, sans signes cliniques bovins",
             "Salmonella Abortusovis et Newport — responsables d'avortements enzootiques sans signes digestifs"
           ],
           "correct": 0,
@@ -736,10 +736,10 @@
         {
           "question": "Quelle est la différence fondamentale entre la météorisation gazeuse et l'obstruction œsophagienne lors de l'utilisation du sondage œsophagien ?",
           "options": [
-            "Dans la météorisation gazeuse la sonde passe mais ne libère pas de gaz ; dans l'obstruction la sonde libère du gaz avant de buter",
-            "Dans la météorisation gazeuse la sonde libère le gaz spontanément et immédiatement ; dans l'obstruction œsophagienne la sonde bute sur l'obstacle et ne peut pas progresser davantage",
-            "Dans les deux cas la sonde passe librement ; la différence est dans la couleur des gaz libérés",
-            "Le sondage œsophagien est contre-indiqué dans les deux situations"
+            "Dans la météorisation gazeuse la sonde passe mais ne libère pas de gaz ; dans l'obstruction elle libère le gaz",
+            "Dans la météorisation gazeuse la sonde passe librement et libère le gaz ; dans l'obstruction elle bute sur le corps étranger",
+            "Dans les deux cas la sonde libère le gaz immédiatement ; la différence est dans la couleur des gaz émis",
+            "Le sondage œsophagien est formellement contre-indiqué dans les deux situations cliniques chez les bovins"
           ],
           "correct": 1,
           "explanation": "C'est le test diagnostique différentiel le plus simple : en météorisation gazeuse (éructation bloquée sans obstruction œsophagienne), la sonde passe librement jusqu'au rumen et le gaz se libère immédiatement avec soulagement visible de l'animal. En cas d'obstruction œsophagienne (pomme, betterave, pomme de terre dans l'œsophage cervical), la sonde bute sur l'obstacle et ne peut pas progresser davantage. Le CE peut souvent être palpé dans le sillon jugulaire gauche."
@@ -747,9 +747,9 @@
         {
           "question": "Quel est le rôle des IPI dans la persistance du BVDV dans un troupeau et quel est leur devenir ?",
           "options": [
-            "Les IPI deviennent immunocompétents à l'âge de 6 mois et cessent d'excréter le virus",
-            "Les IPI sont dangereux uniquement pendant la période d'allaitement ; après sevrage leur excrétion cesse",
-            "Les IPI sont les principales sources de contamination, excrétant le virus en permanence ; 60 % environ développent la maladie des muqueuses chaque année et meurent, mais les survivants peuvent se reproduire et générer de nouveaux IPI",
+            "Les IPI deviennent immunocompétents à 6 mois et cessent d'excréter le virus",
+            "Les IPI sont dangereux uniquement pendant l'allaitement ; après sevrage leur excrétion cesse",
+            "Les IPI excrètent le virus en permanence ; ~60 % développent la MD chaque année et meurent",
             "Les IPI ne jouent qu'un rôle marginal car leur durée de vie est inférieure à 3 mois"
           ],
           "correct": 2,
@@ -758,9 +758,9 @@
         {
           "question": "Lors du déplacement de caillette à gauche (DCG), quel son auscultatoire caractéristique permet le diagnostic ?",
           "options": [
-            "Un ping (son métallique clair à la percussion-auscultation simultanée) dans le flanc gauche médian entre les 9e et 12e espaces intercostaux",
-            "Un silence auscultatoire total dans le flanc gauche par interposition de la caillette entre le rumen et la paroi",
-            "Un ping (son métallique clair à la percussion-auscultation simultanée) dans le flanc droit médian",
+            "Un ping dans le flanc gauche médian entre les 9e et 12e espaces intercostaux",
+            "Un silence auscultatoire total dans le flanc gauche par interposition de la caillette",
+            "Un ping dans le flanc droit médian à la percussion-auscultation simultanée",
             "Un bruit de gargouillement constant dans le flanc gauche dorsal lors de la déambulation"
           ],
           "correct": 0,
@@ -769,10 +769,10 @@
         {
           "question": "Quelle est la mesure préventive la plus efficace pour éviter l'introduction du BVDV dans un troupeau indemne ?",
           "options": [
-            "Administrer un antibiothérapie préventive à tous les bovins achetés pendant 10 jours à l'arrivée",
-            "Tester tous les animaux introduits pour le statut IPI (PCR ou Ag-ELISA sur punch d'oreille ou sang) avant leur entrée dans le troupeau, combiné à une quarantaine",
+            "Administrer une antibiothérapie préventive à tous les bovins achetés pendant 10 jours",
+            "Tester tous les animaux achetés pour le statut IPI (PCR ou Ag-ELISA sur punch d'oreille)",
             "Vacciner tous les bovins du troupeau deux fois par an sans contrôle des introductions",
-            "Désinfecter systématiquement tous les locaux d'élevage et les pâtures à l'entrée de chaque saison"
+            "Désinfecter tous les locaux d'élevage et les pâtures à l'entrée de chaque saison"
           ],
           "correct": 1,
           "explanation": "L'introduction d'un IPI est le principal vecteur d'introduction du BVDV dans un troupeau indemne. La sérologie (Ac-ELISA) ne détecte pas directement les IPI (ils peuvent être séropositifs par anticorps colostraux). Le test de choix est la détection directe d'antigène viral : PCR ou Ag-ELISA sur punch d'oreille (peau très riche en virus chez les IPI). Ce dépistage obligatoire de tout animal acheté, combiné à une quarantaine de 30 jours, est la mesure préventive la plus efficace."
@@ -787,9 +787,9 @@
         {
           "question": "La zone de Liess est utilisée pour l'exploration du réseau bovin. Comment est-elle délimitée ?",
           "options": [
-            "Quadrilatère délimité par l'ombilic, le processus xiphoïde, la pointe du coude et l'intersection de l'horizontale du garrot avec la 13e côte, sur le flanc gauche",
-            "Zone de percussion cardiaque entre le 3e et 6e espace intercostal gauche, au-dessus de la ligne des coudes",
-            "Triangle de la faim dans la fosse du flanc gauche, entre la tubérosité coxale, la dernière côte et les apophyses lombaires",
+            "Quadrilatère : ombilic, processus xiphoïde, pointe du coude et intersection horizontale du garrot / 13e côte",
+            "Zone de percussion cardiaque entre le 3e et 6e EIC gauche, au-dessus de la ligne des coudes",
+            "Triangle de la faim dans la fosse du flanc gauche entre tubérosité coxale et apophyses lombaires",
             "Région hypochondrale droite entre la 8e et 12e côte pour l'exploration du lobe hépatique droit"
           ],
           "correct": 0,
@@ -800,8 +800,8 @@
           "options": [
             "20-25 contractions par 5 minutes ; évaluation par la succussion abdominale bimanuelle",
             "15-20 contractions par 5 minutes ; évaluation uniquement par ruminocentèse avec mesure du pH",
-            "2-4 contractions par 5 minutes ; évaluation par percussion sur le flanc droit",
-            "7-9 contractions par 5 minutes ; évaluation par palpation du flanc gauche ou auscultation pendant 5 minutes"
+            "2-4 contractions par 5 minutes ; évaluation par percussion sur le flanc droit de l'animal",
+            "7-9 contractions par 5 minutes ; évaluation par palpation ou auscultation du flanc gauche"
           ],
           "correct": 3,
           "explanation": "La fréquence ruminale normale est de 7-9 contractions en 5 minutes (environ 1-2/min). Elle s'évalue par palpation du flanc gauche (les contractions du sac dorsal du rumen sont palpables avec le plat de la main) ou par auscultation pendant 5 minutes. Une hypomotilité (< 5/5 min) ou une atonie ruminale indiquent une indigestion, une acidose, une maladie systémique ou un syndrome vagal."
@@ -809,9 +809,9 @@
         {
           "question": "Lors de l'examen de l'urine bovine, comment distingue-t-on l'hémoglobinurie de la protéinurie par les bandelettes réactives ?",
           "options": [
-            "Les deux plages sont parfaitement spécifiques chez les bovins sans besoin de confirmation",
-            "La plage protéines donne de fréquents faux positifs chez les bovins (urine physiologiquement alcaline) ; le test de Heller en complément est indispensable",
-            "Les bandelettes réactives ne sont pas utilisables chez les bovins en raison du pH trop acide de l'urine",
+            "Les deux plages sont parfaitement spécifiques chez les bovins sans besoin de confirmation par un test complémentaire",
+            "La plage protéines donne de fréquents faux positifs (urine bovine alcaline, pH 7-8) ; le test de Heller est indispensable",
+            "Les bandelettes réactives sont inutilisables chez les bovins en raison du pH trop acide de leur urine physiologique",
             "La plage protéines est toujours fiable chez les bovins ; la plage hémoglobine donne souvent des faux négatifs"
           ],
           "correct": 1,
@@ -821,8 +821,8 @@
           "question": "Quel est le volume normal du rumen bovin et quelle est son extension anatomique ?",
           "options": [
             "300-400 litres, s'étendant de la paroi costale gauche jusqu'au flanc droit",
-            "20-30 litres seulement chez le bovin adulte, l'essentiel du volume abdominal étant occupé par le feuillet",
-            "150-200 litres, occupant les 3/4 de la cavité abdominale avec projection sur la totalité du flanc gauche et la quasi-totalité de la paroi costale gauche",
+            "20-30 litres seulement chez le bovin adulte, le volume abdominal étant occupé par le feuillet",
+            "150-200 litres, occupant les 3/4 de la cavité abdominale et la totalité du flanc gauche",
             "50-80 litres, occupant uniquement le flanc gauche jusqu'à la 12e côte"
           ],
           "correct": 2,
@@ -831,9 +831,9 @@
         {
           "question": "Un « ping » à la percussion-auscultation simultanée dans le flanc droit moyen (entre la 3e et 9e côte) oriente principalement vers quel diagnostic ?",
           "options": [
-            "Un pneumopéritoine post-chirurgical ou post-traumatique",
-            "Une météorisation gazeuse du rumen avec herniation à droite du sac ventral",
-            "Une dilatation-torsion du cæcum dans sa portion distale",
+            "Un pneumopéritoine post-chirurgical ou post-traumatique généralisé",
+            "Une météorisation gazeuse du rumen avec herniation à droite du sac ventral ruminal",
+            "Une dilatation-torsion du cæcum dans sa portion distale droite de l'abdomen",
             "Un déplacement de caillette à droite (DCD)"
           ],
           "correct": 3,
@@ -842,10 +842,10 @@
         {
           "question": "Comment se réalise techniquement le sondage œsophagien chez un bovin calme, par un opérateur droitier ?",
           "options": [
-            "L'opérateur se place à gauche, immobilise la tête avec le bras gauche et introduit la sonde directement par la commissure labiale droite avec la main droite sans manipuler la langue",
+            "L'opérateur se place à gauche, immobilise la tête avec le bras gauche et introduit la sonde par la commissure labiale droite",
             "L'opérateur se place derrière l'animal, glisse la sonde par la narine droite en suivant le plancher nasal jusqu'à l'œsophage",
             "Le sondage n'est réalisable que sous sédation à la xylazine ; toute tentative chez un animal non sédaté est contre-indiquée",
-            "L'opérateur se place à droite de l'animal, passe le bras gauche par-dessus la tête, introduit les doigts de la main gauche en commissure labiale gauche pour ouvrir la bouche et masser le torus lingual, puis introduit la sonde de la main droite au-dessus du torus"
+            "L'opérateur se place à droite, bras gauche sur la tête, doigts en commissure labiale gauche, sonde droite au-dessus du torus lingual vers le rumen"
           ],
           "correct": 3,
           "explanation": "Pour le sondage œsophagien chez un droitier : l'opérateur se place à droite de l'animal, passe le bras gauche par-dessus la tête, introduit les doigts de la main gauche en commissure labiale gauche (pour ouvrir la bouche et stimuler la déglutition en massant le torus linguae), puis de la main droite introduit la sonde flexible par la cavité orale au-dessus du torus linguae. Elle est poussée doucement jusqu'au rumen. Utilités : évacuation du gaz en météorisation gazeuse, mesure du pH ruminal, transfaunation."
@@ -853,10 +853,10 @@
         {
           "question": "Quelles sont les caractéristiques normales de l'urine bovine et qu'indique une urine brune sans hématies au culot après centrifugation ?",
           "options": [
-            "Urine normalement jaune paille, aqueuse, limpide, légèrement aromatique, alcaline (pH 7-8) ; urine brune sans hématies au culot = hémoglobinurie ou myoglobinurie (origine extra-urinaire)",
+            "Urine normalement jaune paille, alcaline (pH 7-8), limpide ; urine brune sans hématies = hémoglobinurie ou myoglobinurie",
             "Urine normalement acide (pH 4-5) et limpide ; urine brune sans hématies = hématurie d'origine vésicale",
-            "Urine normalement incolore et très diluée ; urine brune sans hématies = porphyrie hépatique chronique",
-            "Urine normalement turbide et concentrée ; urine brune sans hématies = ictère obstructif par cholestase"
+            "Urine normalement incolore et très diluée ; urine brune sans hématies = porphyrie hépatique chronique évoluée",
+            "Urine normalement turbide et concentrée chez le bovin ; urine brune sans hématies = ictère obstructif par cholestase"
           ],
           "correct": 0,
           "explanation": "L'urine bovine normale est jaune paille, aqueuse, limpide, légèrement aromatique et physiologiquement alcaline (pH 7-8). Une urine brune dont le surnageant reste brun après centrifugation, sans hématies au culot, indique une hémoglobinurie ou myoglobinurie : origine extra-urinaire (hémolyse intravasculaire, nécrose musculaire). Le plasma est hémolysé. À l'inverse, en hématurie, le surnageant devient clair et le culot contient des hématies."
@@ -864,10 +864,10 @@
         {
           "question": "Quel est l'intérêt clinique du signe du bâton (épreuve du bâton) dans le diagnostic de la RPT bovine ?",
           "options": [
-            "Il mesure la résistance à la percussion abdominale permettant de quantifier l'œdème de la paroi ruminale",
-            "Il provoque une douleur en région réticulaire en soulevant et relâchant brusquement un bâton sous l'abdomen : positif si l'animal se plaint ou se défend",
+            "Il mesure la résistance à la percussion abdominale pour quantifier l'œdème de la paroi ruminale",
+            "Il provoque une douleur réticulaire en soulevant et relâchant brusquement un bâton sous l'abdomen",
             "Il permet d'évaluer la profondeur de l'exsudat péricardique par transmission des vibrations",
-            "Il détecte la présence d'un corps étranger métallique en faisant vibrer les structures métalliques dans le réseau"
+            "Il détecte la présence d'un corps étranger métallique en faisant vibrer les structures réticulaires"
           ],
           "correct": 1,
           "explanation": "L'épreuve du bâton est un test indirect de douleur réticulaire pour le diagnostic de RPT : deux opérateurs se placent de part et d'autre de la vache et utilisent un bâton de section ronde ; ils soulèvent puis relâchent brusquement le bâton en explorant l'aire de projection du réseau d'avant en arrière. Le signe est positif si l'animal se plaint ou se défend au soulèvement et/ou au relâchement. Combiné au signe du garrot et à la percussion directe, il constitue le bilan de douleur réticulaire."
@@ -877,7 +877,7 @@
           "options": [
             "L'auscultation seule suffit : l'épanchement produit des sifflements ; la consolidation des crépitants",
             "Seule la radiographie thoracique permet de distinguer ces deux entités de façon fiable",
-            "La matité de percussion est horizontale et déplaçable avec la posture de l'animal pour l'épanchement ; verticale et fixe pour la consolidation pulmonaire",
+            "Épanchement : matité horizontale déplaçable avec la posture ; consolidation : matité verticale fixe",
             "L'épanchement produit une hypersonorité à la percussion ; la consolidation une sonorité normale"
           ],
           "correct": 2,
@@ -888,8 +888,8 @@
           "options": [
             "La vibration pathologique du contenu de la caillette lors d'une distension abomasale",
             "La présence d'air libre dans la cavité péritonéale après une perforation digestive",
-            "Le mouvement normal du contenu ruminal lors des contractions péristaltiques",
-            "La présence de liquide libre dans une viscère dilatée ou la cavité abdominale lors d'une ascite"
+            "Le mouvement normal du contenu ruminal lors des contractions péristaltiques physiologiques",
+            "La présence de liquide libre dans une viscère dilatée ou dans la cavité abdominale"
           ],
           "correct": 3,
           "explanation": "La succussion (balotement brusque de l'abdomen ou percussion indirecte par choc du poing) produit un bruit de clapotis ou de « gargouillement » quand il existe du liquide libre en quantité importante dans une viscère dilatée (caillette distendue, ascite importante, contenu ruminal liquide en acidose aiguë). Ce signe positif oriente vers une accumulation liquidienne anormale. La succussion est un examen complémentaire important lors de météorisation ou de suspicion de volvulus."
@@ -904,9 +904,9 @@
         {
           "question": "Quelle est la définition d'un animal IPI dans le complexe BVD/MD ?",
           "options": [
-            "Un veau vacciné qui développe une BVD clinique malgré la vaccination par échec de protection",
-            "Un bovin adulte réinfecté plusieurs fois par le BVDV avec immunotolérance progressive acquise",
-            "Un fœtus contaminé in utero entre J30-J125 par une souche NCP qui naît immunotolérant et excrète le virus en permanence à charges très élevées",
+            "Un veau vacciné qui développe une BVD clinique malgré la vaccination préventive",
+            "Un bovin adulte réinfecté plusieurs fois par le BVDV avec immunotolérance progressive",
+            "Un fœtus contaminé in utero entre J30-J125 par souche NCP — immunotolérant, excréteur permanent",
             "Un bovin guéri de BVD clinique qui reste porteur latent avec réactivation possible lors de stress"
           ],
           "correct": 2,
@@ -915,10 +915,10 @@
         {
           "question": "La Maladie des Muqueuses (MD) ne peut se déclarer que chez les animaux IPI. Quel est le mécanisme déclencheur ?",
           "options": [
-            "La superinfection de l'IPI par une souche CP (cytopathogène) antigéniquement apparentée à la souche NCP initiale — le « matching pair »",
-            "L'apparition d'une réponse immunitaire adaptative qui détruit les cellules infectées et génère des lésions tissulaires",
-            "La mutation spontanée de la souche NCP résidente en souche virulente suite à un stress immunitaire",
-            "La co-infection par un second Pestivirus hétérologue (Border Disease Virus) dépassant la tolérance immunitaire"
+            "Superinfection par une souche CP antigéniquement apparentée à la souche NCP initiale (« matching pair »)",
+            "Apparition d'une réponse immunitaire adaptative qui détruit les cellules infectées par le virus NCP",
+            "Mutation spontanée de la souche NCP résidente en souche virulente suite à un stress immunitaire",
+            "Co-infection par un second Pestivirus hétérologue (Border Disease Virus) dépassant la tolérance"
           ],
           "correct": 0,
           "explanation": ""
@@ -927,9 +927,9 @@
           "question": "Quelle technique est recommandée pour identifier un IPI parmi les animaux achetés, et pourquoi la sérologie seule est-elle insuffisante ?",
           "options": [
             "La sérologie ELISA suffit ; une sérologie élevée confirme le statut IPI sans aucun test complémentaire nécessaire",
-            "L'intradermoréaction au BVDV inactivé est le test de référence pratiqué dans les 48 heures suivant l'achat",
-            "L'isolement viral en culture cellulaire est le seul test possible mais nécessite 3 semaines de délai",
-            "La PCR ou Ag-ELISA sur punch d'oreille ou sang détecte directement l'antigène viral ; la sérologie est insuffisante car les IPI peuvent être séropositifs par anticorps colostraux maternels"
+            "L'intradermoréaction au BVDV inactivé est le test de référence pratiqué dans les 48 heures suivant l'achat de l'animal",
+            "L'isolement viral en culture cellulaire est le seul test possible mais nécessite au moins 3 semaines de délai analytique",
+            "PCR ou Ag-ELISA sur punch d'oreille détecte l'Ag viral ; la sérologie seule est insuffisante car les IPI peuvent être séropositifs par Ac colostraux"
           ],
           "correct": 3,
           "explanation": ""
@@ -937,10 +937,10 @@
         {
           "question": "Chez un bovin adulte, quelle est la cause de la réticulopéritonite traumatique (RPT) et quel facteur prédisposant spécifique à l'espèce explique sa fréquence ?",
           "options": [
-            "Un traumatisme externe abdominal sur la région costale gauche causant une contusion réticulaire directe",
-            "Un volvulus partiel du réseau lors des contractions violentes du post-partum immédiat",
-            "Une infection bactérienne de la paroi réticulaire par Fusobacterium necrophorum lors d'acidose chronique du rumen",
-            "La présence d'un corps étranger métallique perforant la paroi du réseau ; la préhension alimentaire non sélective du bovin (langue, faible mastication initiale) facilitant l'ingestion de CE"
+            "Un traumatisme externe abdominal sur la région costale gauche causant une contusion directe de la paroi réticulaire",
+            "Un volvulus partiel du réseau lors des contractions violentes du post-partum immédiat chez les vaches multipares",
+            "Une infection bactérienne de la paroi réticulaire par Fusobacterium necrophorum lors d'acidose ruminale chronique",
+            "Un CE métallique perforant la paroi du réseau ; la préhension non sélective du bovin (faible mastication, langue) facilite l'ingestion de CE"
           ],
           "correct": 3,
           "explanation": ""
@@ -948,10 +948,10 @@
         {
           "question": "L'acidose ruminale aiguë se traduit par quels changements de la microflore ruminale ?",
           "options": [
-            "Augmentation des méthanogènes avec production gazeuse de CH₄ à l'origine de la météorisation",
-            "Apparition de streptocoques producteurs d'acide lactique, disparition de la flore gram-négative normale, pH < 5",
-            "Prolifération des bactéries cellulolytiques gram-négatives avec production accrue d'acide acétique et propionique",
-            "Prolifération de Clostridium perfringens type D avec production de toxine epsilon directement dans le rumen"
+            "Augmentation des méthanogènes avec production gazeuse de CH₄ à l'origine de météorisation",
+            "Apparition de streptocoques producteurs d'acide lactique, disparition de la flore gram-négative, pH < 5",
+            "Prolifération de bactéries cellulolytiques gram-négatives avec production accrue d'acide acétique",
+            "Prolifération de Clostridium perfringens type D avec production de toxine epsilon dans le rumen"
           ],
           "correct": 1,
           "explanation": ""
@@ -959,10 +959,10 @@
         {
           "question": "Lors d'un déplacement de caillette à gauche, quel est le résultat biochimique sanguin caractéristique ?",
           "options": [
-            "Équilibre acide-base normal avec uniquement une légère hyponatrémie",
+            "Équilibre acide-base normal avec uniquement une légère hyponatrémie transitoire",
             "Alcalose métabolique hypochlorémique et hypokaliémique",
-            "Acidose métabolique avec hyperkaliémie et hyperchlorémie",
-            "Acidose respiratoire avec hypercapnie et hypoxémie"
+            "Acidose métabolique avec hyperkaliémie et hyperchlorémie marquées",
+            "Acidose respiratoire avec hypercapnie et hypoxémie associées"
           ],
           "correct": 1,
           "explanation": ""
@@ -970,10 +970,10 @@
         {
           "question": "Quelle est la lésion pathognomonique de la paratuberculose bovine à l'examen nécropsique ?",
           "options": [
-            "Des plaques de Peyer hypertrophiées dans l'iléon distal avec nécrose folliculaire centrale",
-            "Une entérite fibrineuse ulcéreuse du cæcum avec contenu sanguinolent",
-            "Un épaississement de la muqueuse de l'intestin grêle avec aspect encéphaloïde et nœuds lymphatiques mésentériques œdémateux",
-            "Des abcès hépatiques multiples à centre caséeux avec dégénérescence de Zenker"
+            "Des plaques de Peyer hypertrophiées dans l'iléon distal avec nécrose folliculaire et calcification centrale",
+            "Une entérite fibrineuse ulcéreuse du cæcum avec contenu sanguinolent et fibrineux abondant",
+            "Un épaississement de la muqueuse de l'intestin grêle avec aspect encéphaloïde et ganglions mésentériques œdémateux",
+            "Des abcès hépatiques multiples à centre caséeux blanc-jaunâtre avec dégénérescence de Zenker associée"
           ],
           "correct": 2,
           "explanation": ""
@@ -981,10 +981,10 @@
         {
           "question": "Salmonella Dublin présente un tropisme particulier chez les bovins adultes. Quelle manifestation clinique en résulte ?",
           "options": [
-            "Une encéphalite listérienne par compétition avec Listeria monocytogenes dans le tronc cérébral",
+            "Une encéphalite par compétition avec Listeria monocytogenes dans le tronc cérébral",
             "Une entérite mucoïde chronique sans signes généraux chez les bovins adultes uniquement",
             "Une dermatite digitée sévère par localisation préférentielle aux tissus kératinisés des onglons",
-            "Des avortements, une septicémie fœtale et une mort néonatale en plus des gastroentérites hémorragiques fébriles"
+            "Des avortements, une septicémie fœtale et mort néonatale en plus des gastroentérites hémorragiques"
           ],
           "correct": 3,
           "explanation": ""
@@ -992,10 +992,10 @@
         {
           "question": "La météorisation mousseuse se déclenche préférentiellement lors de pâture sur légumineuses. Quel agent est à l'origine de la mousse stable ?",
           "options": [
-            "Une production excessive d'acide butyrique fermentaire lors de fermentations secondaires",
-            "Une hypersécrétion de mucus réticulaire lors de l'inflammation des papilles ruminales",
-            "Des protéines solubles (saponines, fractions protéiques des légumineuses) qui stabilisent les bulles gazeuses dans le rumen",
-            "La lipolyse ruminale avec libération de lécithines tensioactives d'origine végétale"
+            "Une production excessive d'acide butyrique fermentaire lors de fermentations secondaires dans le rumen",
+            "Une hypersécrétion de mucus réticulaire lors de l'inflammation chronique des papilles ruminales",
+            "Des protéines solubles des légumineuses (saponines, fractions protéiques) stabilisant les bulles gazeuses dans le rumen",
+            "La lipolyse ruminale avec libération de lécithines tensioactives d'origine végétale fraîche"
           ],
           "correct": 2,
           "explanation": ""
@@ -1003,10 +1003,10 @@
         {
           "question": "Dans le volvulus de caillette (DCD avec torsion), pourquoi l'intervention chirurgicale est-elle urgente dans les premières heures ?",
           "options": [
-            "Pour éviter que la caillette migre définitivement dans la cavité thoracique par dilatation progressive",
-            "Parce que l'alcalose hypochlorémique devient irréversible après 4 heures d'évolution sans correction",
-            "Pour prévenir la rupture de la caillette sous l'effet de la pression gazeuse qui s'accumule en 2-3 heures",
-            "Parce que la torsion du pédicule vasculaire entraîne une nécrose ischémique progressive de la paroi avec péritonite septique et choc endotoxique létaux"
+            "Pour éviter que la caillette migre dans la cavité thoracique par dilatation progressive",
+            "L'alcalose hypochlorémique devient irréversible après 4 heures d'évolution sans correction",
+            "Pour prévenir la rupture de la caillette sous la pression gazeuse qui s'accumule en quelques heures",
+            "La torsion du pédicule vasculaire provoque une nécrose ischémique avec péritonite septique et choc endotoxique"
           ],
           "correct": 3,
           "explanation": ""
@@ -1014,10 +1014,10 @@
         {
           "question": "La paratuberculose bovine clinique apparaît typiquement à quel âge et pourquoi ?",
           "options": [
-            "À n'importe quel âge indifféremment ; l'âge n'a aucun rôle dans l'expression clinique",
-            "Exclusivement chez les bovins de plus de 8 ans car l'immunodépression liée à l'âge est nécessaire",
-            "À partir de 2 ans car l'infection se contracte dans les premières semaines de vie mais la maladie ne s'exprime qu'après une longue période silencieuse",
-            "Chez les veaux de 3-6 mois car l'infection contractée à la naissance évolue rapidement chez les jeunes"
+            "À n'importe quel âge — l'âge n'a aucun rôle déterminant dans l'expression clinique",
+            "Exclusivement après 8 ans — l'immunodépression liée au vieillissement est nécessaire pour déclencher la maladie",
+            "À partir de 2 ans — l'infection précoce passe par une longue phase subclinique avant l'expression clinique de la maladie",
+            "Chez les veaux de 3-6 mois — l'infection contractée à la naissance évolue rapidement chez les jeunes"
           ],
           "correct": 2,
           "explanation": ""
@@ -1026,9 +1026,9 @@
           "question": "Lors d'acidose ruminale aiguë, quel est le mécanisme de la diarrhée osmotique observée ?",
           "options": [
             "Une hypermotilité ruminale réflexe qui accélère le transit et provoque la diarrhée",
-            "Une sécrétion active d'électrolytes vers la lumière ruminale par activation des canaux CFTR des entérocytes",
-            "Une destruction de la muqueuse intestinale par les toxines de C. perfringens type D proliférant dans le rumen acide",
-            "L'hyperosmolarité ruminale (due à l'accumulation d'acide lactique) qui attire les fluides intravasculaires et interstitiels vers le contenu ruminal, rendant celui-ci liquide"
+            "Une sécrétion active d'électrolytes vers la lumière ruminale par activation des canaux CFTR",
+            "Une destruction de la muqueuse intestinale par les toxines de C. perfringens type D",
+            "L'hyperosmolarité ruminale (acide lactique) attire les fluides interstitiels vers le rumen, le rendant très liquide"
           ],
           "correct": 3,
           "explanation": ""
@@ -1038,8 +1038,8 @@
           "options": [
             "Environ 15-20 % des IPI par an ; environ 50 % survivent jusqu'à l'âge de reproduction",
             "100 % des IPI développent la MD dès leur première année de vie sans exception",
-            "Environ 5-10 % des IPI par an ; la grande majorité survit jusqu'à l'âge adulte sans MD",
-            "Environ 60 % des IPI par an ; ainsi plus de 90 % des IPI meurent de MD avant la fin de leur 3e année"
+            "Environ 5-10 % des IPI par an ; la grande majorité survit jusqu'à l'âge adulte",
+            "Environ 60 % des IPI par an ; plus de 90 % meurent de MD avant la fin de leur 3e année"
           ],
           "correct": 3,
           "explanation": ""
@@ -1048,8 +1048,8 @@
           "question": "Lors d'une obstruction œsophagienne par un corps étranger chez un bovin, comment la sonde œsophagienne permet-elle le diagnostic différentiel avec la météorisation gazeuse ?",
           "options": [
             "Dans l'obstruction la sonde déclenche un réflexe de toux spécifique absent dans la météorisation",
-            "La sonde ne libère pas de gaz dans les deux situations ; seule la radiographie thoracique distingue les deux entités",
-            "Dans la météorisation gazeuse la sonde passe librement et libère le gaz ; dans l'obstruction elle bute sur le corps étranger et ne peut progresser davantage",
+            "La sonde ne libère pas de gaz dans les deux situations ; seule la radiographie distingue les deux",
+            "Dans la météorisation gazeuse la sonde passe librement et libère le gaz ; dans l'obstruction elle bute sur le CE",
             "Dans les deux cas la sonde libère immédiatement le gaz, la différence est la couleur des gaz"
           ],
           "correct": 2,
@@ -1058,10 +1058,10 @@
         {
           "question": "Quel sérotype de Salmonella est responsable des épidémies de salmonellose bovine multiresistante en Europe, et quelle est son importance en santé publique ?",
           "options": [
-            "Salmonella Enteritidis phagotype PT4, responsable d'avortements spécifiques aux bovins laitiers",
-            "Salmonella Dublin DT27, résistante exclusivement à la streptomycine sans risque zoonotique documenté",
-            "Salmonella Newport DT120, résistante uniquement aux tétracyclines et sans impact zoonotique",
-            "Salmonella Typhimurium DT104, pentarésistante (ampicilline, chloramphénicol, streptomycine, sulfonamides, tétracyclines), zoonose grave transmissible à l'homme par les aliments"
+            "Salmonella Enteritidis PT4, responsable d'avortements spécifiques aux bovins laitiers",
+            "Salmonella Dublin DT27, résistante exclusivement à la streptomycine sans risque zoonotique",
+            "Salmonella Newport DT120, résistante aux tétracyclines uniquement et sans impact zoonotique",
+            "Salmonella Typhimurium DT104, pentarésistante (ACSSuT), zoonose alimentaire grave"
           ],
           "correct": 3,
           "explanation": ""
@@ -1069,10 +1069,10 @@
         {
           "question": "Dans la pathogénie de l'IPI, pourquoi l'infection d'une femelle gestante par une souche NCP entre J30 et J125 génère-t-elle systématiquement un IPI ?",
           "options": [
-            "Parce que les souches NCP sont incapables d'induire une réponse immunitaire chez n'importe quel bovin, qu'il soit fœtus ou adulte",
-            "Parce que le BVDV bloque spécifiquement la migration des lymphocytes T vers le thymus fœtal, empêchant la maturation lymphocytaire",
-            "Parce que la placentation bovine diffuse empêche le passage des anticorps maternels au fœtus pendant cette période",
-            "Parce que pendant cette période d'acquisition de l'immunocompétence fœtale, le système immunitaire en formation ne reconnaît pas le virus comme étranger et établit une tolérance permanente"
+            "Les souches NCP sont incapables d'induire une réponse immunitaire chez n'importe quel bovin, quel que soit son âge",
+            "Le BVDV bloque la migration des lymphocytes T vers le thymus fœtal, empêchant ainsi la maturation lymphocytaire normale",
+            "La placentation bovine diffuse empêche le passage des anticorps maternels vers le fœtus pendant cette période précise",
+            "Pendant l'acquisition de l'immunocompétence fœtale, le système immunitaire ne reconnaît pas le virus et établit une tolérance permanente"
           ],
           "correct": 3,
           "explanation": ""
@@ -1081,8 +1081,8 @@
           "question": "Dans l'acidose ruminale subaiguë chronique (SARA), quel indicateur de production laitière se modifie précocement et oriente vers ce diagnostic ?",
           "options": [
             "Une augmentation du taux protéique du lait par catabolisme musculaire compensatoire",
-            "Une augmentation des numérations cellulaires somatiques du tank sans modification du taux butyreux",
-            "Une chute du taux butyreux du lait (les fermentations produisent davantage de propionate et moins d'acétate, précurseur de la matière grasse)",
+            "Une augmentation des numérations cellulaires somatiques sans modification du taux butyreux",
+            "Une chute du taux butyreux du lait (fermentations orientées vers propionate > acétate)",
             "Une diminution du taux lactosique par perturbation des voies métaboliques du galactose"
           ],
           "correct": 2,
@@ -1091,10 +1091,10 @@
         {
           "question": "Les sérotypes de la Salmonella et leur impact spécifique : quel sérotype est la principale cause d'avortements enzootiques dans les troupeaux ovins viande français (bassin Limousin) ?",
           "options": [
-            "Salmonella Dublin — présent chez les bovins mais peu impliqué en ovin",
+            "Salmonella Dublin — présent chez les bovins mais rarement impliqué dans les avortements ovins",
             "Salmonella Abortusovis — représentant jusqu'à 60-70 % des causes d'avortement infectieux certaines années",
-            "Salmonella Typhimurium — présent surtout en bovin avec diarrhée hémorragique",
-            "Salmonella Enteritidis — principalement impliqué en volailles sans impact ovin significatif"
+            "Salmonella Typhimurium — surtout responsable de gastroentérites bovines hémorragiques sévères",
+            "Salmonella Enteritidis — principalement isolé en volaille, sans impact ovin reproducteur significatif"
           ],
           "correct": 1,
           "explanation": ""
@@ -1102,10 +1102,10 @@
         {
           "question": "Lors d'une RPT, le test à l'aimant (détecteur électromagnétique) est positif. Que signifie un résultat négatif ?",
           "options": [
-            "Un résultat négatif exclut uniquement les corps étrangers de grande taille ; les petits fils de fer passent inaperçus",
+            "Un résultat négatif exclut uniquement les CE de grande taille ; les petits fils passent inaperçus",
             "Un résultat négatif exclut formellement la RPT ; la vache peut être considérée comme indemne",
-            "Un résultat négatif confirme que le CE est dans l'œsophage et non dans le réseau",
-            "Un résultat négatif n'exclut pas la RPT : le CE peut être non ferromagnétique, déjà migré hors du réseau, ou oxydé et dissout"
+            "Un résultat négatif confirme que le CE est dans l'œsophage et non dans le réseau réticulaire",
+            "Un résultat négatif n'exclut pas la RPT : le CE peut être non ferromagnétique, déjà migré ou dissout"
           ],
           "correct": 3,
           "explanation": ""
@@ -1114,9 +1114,9 @@
           "question": "La diarrhée néonatale bovine par E. coli entérotoxigène (souche K99/F5) affecte les veaux dans quel délai après la naissance ?",
           "options": [
             "Après le sevrage entre 6 et 12 semaines, lors de l'acidification gastrique du ruminant",
-            "Dans les 72-96 premières heures de vie, par production d'entérotoxine ST qui active la guanylate cyclase",
-            "Entre 2 et 4 semaines de vie, lors du pic d'excrétion de Cryptosporidium parvum",
-            "Entre 2 et 6 mois, lorsque l'immunité colostrale passive a disparu"
+            "Dans les 72-96 premières heures de vie, par production d'entérotoxine ST activant la guanylate cyclase",
+            "Entre 2 et 4 semaines de vie, lors du pic d'excrétion intestinale de Cryptosporidium parvum",
+            "Entre 2 et 6 mois, lorsque l'immunité colostrale passive est complètement disparue"
           ],
           "correct": 1,
           "explanation": ""
@@ -1124,10 +1124,10 @@
         {
           "question": "Quel est le principal traitement de la diarrhée néonatale bovine, quelle que soit son étiologie ?",
           "options": [
-            "La fluidothérapie orale (électrolytes + glucose + bicarbonate) pour corriger la déshydratation et l'acidose par D-lactate — l'alimentation lactée n'est pas suspendue",
+            "La fluidothérapie orale (électrolytes + glucose + bicarbonate) ; l'alimentation lactée n'est pas suspendue",
             "La transfusion sanguine avec plasma hyperimmun spécifique de l'agent causal identifié",
-            "L'antibiothérapie systémique à large spectre en première intention dans tous les cas",
-            "La vaccination curative du veau diarrhéique avec un vaccin multivalent inactivé pour stopper l'excrétion"
+            "L'antibiothérapie systémique à large spectre en première intention dans tous les cas cliniques",
+            "La vaccination curative du veau diarrhéique avec un vaccin multivalent inactivé adapté au type"
           ],
           "correct": 0,
           "explanation": ""
@@ -1135,10 +1135,10 @@
         {
           "question": "Pourquoi la sérologie ne suffit-elle pas pour dépister les IPI dans le cadre du contrôle du BVD en troupeau ?",
           "options": [
-            "Parce que la sérologie est trop coûteuse pour être réalisée à l'échelle d'un troupeau commercial",
-            "Parce que la sérologie donne des faux positifs systématiques chez tous les bovins vaccinés, rendant le résultat ininterprétable",
-            "Parce que les IPI sont tous séronégatifs à vie, la sérologie détectant uniquement les IT",
-            "Parce que les IPI peuvent être séropositifs transitoirement par anticorps colostraux maternels, et un IPI issu d'une mère IPI naît séronégatif ; seule la détection directe d'antigène viral (PCR/Ag-ELISA) identifie formellement les IPI"
+            "La sérologie est trop coûteuse pour être réalisée systématiquement à l'échelle d'un troupeau commercial",
+            "La sérologie donne des faux positifs systématiques chez tous les bovins vaccinés, rendant le résultat ininterprétable",
+            "Les IPI sont tous séronégatifs à vie, la sérologie ne détectant que les infectés transitoires guéris",
+            "Les IPI peuvent être séropositifs (Ac colostraux) ou séronégatifs (mère IPI) ; seule la détection d'antigène viral est fiable"
           ],
           "correct": 3,
           "explanation": ""
@@ -1146,10 +1146,10 @@
         {
           "question": "La péricardite traumatique bovine survient plus fréquemment dans les semaines suivant la mise bas. Comment s'explique ce lien ?",
           "options": [
-            "Les poussées expulsives du part et la position du fœtus augmentent la pression intraabdominale, favorisant la progression du CE depuis le réseau vers le péricarde",
-            "L'hypocalcémie du post-partum réduit la contractilité réticulaire et laisse les CE s'accumuler",
-            "Le colostrum produit contient des facteurs de coagulation qui favorisent la migration des CE vers le cœur",
-            "La mobilisation des réserves lipidiques en post-partum liquéfie les adhérences fibreuses qui retenaient le CE dans le réseau"
+            "Les poussées expulsives du part augmentent la pression intraabdominale, favorisant la progression du CE depuis le réseau vers le péricarde",
+            "L'hypocalcémie du post-partum réduit la contractilité réticulaire et laisse les CE s'accumuler dans le réseau",
+            "Le colostrum contient des facteurs de coagulation qui favorisent directement la migration des CE vers le cœur",
+            "La lipomobilisation post-partum liquéfie les adhérences fibreuses qui retenaient le CE en place dans le réseau"
           ],
           "correct": 0,
           "explanation": ""
@@ -1158,9 +1158,9 @@
           "question": "Lors du traitement de l'acidose ruminale aiguë en conditions d'hospitalisation, quelle solution IV est contre-indiquée et pourquoi ?",
           "options": [
             "Le bicarbonate de sodium car il produit une alcalose métabolique iatrogène irréversible",
-            "Le Ringer lactate car il apporte du lactate qui s'additionne à l'acide lactique déjà accumulé et aggrave l'acidose",
-            "Le chlorure de sodium isotonique car son excès en chlore précipite la formation de nouveaux cristaux dans le rumen",
-            "Le sérum glucosé à 5 % car l'apport de glucose aggrave l'acidose par fermentation intestinale secondaire"
+            "Le Ringer lactate car il apporte du lactate qui s'additionne à l'acide lactique déjà accumulé",
+            "Le chlorure de sodium isotonique car son excès en chlore aggrave la déshydratation cellulaire",
+            "Le sérum glucosé à 5 % car l'apport de glucose aggrave l'acidose par fermentation intestinale"
           ],
           "correct": 1,
           "explanation": ""
@@ -1168,10 +1168,10 @@
         {
           "question": "Dans un troupeau atteint de paratuberculose d'incrustation, quelle formule résume le mieux la relation entre infection et maladie clinique ?",
           "options": [
-            "« L'infection et la maladie sont également fréquentes, environ 50 % des animaux de plus de 3 ans »",
-            "« L'infection est fréquente, la maladie l'exception » — seuls 3-5 % des animaux infectés par an développent une maladie clinique",
-            "« La maladie est fréquente, l'infection silencieuse exceptionnelle »",
-            "« Infection et maladie sont synonymes ; tout animal infecté développe la maladie clinique »"
+            "L'infection et la maladie sont également fréquentes chez les bovins de plus de 3 ans",
+            "L'infection est fréquente, la maladie l'exception — seuls 3-5 % des infectés/an sont malades",
+            "La maladie est fréquente, l'infection silencieuse exceptionnelle dans les troupeaux",
+            "Infection et maladie sont synonymes ; tout animal infecté développe la maladie clinique"
           ],
           "correct": 1,
           "explanation": ""
@@ -1179,10 +1179,10 @@
         {
           "question": "Lors de gastroentérite à Salmonella chez les veaux, quel est le principal risque pour le troupeau et pour l'éleveur ?",
           "options": [
-            "Un risque de zoonose pour l'éleveur par contact avec les fèces, le lait ou les produits d'avortement, et une dissémination dans le troupeau par portage asymptomatique",
-            "Un risque exclusivement économique par la mortalité des veaux sans aucune implication de santé publique",
-            "Un risque de contamination croisée uniquement entre veaux du même box sans risque pour les adultes ni pour l'homme",
-            "Un risque de contamination environnementale du sol uniquement en cas d'épandage de fumier sur les pâtures"
+            "Un risque de zoonose pour l'éleveur et de dissémination dans le troupeau par portage asymptomatique",
+            "Un risque exclusivement économique par la mortalité des veaux sans implication de santé publique",
+            "Un risque de contamination croisée uniquement entre veaux du même box sans risque pour l'homme",
+            "Un risque de contamination environnementale du sol uniquement en cas d'épandage de fumier"
           ],
           "correct": 0,
           "explanation": ""
@@ -1190,10 +1190,10 @@
         {
           "question": "L'obstruction intestinale (intussusception, étranglement par bride) chez le bovin adulte se distingue du déplacement de caillette par quel signe clinique essentiel ?",
           "options": [
-            "Dans l'obstruction la fréquence ruminale est normale ; dans le déplacement elle est systématiquement abolie",
+            "Dans l'obstruction la fréquence ruminale est normale ; dans le déplacement elle est abolie",
             "L'obstruction intestinale ne produit jamais de ping auscultatoire ; le déplacement en produit toujours",
-            "L'obstruction produit des douleurs abdominales sévères avec choc circulatoire rapide et absence totale de matières fécales ; le déplacement évolue plus progressivement avec production fécale maintenue",
-            "L'obstruction intestinale ne touche que les bovins de moins de 2 ans ; le déplacement uniquement les adultes de plus de 5 ans"
+            "L'obstruction produit des douleurs sévères avec choc rapide et absence de fèces ; le déplacement évolue progressivement",
+            "L'obstruction intestinale ne touche que les bovins de moins de 2 ans ; le déplacement que les adultes"
           ],
           "correct": 2,
           "explanation": ""
@@ -1201,9 +1201,9 @@
         {
           "question": "Lors du syndrome vagal bovin (indigestion vagale de Hoflund), quel est le mécanisme de la météorisation chronique ?",
           "options": [
-            "Une lésion du nerf vague (suite à RPT, péritonite ou PCE) qui perturbe la coordination motrice des pré-estomacs et de l'œsophage, empêchant l'éructation normale",
-            "Un spasme du cardia d'origine myogène chez les vaches en fin de gestation par compression nerveux utérine",
-            "Une hypertrophie progressive des papilles ruminales qui bloquent physiquement l'orifice réticulo-omasal",
+            "Une lésion du nerf vague (RPT, péritonite, PCE) perturbe la motricité des pré-estomacs et empêche l'éructation",
+            "Un spasme du cardia d'origine myogène chez les vaches en fin de gestation par compression utérine",
+            "Une hypertrophie progressive des papilles ruminales bloquant physiquement l'orifice réticulo-omasal",
             "Une acidose chronique qui produit des gaz en excès que l'éructation normale ne peut évacuer"
           ],
           "correct": 0,
@@ -1212,10 +1212,10 @@
         {
           "question": "Pour prévenir de nouveaux cas d'entérotoxémie à C. perfringens type D dans un troupeau caprin, quelle est la première mesure à prendre avant d'envisager la vaccination ?",
           "options": [
-            "Vacciner immédiatement toutes les chèvres avec un vaccin polyvalent anti-clostridien adjuvé à l'hydroxyde d'alumine",
-            "Identifier et corriger la perturbation nutritionnelle responsable (excès de céréales, transition alimentaire brutale, pâturage sur herbe luxuriante)",
-            "Pratiquer une ruminotomie d'urgence sur les animaux les plus atteints pour vidanger le rumen",
-            "Administrer une antibiothérapie métaphylactique avec de la pénicilline G retard à toutes les chèvres du lot"
+            "Vacciner immédiatement toutes les chèvres avec un vaccin polyvalent anti-clostridien adjuvé",
+            "Identifier et corriger la perturbation nutritionnelle (excès de céréales, transition brutale, herbe luxuriante)",
+            "Pratiquer une ruminotomie d'urgence sur les animaux les plus atteints pour vider le rumen",
+            "Administrer une antibiothérapie métaphylactique avec de la pénicilline G retard à tout le lot"
           ],
           "correct": 1,
           "explanation": ""
@@ -1223,10 +1223,10 @@
         {
           "question": "Quelle est la concentration minimale de C. perfringens dans le contenu iléal permettant de conclure à une entérotoxémie lors d'autopsie ?",
           "options": [
-            "≥ 10⁹ UFC/mL (seuil très élevé car l'intestin héberge naturellement des clostridies en grande quantité)",
-            "≥ 10⁷ UFC/mL (C. perfringens étant présent en faibles quantités chez l'animal sain, seule une multiplication massive est significative)",
-            "≥ 10⁵ UFC/mL (seuil intermédiaire validé pour toutes les espèces de ruminants)",
-            "≥ 10³ UFC/mL (seuil bas car C. perfringens est normalement absent de l'intestin)"
+            "≥ 10⁹ UFC/mL — l'intestin héberge naturellement des clostridies en grande quantité",
+            "≥ 10⁷ UFC/mL — C. perfringens étant présent en faibles quantités chez l'animal sain",
+            "≥ 10⁵ UFC/mL — seuil intermédiaire validé pour toutes les espèces de ruminants",
+            "≥ 10³ UFC/mL — seuil bas car C. perfringens est normalement absent de l'intestin"
           ],
           "correct": 1,
           "explanation": ""
