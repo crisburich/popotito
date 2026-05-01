@@ -1615,7 +1615,7 @@
           "options": [
             "Contamination du veau juste après la naissance malgré une colostration correcte",
             "Infection transplacentaire du fœtus avant immunocompétence par une souche non cytopathogène",
-            "Vaccination de la mère en fin de gestation avec un vaccin inactivé",
+            "Vaccination de la mère en fin de gestation avec un vaccin inactivé, notamment lorsque l'évolution paraît rapide et peu spécifique",
             "Infection fœtale tardive par une souche cytopathogène après le 7e mois de gestation"
           ],
           "correct": 1,
@@ -1624,7 +1624,7 @@
         {
           "question": "Pourquoi les animaux IPI sont-ils essentiels dans l'épidémiologie du BVD ?",
           "options": [
-            "Ils ne transmettent le virus qu'au moment du vêlage ou d'un avortement",
+            "Ils ne transmettent le virus qu'au moment du vêlage ou d'un avortement, en particulier lorsque plusieurs facteurs de risque se superposent",
             "Ils excrètent le virus en grande quantité et de façon continue pendant toute leur vie",
             "Ils jouent surtout un rôle de vecteurs mécaniques via le sperme et le matériel",
             "Ils gardent le virus sous forme latente sans excrétion, comme dans l'IBR"
@@ -1635,7 +1635,7 @@
         {
           "question": "La maladie des muqueuses survient typiquement chez quel animal ?",
           "options": [
-            "Un veau colostrument mal protégé atteint d'une entérite à rotavirus compliquée",
+            "Un veau colostrument mal protégé atteint d'une entérite à rotavirus compliquée, en contexte d'élevage intensif ou de promiscuité importante",
             "Un bovin IPI confronté à une souche cytopathogène apparentée à sa souche persistante",
             "Une génisse vaccinée avec un vaccin vivant modifié présentant une réaction post-vaccinale",
             "Un bovin immunocompétent après une infection transitoire par une souche non cytopathogène"
@@ -1646,7 +1646,7 @@
         {
           "question": "Quel signe reproducteur est compatible avec une infection BVD selon le stade de gestation ?",
           "options": [
-            "Une simple prolongation de gestation sans malformation ni atteinte néonatale",
+            "Une simple prolongation de gestation sans malformation ni atteinte néonatale, surtout dans les formes subaiguës observées en élevage",
             "Une rétention placentaire systématique après tous les vêlages de femelles infectées",
             "Une résorption embryonnaire, un avortement, des malformations ou la naissance d'un IPI",
             "Une métrite puerpérale isolée, sans effet sur la viabilité embryonnaire ou fœtale"
@@ -1657,7 +1657,7 @@
         {
           "question": "La Border Disease chez les petits ruminants est classiquement associée à quel tableau néonatal ?",
           "options": [
-            "Des agneaux ictériques présentant une hémoglobinurie aiguë dès la naissance",
+            "Des agneaux ictériques présentant une hémoglobinurie aiguë dès la naissance, surtout dans les formes subaiguës observées en élevage",
             "Des agneaux présentant surtout une kératoconjonctivite ulcérative bilatérale",
             "Des chevreaux avec glossite granulomateuse et hypertrophie mandibulaire marquée",
             "Des agneaux trembleurs, chétifs, avec anomalies du pelage ou de la laine"
@@ -1687,7 +1687,7 @@
           "question": "Quel agent est surtout associé aux diarrhées très précoces avec déshydratation rapide chez le veau nouveau-né ?",
           "options": [
             "Escherichia coli entérotoxinogène K99/F5, chez le très jeune veau",
-            "Coronavirus, surtout lors des diarrhées chroniques après le sevrage",
+            "Coronavirus, surtout lors des diarrhées chroniques après le sevrage, surtout dans les formes subaiguës observées en élevage",
             "Rotavirus, principalement lors des diarrhées hémorragiques de l'adulte",
             "Cryptosporidium parvum, surtout entre la deuxième et la troisième semaine de vie"
           ],
@@ -1698,7 +1698,7 @@
           "question": "Quel traitement est prioritaire dans une diarrhée néonatale, quelle que soit l'étiologie ?",
           "options": [
             "Mettre en place rapidement la réhydratation et corriger l'acidose ainsi que les désordres ioniques",
-            "Administrer d'emblée une antibiothérapie parentérale large à tous les veaux malades",
+            "Administrer d'emblée une antibiothérapie parentérale large à tous les veaux malades, avec un tableau clinique initial pouvant sembler compatible",
             "Utiliser en première intention des corticoïdes afin de limiter l'inflammation intestinale",
             "Arrêter totalement le lait pendant plusieurs jours et attendre la reprise spontanée"
           ],
@@ -1711,7 +1711,7 @@
             "Les veaux n'excrètent qu'après plusieurs mois, ce qui retarde la détection collective",
             "La transmission est essentiellement transplacentaire, ce qui échappe aux mesures d'hygiène",
             "Les oocystes sont très résistants, immédiatement infectants et persistent dans l'environnement",
-            "La maladie ne touche que les veaux âgés de plus de six mois déjà sevrés"
+            "La maladie ne touche que les veaux âgés de plus de six mois déjà sevrés, en contexte d'élevage intensif ou de promiscuité importante"
           ],
           "correct": 2,
           "explanation": "Les oocystes de Cryptosporidium sont très résistants et infectants à faible dose, ce qui impose hygiène, séparation des âges et gestion stricte des cases."
@@ -1719,7 +1719,7 @@
         {
           "question": "Quel principe de prophylaxie est le plus adapté à l'échelle du troupeau ?",
           "options": [
-            "Supprimer le colostrum au profit d'un lait de remplacement stérile dès la naissance",
+            "Supprimer le colostrum au profit d'un lait de remplacement stérile dès la naissance, avec des lésions ou des signes parfois partiellement superposables",
             "Contrôler le colostrum, soigner l'hygiène du vêlage, séparer les âges et désinfecter les cases",
             "Maintenir les veaux ensemble dans une ambiance chaude et humide pour limiter le stress",
             "Traiter préventivement tous les veaux et toutes les mères par antibiotiques pendant le vêlage"
@@ -1738,7 +1738,7 @@
           "question": "Quel mécanisme déclenche classiquement une entérotoxémie ovine ?",
           "options": [
             "Une invasion bronchique à Mannheimia haemolytica suivie d'une toxémie secondaire digestive",
-            "Une parasitose massive du côlon entraînant une surproduction d'endotoxines bactériennes",
+            "Une parasitose massive du côlon entraînant une surproduction d'endotoxines bactériennes, surtout dans les situations où le diagnostic différentiel reste large",
             "Une prolifération de Clostridium perfringens dans l'intestin avec production de toxines après déséquilibre alimentaire",
             "Une carence prolongée en cuivre provoquant une nécrose ischémique de la muqueuse intestinale"
           ],
@@ -1749,7 +1749,7 @@
           "question": "Quel contexte alimentaire est le plus à risque chez les agneaux ?",
           "options": [
             "Une ration très pauvre en énergie à base exclusive de paille grossière",
-            "Un jeûne hydrique de courte durée avec retour progressif au pâturage",
+            "Un jeûne hydrique de courte durée avec retour progressif au pâturage, avec un tableau clinique initial pouvant sembler compatible",
             "Un accès permanent à un foin sec distribué en petites quantités répétées",
             "Une transition brutale vers une ration riche ou un apport lacté très abondant"
           ],
@@ -1759,7 +1759,7 @@
         {
           "question": "Pourquoi le traitement curatif des entérotoxémies est-il souvent décevant ?",
           "options": [
-            "Parce que les animaux atteints guérissent généralement seuls, rendant le traitement accessoire",
+            "Parce que les animaux atteints guérissent généralement seuls, rendant le traitement accessoire, avec une présentation qui peut prêter à confusion au premier examen",
             "Parce que l'évolution est très rapide et que la toxémie est souvent déjà installée au diagnostic",
             "Parce que la maladie est purement mécanique, sans phase toxinique susceptible d'être combattue",
             "Parce que les clostridies responsables sont systématiquement multirésistantes aux antibiotiques"
@@ -1783,7 +1783,7 @@
           "options": [
             "Une kératite unilatérale douloureuse associée à une forte hypertrophie ganglionnaire",
             "Une mort subite d'un agneau en bon état, parfois précédée de signes nerveux ou digestifs",
-            "Une diarrhée chronique cachectisante évoluant pendant plusieurs mois sans fièvre",
+            "Une diarrhée chronique cachectisante évoluant pendant plusieurs mois sans fièvre, avec un tableau clinique initial pouvant sembler compatible",
             "Une glossite granulomateuse avec ptyalisme et difficulté de préhension des aliments"
           ],
           "correct": 1,
@@ -1799,7 +1799,7 @@
         {
           "question": "Quels sérotypes de Salmonella sont surtout à retenir en pathologie bovine dans le cours ?",
           "options": [
-            "Enteritidis et Newport",
+            "Enteritidis et Newport, en contexte d'élevage intensif ou de promiscuité importante",
             "Dublin et Typhimurium",
             "Abortusovis et Abortusequi",
             "Gallinarum et Pullorum"
@@ -1813,7 +1813,7 @@
             "Une aphtose buccale avec lésions des trayons et des pieds, sans syndrome digestif majeur",
             "Une boiterie interdigitée isolée accompagnée d'une tuméfaction très douloureuse du pied",
             "Une hyperthermie élevée avec chute de lait et diarrhée profuse souvent fibrino-hémorragique",
-            "Une diarrhée chronique intermittente avec appétit conservé, sans hyperthermie marquée"
+            "Une diarrhée chronique intermittente avec appétit conservé, sans hyperthermie marquée, notamment lorsque l'évolution paraît rapide et peu spécifique"
           ],
           "correct": 2,
           "explanation": "La forme digestive classique associe forte fièvre, atteinte générale, baisse de production et diarrhée profuse souvent sanglante et fibrineuse."
@@ -1824,7 +1824,7 @@
             "Le fait que les salmonelles soient strictement intracellulaires et inaccessibles aux antibiotiques",
             "L'impossibilité d'isoler Salmonella en culture à partir des fèces ou des organes profonds",
             "La fréquence des antibiorésistances et la nécessité d'appuyer le choix sur un antibiogramme",
-            "L'absence de syndrome endotoxinique, qui rend tout traitement symptomatique inutile"
+            "L'absence de syndrome endotoxinique, qui rend tout traitement symptomatique inutile, surtout dans les formes subaiguës observées en élevage"
           ],
           "correct": 2,
           "explanation": "Les salmonelles présentent des résistances importantes ; l'antibiogramme est nécessaire, surtout avant l'emploi de molécules récentes."
@@ -1832,7 +1832,7 @@
         {
           "question": "Quelle voie d'excrétion est la plus importante dans la salmonellose bovine ?",
           "options": [
-            "L'excrétion transcutanée par la sueur et les squames, surtout en été",
+            "L'excrétion transcutanée par la sueur et les squames, surtout en été, avec des lésions ou des signes parfois partiellement superposables",
             "L'excrétion urinaire, qui domine largement toutes les autres matières virulentes",
             "L'excrétion fécale, souvent intermittente mais massive chez les animaux malades",
             "L'excrétion lacrymale, qui constitue la principale source de contamination du troupeau"
@@ -1845,7 +1845,7 @@
           "options": [
             "Il n'a pas d'intérêt en santé publique dès lors que les animaux ne présentent pas de diarrhée",
             "Il apparaît presque toujours avant trente jours de gestation, au stade de résorption embryonnaire",
-            "Il ne s'accompagne ni de fièvre ni d'altération générale chez la mère au moment de l'épisode",
+            "Il ne s'accompagne ni de fièvre ni d'altération générale chez la mère au moment de l'épisode, surtout dans les formes subaiguës observées en élevage",
             "Il survient surtout après six mois de gestation et s'accompagne souvent de rétention placentaire"
           ],
           "correct": 3,
@@ -1861,7 +1861,7 @@
         {
           "question": "Quel profil épidémiologique correspond le mieux à l'entérite hémorragique hivernale ?",
           "options": [
-            "Une entérite septicémique à forte mortalité chez les vaches de réforme en plein air",
+            "Une entérite septicémique à forte mortalité chez les vaches de réforme en plein air, surtout dans les formes subaiguës observées en élevage",
             "Une affection très contagieuse des jeunes vaches laitières, surtout en automne-hiver à l'étable",
             "Une diarrhée chronique individuelle des taurillons de plus de deux ans en bâtiment sec",
             "Une maladie sporadique d'été touchant surtout les veaux allaitants au pâturage extensif"
@@ -1874,7 +1874,7 @@
           "options": [
             "Le coronavirus bovin",
             "Le virus de la BVD",
-            "Rotavirus du veau",
+            "Rotavirus du veau, en particulier lorsque plusieurs facteurs de risque se superposent",
             "Salmonella Dublin"
           ],
           "correct": 0,
@@ -1883,7 +1883,7 @@
         {
           "question": "Quelle caractéristique distingue l'EHH de la salmonellose sur le plan de santé publique ?",
           "options": [
-            "L'EHH est une zoonose majeure transmise par le lait cru des vaches malades",
+            "L'EHH est une zoonose majeure transmise par le lait cru des vaches malades, avec des lésions ou des signes parfois partiellement superposables",
             "L'EHH impose systématiquement une saisie réglementaire totale des carcasses à l'abattoir",
             "L'EHH n'a pas d'impact reconnu sur la santé humaine malgré sa forte contagiosité en élevage",
             "L'EHH ne provoque aucun signe digestif, seulement une chute de production laitière"
@@ -1905,7 +1905,7 @@
         {
           "question": "Quelle prophylaxie est recommandée contre l'EHH ?",
           "options": [
-            "Une antibioprévention collective lors des premiers cas du troupeau",
+            "Une antibioprévention collective lors des premiers cas du troupeau, surtout dans les formes subaiguës observées en élevage",
             "L'élimination systématique des animaux guéris pour supprimer le portage latent",
             "Une vaccination de masse des génisses avant chaque rentrée à l'étable",
             "L'isolement des malades, l'hygiène des litières et la désinfection du matériel"
@@ -1924,7 +1924,7 @@
           "question": "Quel triptyque clinique résume la paratuberculose bovine typique ?",
           "options": [
             "Diarrhée chronique, amaigrissement progressif et conservation de l'appétit au début",
-            "Fièvre, diarrhée hémorragique et déshydratation rapide",
+            "Fièvre, diarrhée hémorragique et déshydratation rapide, surtout quand l'anamnèse oriente d'abord vers cette hypothèse",
             "Ptyalisme, dysphagie et tuméfaction mandibulaire douloureuse",
             "Dyspnée aiguë, toux sèche et jetage mucopurulent persistant"
           ],
@@ -1935,7 +1935,7 @@
           "question": "Pourquoi la sérologie ELISA est-elle peu fiable chez les jeunes animaux infectés par MAP ?",
           "options": [
             "Parce que MAP reste strictement localisé au foie chez le jeune sans contact avec le système immunitaire",
-            "Parce que les jeunes ruminants deviennent immunotolérants à MAP après l'ingestion du colostrum",
+            "Parce que les jeunes ruminants deviennent immunotolérants à MAP après l'ingestion du colostrum, avec des lésions ou des signes parfois partiellement superposables",
             "Parce que les anticorps maternels anti-MAP persistent habituellement jusqu'à l'âge de trois ans",
             "Parce que la réponse humorale apparaît tardivement, après une longue phase dominée par l'immunité cellulaire"
           ],
@@ -1959,7 +1959,7 @@
             "La culture bactérienne de MAP sur milieu spécifique, mais avec un délai de plusieurs semaines",
             "La sérologie ELISA sur sérum individuel, examen direct de référence pour les excréteurs",
             "L'intradermoréaction à la johnine, qui permet une confirmation immédiate et définitive",
-            "La coloration de Ziehl sur les fèces, à la fois très rapide et hautement spécifique"
+            "La coloration de Ziehl sur les fèces, à la fois très rapide et hautement spécifique, avec une présentation qui peut prêter à confusion au premier examen"
           ],
           "correct": 0,
           "explanation": "La culture est très spécifique mais lente, avec croissance nécessitant plusieurs semaines à mois sur milieux spécifiques."
@@ -1967,7 +1967,7 @@
         {
           "question": "Quelle mesure protège le renouvellement dans un troupeau infecté ?",
           "options": [
-            "Traiter préventivement tous les veaux par antibiotiques jusqu'au sevrage complet",
+            "Traiter préventivement tous les veaux par antibiotiques jusqu'au sevrage complet, notamment lorsque l'évolution paraît rapide et peu spécifique",
             "Distribuer le colostrum de la mère sans précaution afin d'entretenir une tolérance digestive",
             "Séparer précocement le veau, maîtriser le colostrum et éviter l'exposition aux déjections adultes",
             "Laisser les veaux avec leur mère pour favoriser une immunisation naturelle progressive"
@@ -1997,7 +1997,7 @@
           "question": "Pourquoi les bêta-lactamines sont-elles inefficaces contre les mycoplasmes ?",
           "options": [
             "Parce que les mycoplasmes vivent exclusivement dans les macrophages alvéolaires profonds",
-            "Parce qu'ils possèdent tous des bêta-lactamases plasmidiques très puissantes",
+            "Parce qu'ils possèdent tous des bêta-lactamases plasmidiques très puissantes, surtout dans les situations où le diagnostic différentiel reste large",
             "Parce qu'ils se multiplient uniquement sous forme de biofilm dans le lait et les articulations",
             "Parce que les mycoplasmes n'ont pas de paroi cellulaire cible pour ces antibiotiques"
           ],
@@ -2007,7 +2007,7 @@
         {
           "question": "Quelle lésion est caractéristique d'une pasteurellose à Mannheimia haemolytica ?",
           "options": [
-            "Une pneumonie interstitielle diffuse sans exsudat fibrineux ni atteinte pleurale",
+            "Une pneumonie interstitielle diffuse sans exsudat fibrineux ni atteinte pleurale, notamment lorsque l'évolution paraît rapide et peu spécifique",
             "Une pleuropneumonie fibrineuse avec foyers de nécrose de coagulation au sein du parenchyme",
             "Une bronchopneumonie caséo-nécrotique sèche en \"fromage cottage\" typique des mycoplasmes",
             "Des nodules granulomateux pulmonaires calcifiés évoquant une mycobactériose chronique"
@@ -2019,7 +2019,7 @@
           "question": "Quel prélèvement est le plus pertinent pour une bactériologie respiratoire profonde chez un bovin vivant ?",
           "options": [
             "Une seule prise de sang pour sérologie, suffisante pour identifier l'agent bactérien causal",
-            "Une coproculture répétée sur fèces fraîches afin de rechercher les germes respiratoires",
+            "Une coproculture répétée sur fèces fraîches afin de rechercher les germes respiratoires, en contexte d'élevage intensif ou de promiscuité importante",
             "Une aspiration trans-trachéale réalisée sur un animal en début d'évolution",
             "Un écouvillonnage nasal superficiel, idéal pour représenter fidèlement le poumon profond"
           ],
@@ -2029,7 +2029,7 @@
         {
           "question": "Pourquoi associer des anti-inflammatoires lors de pasteurellose sévère ?",
           "options": [
-            "Parce qu'ils empêchent la latence virale de l'IBR dans les ganglions sensoriels",
+            "Parce qu'ils empêchent la latence virale de l'IBR dans les ganglions sensoriels, notamment chez les jeunes animaux ou lors d'épisodes collectifs",
             "Parce qu'ils remplacent l'antibiothérapie lorsque la sensibilité des pasteurelles est inconnue",
             "Parce qu'ils corrigent la cause nutritionnelle primaire des pneumonies d'engraissement",
             "Parce qu'une partie des lésions et du risque vital est liée à la réaction inflammatoire elle-même"
@@ -2048,7 +2048,7 @@
           "question": "Le coryza gangréneux est classiquement appelé maladie des 3 fontaines. Que désigne cette expression ?",
           "options": [
             "L'association d'une diarrhée, d'une polyurie et d'une sudation profuse chez les bovins atteints",
-            "Le trio constitué par photophobie, hypersomnie et émission excessive d'urines",
+            "Le trio constitué par photophobie, hypersomnie et émission excessive d'urines, notamment lorsque l'évolution paraît rapide et peu spécifique",
             "La présence simultanée d'une mammite, d'une métrite et d'une boiterie interdigitée",
             "La coexistence d'un larmoiement, d'un ptyalisme et d'un jetage nasal abondants"
           ],
@@ -2060,7 +2060,7 @@
           "options": [
             "L'herpèsvirus bovin de type 1",
             "Le virus respiratoire syncytial bovin",
-            "L'ovine herpesvirus 2",
+            "L'ovine herpesvirus 2, avec une présentation qui peut prêter à confusion au premier examen",
             "Le virus parainfluenza 3"
           ],
           "correct": 0,
@@ -2071,7 +2071,7 @@
           "options": [
             "Parce qu'ils transmettent l'infection uniquement à leur descendance par voie transplacentaire",
             "Parce qu'ils peuvent réexcréter le virus lors de stress malgré l'absence de signes apparents",
-            "Parce qu'ils ne contaminent plus que par voie génitale, sans rôle respiratoire ultérieur",
+            "Parce qu'ils ne contaminent plus que par voie génitale, sans rôle respiratoire ultérieur, surtout quand l'anamnèse oriente d'abord vers cette hypothèse",
             "Parce qu'ils restent virémiques en permanence et excrètent massivement dans toutes les sécrétions"
           ],
           "correct": 1,
@@ -2080,7 +2080,7 @@
         {
           "question": "Quelle particularité du VRSB explique la formation de syncytia ?",
           "options": [
-            "La production d'une leucotoxine détruisant directement les neutrophiles",
+            "La production d'une leucotoxine détruisant directement les neutrophiles, surtout quand l'anamnèse oriente d'abord vers cette hypothèse",
             "Le caractère segmenté de son génome ARN en plusieurs fragments indépendants",
             "Sa capacité à intégrer son génome dans celui des cellules respiratoires",
             "La présence d'une protéine de fusion F à la surface virale"
@@ -2092,7 +2092,7 @@
           "question": "Quelle stratégie vaccinale IBR permet de distinguer un animal vacciné d'un animal infecté par souche sauvage ?",
           "options": [
             "L'administration de deux doses rapprochées d'un vaccin complet inactivé",
-            "L'utilisation exclusive d'un vaccin vivant intranasal non délété",
+            "L'utilisation exclusive d'un vaccin vivant intranasal non délété, avec une présentation qui peut prêter à confusion au premier examen",
             "La vaccination des seuls veaux mâles avec rappel semestriel systématique",
             "L'utilisation d'un vaccin marqueur délété pour la glycoprotéine E"
           ],
@@ -2110,7 +2110,7 @@
           "question": "L'emphysème des regains est classiquement associé à quel contexte ?",
           "options": [
             "Une mise à l'herbe brutale sur une repousse très riche après une période de stabulation",
-            "Une intoxication chronique à la fougère aigle sur prairie pauvre en fourrage",
+            "Une intoxication chronique à la fougère aigle sur prairie pauvre en fourrage, notamment chez les jeunes animaux ou lors d'épisodes collectifs",
             "Une contamination virale collective lors d'une rentrée en bâtiment mal ventilé",
             "Une distribution prolongée de foin poussiéreux et moisi pendant tout l'hiver"
           ],
@@ -2123,7 +2123,7 @@
             "Une dyspnée aiguë marquée avec peu ou pas de fièvre après changement alimentaire ou de pâture",
             "Une bronchopneumonie caséo-nécrotique accompagnée d'arthrites et d'otites multiples",
             "Une forte fièvre avec jetage mucopurulent et atteinte pleurale fibrineuse à l'autopsie",
-            "Une hyperthermie élevée précédant de 48 heures la toux et les râles pulmonaires"
+            "Une hyperthermie élevée précédant de 48 heures la toux et les râles pulmonaires, surtout dans les formes subaiguës observées en élevage"
           ],
           "correct": 0,
           "explanation": "L'absence de fièvre nette, le lien alimentaire/pâturage et la dyspnée aiguë collective orientent vers une origine toxique ou non infectieuse."
@@ -2144,7 +2144,7 @@
           "options": [
             "L'actinobacillose linguale",
             "Le virus respiratoire syncytial bovin",
-            "La listériose nerveuse",
+            "La listériose nerveuse, avec un tableau clinique initial pouvant sembler compatible",
             "La kératoconjonctivite infectieuse bovine"
           ],
           "correct": 1,
@@ -2153,7 +2153,7 @@
         {
           "question": "Quelle mesure préventive limite l'emphysème des regains ?",
           "options": [
-            "Distribuer un antibiotique longue action à tous les bovins avant la mise à l'herbe",
+            "Distribuer un antibiotique longue action à tous les bovins avant la mise à l'herbe, avec des lésions ou des signes parfois partiellement superposables",
             "Mettre les animaux en densité élevée les premiers jours pour limiter leur activité respiratoire",
             "Éviter les transitions brutales et distribuer du fourrage sec avant la mise sur repousse riche",
             "Vacciner systématiquement les vaches contre Mannheimia avant chaque sortie au pâturage"
@@ -2172,7 +2172,7 @@
           "question": "Quel facteur d'élevage favorise fortement les pathologies respiratoires des petits ruminants ?",
           "options": [
             "Une complémentation minérale équilibrée en fin de gestation",
-            "Un accès quotidien à un pâturage bien drainé et peu chargé",
+            "Un accès quotidien à un pâturage bien drainé et peu chargé, surtout dans les situations où le diagnostic différentiel reste large",
             "Une forte densité associée à une ventilation médiocre du bâtiment",
             "Une distribution régulière de fourrage sec de bonne qualité"
           ],
@@ -2182,7 +2182,7 @@
         {
           "question": "Quelle affection respiratoire des petits ruminants peut évoluer chroniquement avec amaigrissement progressif ?",
           "options": [
-            "L'entérotoxémie à Clostridium perfringens de type D",
+            "L'entérotoxémie à Clostridium perfringens de type D, avec un tableau clinique initial pouvant sembler compatible",
             "La pasteurellose aiguë suraiguë de l'agneau de quelques jours",
             "L'ecthyma contagieux des lèvres et de la jonction mucocutanée",
             "Le maedi-visna avec atteinte respiratoire chronique progressive"
@@ -2194,7 +2194,7 @@
           "question": "Pourquoi les mycoplasmoses respiratoires sont-elles difficiles à traiter chez les petits ruminants ?",
           "options": [
             "Parce que les mycoplasmes sont naturellement dépourvus de paroi et peuvent persister en troupeau",
-            "Parce que les lésions sont toujours chirurgicales et nécessitent une thoracotomie",
+            "Parce que les lésions sont toujours chirurgicales et nécessitent une thoracotomie, surtout dans les situations où le diagnostic différentiel reste large",
             "Parce qu'aucun antibiotique ne diffuse dans le poumon des caprins ou des ovins adultes",
             "Parce qu'il s'agit uniquement de maladies virales insensibles à toute antibiothérapie"
           ],
@@ -2205,7 +2205,7 @@
           "question": "Quel prélèvement est pertinent pour rechercher un agent respiratoire dans un épisode de troupeau ?",
           "options": [
             "Une coproscopie réalisée sur l'ensemble des animaux atteints, quel que soit le tableau",
-            "Un prélèvement de lait de mélange, même si aucun trouble mammaire n'est observé",
+            "Un prélèvement de lait de mélange, même si aucun trouble mammaire n'est observé, notamment chez les jeunes animaux ou lors d'épisodes collectifs",
             "Une seule sérologie sur un animal guéri depuis plusieurs semaines pour guider le traitement",
             "Un lavage ou prélèvement respiratoire profond chez un animal au début de l'épisode"
           ],
@@ -2233,7 +2233,7 @@
         {
           "question": "Chez le mâle ruminant, pourquoi l'urolithiase obstructive est-elle particulièrement dangereuse ?",
           "options": [
-            "Parce que l'urètre du mâle est très large et rend les ruptures vésicales plus fréquentes",
+            "Parce que l'urètre du mâle est très large et rend les ruptures vésicales plus fréquentes, notamment chez les jeunes animaux ou lors d'épisodes collectifs",
             "Parce que les femelles excrètent mieux les calculs et transmettent ensuite l'obstacle aux mâles",
             "Parce que la fonction rénale s'arrête immédiatement dès qu'un petit calcul atteint le bassinet",
             "Parce que son urètre est long et étroit, avec des zones de rétrécissement favorisant l'obstruction"
@@ -2309,7 +2309,7 @@
             "Paralysie faciale unilatérale avec port de tête incliné et marche en cercle",
             "Raideur, difficulté à se lever ou à téter, parfois détresse cardiorespiratoire ou mort subite",
             "Diarrhée chronique avec appétit conservé et amaigrissement progressif sur plusieurs mois",
-            "Ptyalisme intense avec langue dure, douloureuse et chargée de granulomes"
+            "Ptyalisme intense avec langue dure, douloureuse et chargée de granulomes, avec une présentation qui peut prêter à confusion au premier examen"
           ],
           "correct": 1,
           "explanation": "Les formes locomotrices provoquent raideur et faiblesse ; les formes cardiaques/respiratoires peuvent être brutales et graves."
@@ -2318,7 +2318,7 @@
           "question": "Quel signe évoque une atteinte du nerf obturateur après vêlage dystocique ?",
           "options": [
             "Une chute du coude avec impossibilité d'étendre le membre thoracique distal",
-            "Une flexion permanente des boulets avec marche campée sur les pointes",
+            "Une flexion permanente des boulets avec marche campée sur les pointes, notamment lorsque l'évolution paraît rapide et peu spécifique",
             "Une incapacité à adducter les postérieurs avec ouverture des membres en compas",
             "Un port de tête penché avec nystagmus horizontal et perte d'équilibre latérale"
           ],
@@ -2329,7 +2329,7 @@
           "question": "Quelle distinction est utile entre arthrite septique et atteinte traumatique simple ?",
           "options": [
             "L'arthrite septique associe souvent chaleur, tuméfaction, douleur intense et parfois signes généraux",
-            "Une atteinte traumatique simple provoque systématiquement un écoulement purulent articulaire",
+            "Une atteinte traumatique simple provoque systématiquement un écoulement purulent articulaire, surtout dans les formes subaiguës observées en élevage",
             "L'arthrite traumatique est toujours fébrile alors que l'arthrite septique est constamment apyrétique",
             "L'arthrite septique ne concerne que les articulations du carpe et jamais les jarrets ni boulets"
           ],
@@ -2341,7 +2341,7 @@
           "options": [
             "Le dosage des enzymes musculaires comme CK et AST",
             "Une coproscopie quantitative avec recherche d'oocystes",
-            "Une sérologie IBR en phase de convalescence",
+            "Une sérologie IBR en phase de convalescence, notamment lorsque l'évolution paraît rapide et peu spécifique",
             "Le dosage de l'urée et de la créatinine urinaires"
           ],
           "correct": 0,
@@ -2358,7 +2358,7 @@
           "question": "Dans un troupeau ovin, quelle affection podale contagieuse doit être suspectée lors de boiteries multiples avec lésions interdigitées ?",
           "options": [
             "Le piétin (foot rot) des petits ruminants",
-            "La maladie des muqueuses chronique",
+            "La maladie des muqueuses chronique, avec une présentation qui peut prêter à confusion au premier examen",
             "La kératoconjonctivite infectieuse ovine",
             "L'épididymite contagieuse du bélier"
           ],
@@ -2368,7 +2368,7 @@
         {
           "question": "Quel facteur environnemental favorise fortement le piétin des petits ruminants ?",
           "options": [
-            "Un terrain très sec, pierreux et ventilé pendant toute la saison chaude",
+            "Un terrain très sec, pierreux et ventilé pendant toute la saison chaude, surtout quand l'anamnèse oriente d'abord vers cette hypothèse",
             "Une exposition solaire intense en altitude avec faible charge microbienne du sol",
             "Une humidité prolongée entraînant macération des espaces interdigités",
             "Une complémentation cuprique soutenue chez des brebis gestantes bien nourries"
@@ -2382,7 +2382,7 @@
             "Supprimer le pâturage et maintenir en bergerie humide pour éviter la dissémination au sol",
             "Réaliser pédiluves, parage raisonné, isolement/réforme des chroniques et amélioration sanitaire",
             "Distribuer des tétracyclines dans l'eau de boisson à tout le troupeau sans examen préalable",
-            "Traiter uniquement les cas cliniques visibles et ne rien modifier dans l'environnement"
+            "Traiter uniquement les cas cliniques visibles et ne rien modifier dans l'environnement, avec des lésions ou des signes parfois partiellement superposables"
           ],
           "correct": 1,
           "explanation": "La lutte est collective et combine soins des pieds, pédiluves, tri des atteints, réforme des chroniques et amélioration du milieu."
@@ -2391,7 +2391,7 @@
           "question": "Quelle localisation permet de différencier une arthrite d'une lésion podale primaire ?",
           "options": [
             "Une tuméfaction centrée sur l'articulation, au-dessus du pied, oriente vers l'arthrite",
-            "Une douleur strictement limitée à la sole est plus typique d'une arthrite septique évoluée",
+            "Une douleur strictement limitée à la sole est plus typique d'une arthrite septique évoluée, en contexte d'élevage intensif ou de promiscuité importante",
             "Une lésion interdigitée macérée exclut toute possibilité de complication articulaire associée",
             "Une chaleur locale du pied signifie forcément que l'atteinte siège dans la hanche ou le grasset"
           ],
@@ -2404,7 +2404,7 @@
             "Parce qu'une fois une brebis traitée, l'agent causal disparaît spontanément de toute l'exploitation",
             "Parce que les lésions podales d'origine infectieuse ne concernent jamais plusieurs animaux à la fois",
             "Parce que les agents persistent dans l'environnement et que des animaux non traités entretiennent le foyer",
-            "Parce que les boiteries infectieuses sont essentiellement d'origine traumatique et non contagieuse"
+            "Parce que les boiteries infectieuses sont essentiellement d'origine traumatique et non contagieuse, notamment chez les jeunes animaux ou lors d'épisodes collectifs"
           ],
           "correct": 2,
           "explanation": "Sans correction du milieu et gestion des porteurs/chroniques, les animaux se recontaminent et la maladie persiste dans le troupeau."
@@ -2431,7 +2431,7 @@
           "question": "Quel vecteur mécanique favorise la diffusion de la KCIB ?",
           "options": [
             "Le moucheron Culicoides",
-            "Le pou broyeur bovin",
+            "Le pou broyeur bovin, avec un tableau clinique initial pouvant sembler compatible",
             "La mouche Musca autumnalis",
             "La tique Ixodes ricinus"
           ],
@@ -2452,7 +2452,7 @@
         {
           "question": "Quel signe rend le pronostic oculaire plus réservé dans une KCIB ?",
           "options": [
-            "Une hyperhémie conjonctivale isolée sans atteinte de la cornée",
+            "Une hyperhémie conjonctivale isolée sans atteinte de la cornée, en contexte d'élevage intensif ou de promiscuité importante",
             "Un larmoiement clair avec blépharospasme modéré depuis moins de 24 heures",
             "Une légère photophobie chez un veau encore normotherme et vigile",
             "La présence d'un ulcère cornéen profond ou d'un risque de perforation"
@@ -2466,7 +2466,7 @@
             "La lutte contre les mouches, l'isolement des cas et la réduction des poussières/UV",
             "Une antibioprévention systématique de tous les bovins à chaque sortie au pâturage",
             "Le mélange des lots pour homogénéiser rapidement l'immunité oculaire du troupeau",
-            "La suppression de toute tonte ou manipulation de la tête pendant l'été"
+            "La suppression de toute tonte ou manipulation de la tête pendant l'été, notamment lorsque l'évolution paraît rapide et peu spécifique"
           ],
           "correct": 0,
           "explanation": "La prévention repose sur maîtrise des vecteurs/irritants, isolement relatif et traitement rapide pour limiter les sources."
@@ -2481,7 +2481,7 @@
         {
           "question": "Quelle proportion approximative des boiteries bovines adultes est d'origine podale ?",
           "options": [
-            "Environ 50 %",
+            "Environ 50 %, avec une présentation qui peut prêter à confusion au premier examen",
             "Environ 25 %",
             "Environ 90 %",
             "Environ 70 %"
@@ -2504,7 +2504,7 @@
           "question": "Quel facteur nutritionnel favorise la fourbure bovine ?",
           "options": [
             "Une complémentation régulière en biotine chez des vaches hautes productrices en début de lactation",
-            "Un rapport phosphocalcique élevé associé à une consommation d'eau importante au pâturage",
+            "Un rapport phosphocalcique élevé associé à une consommation d'eau importante au pâturage, notamment lorsque l'évolution paraît rapide et peu spécifique",
             "Une carence isolée en vitamine E chez des veaux au lait entier bien supplémentés en sélénium",
             "Une acidose ruminale subaiguë liée à des rations riches en concentrés et pauvres en fibres efficaces"
           ],
@@ -2514,7 +2514,7 @@
         {
           "question": "Quel principe de parage est essentiel lors d'ulcère de sole ?",
           "options": [
-            "Creuser largement la lésion jusqu'au saignement pour relancer la repousse d'une corne saine",
+            "Creuser largement la lésion jusqu'au saignement pour relancer la repousse d'une corne saine, notamment chez les jeunes animaux ou lors d'épisodes collectifs",
             "Ne jamais intervenir mécaniquement tant que l'animal reste ambulatoire et conserve son appétit",
             "Sectionner systématiquement la pince de l'onglon opposé pour rétablir une symétrie parfaite",
             "Mettre en décharge l'onglon atteint en reportant l'appui sur l'onglon sain, souvent avec un talonnet"
@@ -2544,7 +2544,7 @@
           "question": "Quelle dermatose des ruminants est classiquement zoonotique et due à des dermatophytes ?",
           "options": [
             "La teigne",
-            "La démodécie",
+            "La démodécie, avec une présentation qui peut prêter à confusion au premier examen",
             "La nécrobacillose",
             "La dermatophilose"
           ],
@@ -2568,7 +2568,7 @@
             "La fièvre catarrhale ovine",
             "L'ecthyma contagieux (orf)",
             "La border disease",
-            "La besnoitiose"
+            "La besnoitiose, en contexte d'élevage intensif ou de promiscuité importante"
           ],
           "correct": 1,
           "explanation": "L'ecthyma contagieux est un parapoxvirus zoonotique provoquant lésions croûteuses péribuccales, parfois mammaires ou podales."
@@ -2608,7 +2608,7 @@
             "Une turgescence jugulaire souvent associée à un œdème du fanon ou du poitrail",
             "Une diarrhée hémorragique brutale avec hyperthermie supérieure à 41,5 °C",
             "Une kératite ulcérative bilatérale douloureuse avec photophobie majeure",
-            "Une glossite granulomateuse avec langue pendante et hypersialorrhée"
+            "Une glossite granulomateuse avec langue pendante et hypersialorrhée, surtout dans les formes subaiguës observées en élevage"
           ],
           "correct": 0,
           "explanation": "La congestion veineuse systémique entraîne distension jugulaire, œdèmes, ascite et parfois pouls jugulaire pathologique."
@@ -2641,7 +2641,7 @@
             "Parce que les lésions valvulaires droites peuvent emboliser le poumon et s'accompagner d'insuffisance cardiaque",
             "Parce que l'endocardite se propage obligatoirement à la trachée et aux bronches par contiguïté directe",
             "Parce que les bactéries responsables sont toujours des agents primitifs de kératoconjonctivite infectieuse",
-            "Parce que toute endocardite entraîne une obstruction réflexe du larynx et une toux nerveuse chronique"
+            "Parce que toute endocardite entraîne une obstruction réflexe du larynx et une toux nerveuse chronique, en particulier lorsque plusieurs facteurs de risque se superposent"
           ],
           "correct": 0,
           "explanation": "Les lésions valvulaires droites peuvent emboliser vers les poumons, provoquant foyers septiques et signes respiratoires."
@@ -2670,7 +2670,7 @@
             "Le tronc cérébral (rombencéphale)",
             "Le cortex cérébral frontal",
             "La moelle épinière lombo-sacrée",
-            "Le cervelet vermien"
+            "Le cervelet vermien, surtout dans les situations où le diagnostic différentiel reste large"
           ],
           "correct": 0,
           "explanation": "Listeria monocytogenes provoque une rhombencéphalite, expliquant les déficits asymétriques des nerfs crâniens."
@@ -2678,7 +2678,7 @@
         {
           "question": "Quel tableau est le plus évocateur de listériose ?",
           "options": [
-            "Une kératite bilatérale ulcérative accompagnée d'une hypersécrétion lacrymale",
+            "Une kératite bilatérale ulcérative accompagnée d'une hypersécrétion lacrymale, avec un tableau clinique initial pouvant sembler compatible",
             "Des déficits asymétriques de nerfs crâniens avec marche en cercle et dysphagie",
             "Une paralysie flasque symétrique des quatre membres sans atteinte des nerfs crâniens",
             "Une diarrhée chronique avec amaigrissement et conservation prolongée de l'appétit"
@@ -2692,7 +2692,7 @@
             "Une destruction des interneurones inhibiteurs médullaires par une toxine tétanique",
             "Une méningoencéphalite suppurée ascendante après contamination ombilicale du veau",
             "Une inhibition de la libération d'acétylcholine à la jonction neuromusculaire par une toxine",
-            "Une démyélinisation corticale diffuse secondaire à une carence en thiamine"
+            "Une démyélinisation corticale diffuse secondaire à une carence en thiamine, notamment chez les jeunes animaux ou lors d'épisodes collectifs"
           ],
           "correct": 2,
           "explanation": "La toxine botulique bloque l'acétylcholine et provoque paralysie flasque progressive."
@@ -2713,7 +2713,7 @@
           "options": [
             "Une perfusion concentrée de glucose hypertonique sans autre mesure",
             "Une injection unique d'iodure de sodium par voie intraveineuse lente",
-            "Une antibiothérapie longue à base de pénicilline procaïne seule",
+            "Une antibiothérapie longue à base de pénicilline procaïne seule, notamment lorsque l'évolution paraît rapide et peu spécifique",
             "Une administration rapide de thiamine à dose adaptée"
           ],
           "correct": 3,
@@ -2740,7 +2740,7 @@
         {
           "question": "La cétose de type 2 est associée à quel profil ?",
           "options": [
-            "Une brebis en fin de gestation présentant une toxémie de gestation classique",
+            "Une brebis en fin de gestation présentant une toxémie de gestation classique, surtout quand l'anamnèse oriente d'abord vers cette hypothèse",
             "Une génisse de pâturage atteinte de leptospirose ictéro-hémoglobinurique aiguë",
             "Une vache plutôt maigre au pic de lactation sans surcharge hépatique notable",
             "Une vache grasse au vêlage avec stéatose hépatique importante en tout début de lactation"
@@ -2775,7 +2775,7 @@
           "options": [
             "Un ictère physiologique néonatal lié à l'immaturité enzymatique hépatique",
             "Un ictère hépatique par lésion du foie lui-même",
-            "Un ictère préhépatique d'origine strictement hémolytique",
+            "Un ictère préhépatique d'origine strictement hémolytique, en contexte d'élevage intensif ou de promiscuité importante",
             "Un ictère posthépatique par obstruction biliaire extra-hépatique"
           ],
           "correct": 1,
@@ -2793,7 +2793,7 @@
           "options": [
             "La localisation neuroanatomique de la lésion à partir de l'examen clinique",
             "La recherche d'une hyperthermie comme unique critère de tri des maladies nerveuses",
-            "L'autopsie de plusieurs animaux du lot avant d'examiner le premier cas clinique",
+            "L'autopsie de plusieurs animaux du lot avant d'examiner le premier cas clinique, notamment chez les jeunes animaux ou lors d'épisodes collectifs",
             "Le dosage systématique des anticorps spécifiques avant toute observation clinique"
           ],
           "correct": 0,
@@ -2866,7 +2866,7 @@
           "options": [
             "Un décubitus avec extrémités froides, rumen atone et animal souvent peu réactif",
             "Une hyperexcitabilité marquée avec tétanie et convulsions déclenchées par le bruit",
-            "Une photophobie bilatérale avec larmoiement et ulcère cornéen central",
+            "Une photophobie bilatérale avec larmoiement et ulcère cornéen central, surtout dans les situations où le diagnostic différentiel reste large",
             "Une diarrhée profuse fibrineuse avec hyperthermie et chute brutale de production laitière"
           ],
           "correct": 0,
@@ -2875,7 +2875,7 @@
         {
           "question": "Quel objectif nutritionnel prépartum aide à prévenir l'hypocalcémie ?",
           "options": [
-            "Supprimer tout apport minéral les quinze derniers jours avant la mise bas",
+            "Supprimer tout apport minéral les quinze derniers jours avant la mise bas, notamment lorsque l'évolution paraît rapide et peu spécifique",
             "Raisonner la ration de transition pour stimuler l'homéostasie calcique, notamment via le DCAD",
             "Augmenter au maximum le potassium des fourrages pour stimuler l'appétit avant vêlage",
             "Distribuer beaucoup de calcium hautement assimilable durant tout le tarissement"
@@ -2888,7 +2888,7 @@
           "options": [
             "Le foie répond au déficit énergétique en diminuant totalement la néoglucogenèse et en stockant le glucose",
             "Le déficit énergétique favorise la lipomobilisation, l'afflux de NEFA au foie et la cétogenèse",
-            "Le bilan énergétique négatif augmente directement le calcium ionisé et bloque toute lipolyse",
+            "Le bilan énergétique négatif augmente directement le calcium ionisé et bloque toute lipolyse, notamment chez les jeunes animaux ou lors d'épisodes collectifs",
             "Il n'existe aucun lien métabolique démontré entre ingestion insuffisante et production de corps cétoniques"
           ],
           "correct": 1,
@@ -2898,7 +2898,7 @@
           "question": "Quelle mesure générale est centrale pour prévenir les maladies métaboliques de transition ?",
           "options": [
             "Le maintien des vaches taries en lot unique très dense pour limiter les variations de consommation",
-            "Une antibiothérapie systématique au tarissement et jusqu'à deux semaines après le vêlage",
+            "Une antibiothérapie systématique au tarissement et jusqu'à deux semaines après le vêlage, avec un tableau clinique initial pouvant sembler compatible",
             "La suppression du colostrum et du lait de transition afin d'éviter tout stress métabolique",
             "Une conduite de transition maîtrisée avec suivi de l'état corporel, de l'ingestion et de la ration"
           ],
