@@ -2906,6 +2906,2028 @@
           "explanation": "Les maladies métaboliques sont fortement liées à la conduite de transition : BCS, apports minéraux, énergie, ingestion et surveillance rapprochée."
         }
       ]
+    },
+    {
+      "id": "b5-equides-reglementees",
+      "title": "Maladies réglementées des équidés | Maladies reglementees des équidés.pdf",
+      "description": "Morve, peste équine, AVE, AIE, dourine, encéphalites équines réglementées, métrite contagieuse équine, surra, West Nile, stomatite vésiculeuse.",
+      "questions": [
+        {
+          "question": "Parmi les maladies réglementées des équidés étudiées dans ce polycopié, laquelle relève des catégories A, D et E et impose la préparation d’un plan national d’intervention sanitaire d’urgence ?",
+          "options": [
+            "L’anémie infectieuse des équidés et la métrite contagieuse équine relèvent des catégories B, D et E.",
+            "La fièvre West Nile et l’encéphalite japonaise relèvent des catégories A et B chez les équidés.",
+            "L’artérite virale équine et la dourine relèvent des seules catégories C et E.",
+            "La peste équine et la morve entrent dans les maladies A, D et E chez les équidés."
+          ],
+          "correct": 3,
+          "explanation": "Dans le polycopié, la morve et la peste équine sont rangées parmi les maladies A, D et E. Les autres affections citées relèvent surtout des catégories D et E, ou seulement E selon le cas."
+        },
+        {
+          "question": "Chez les équidés, quelle espèce est classiquement la plus sensible à la morve dans les conditions naturelles ?",
+          "options": [
+            "Le poney est nettement plus sensible que l’âne, ce qui explique sa place de sentinelle clinique.",
+            "Le cheval est l’espèce équine la plus sensible, alors que l’âne développe surtout des infections inapparentes prolongées.",
+            "Le mulet est réputé réfractaire, contrairement au cheval et au bardot qui développent les formes septicémiques.",
+            "L’âne est l’espèce équine la plus sensible à la morve."
+          ],
+          "correct": 3,
+          "explanation": "Le polycopié précise que la morve affecte surtout les équidés et que les ânes sont les plus sensibles, devant les mulets puis les chevaux."
+        },
+        {
+          "question": "Dans la morve chronique du cheval, quelle lésion pulmonaire est considérée comme constante à l’autopsie ?",
+          "options": [
+            "Une trachéite nécrosante isolée sans adénite médiastinale suffit habituellement à poser le diagnostic lésionnel.",
+            "Une bronchopneumonie suppurée diffuse sans coque fibreuse constitue la lésion pulmonaire la plus constante.",
+            "Une pleurésie fibrineuse massive sans atteinte parenchymateuse est la lésion la plus caractéristique.",
+            "La présence de nodules pseudotuberculeux caséeux dans le parenchyme pulmonaire est une lésion constante."
+          ],
+          "correct": 3,
+          "explanation": "La morve chronique se caractérise notamment par des pseudotubercules morveux pulmonaires, avec centre caséeux et coque fibreuse, associés à des adénites trachéobronchiques et médiastinales."
+        },
+        {
+          "question": "Quel test était historiquement utilisé pour le dépistage allergique de la morve avant l’indisponibilité actuelle de la malléine en France ?",
+          "options": [
+            "La malléination intradermo-palpébrale était le test allergique historique de référence.",
+            "Le test de Coggins par immunodiffusion en gélose constituait l’épreuve allergique de terrain la plus utilisée.",
+            "L’intradermo-réaction à la tuberculine aviaire permettait le dépistage spécifique de Burkholderia mallei.",
+            "Une intradermoréaction à la brucelline équine permettait d’obtenir la meilleure sensibilité dès la première semaine."
+          ],
+          "correct": 0,
+          "explanation": "Avant la priorité donnée aux approches sérologiques et moléculaires, la malléination intradermo-palpébrale était classiquement utilisée pour le dépistage allergique de la morve."
+        },
+        {
+          "question": "Concernant la peste équine, quelle proposition traduit correctement son mode de transmission en situation naturelle ?",
+          "options": [
+            "La maladie se propage principalement par contact direct entre chevaux fébriles et par aérosols de courte distance dans les écuries.",
+            "La peste équine se transmet indirectement par des arthropodes piqueurs, surtout des culicoïdes.",
+            "Le principal mécanisme de diffusion est la voie vénérienne avec persistance virale prolongée chez les étalons guéris.",
+            "La transmission naturelle repose surtout sur l’ingestion d’eau souillée par les sécrétions nasales des équidés malades."
+          ],
+          "correct": 1,
+          "explanation": "La peste équine est une arbovirose ; elle ne se transmet pas par contact direct. Les culicoïdes jouent un rôle central dans sa diffusion."
+        },
+        {
+          "question": "Quelle forme clinique de la peste équine évolue le plus rapidement vers la mort par asphyxie en 24 à 48 heures ?",
+          "options": [
+            "La forme pulmonaire aiguë ou suraiguë est celle qui conduit le plus vite à l’asphyxie.",
+            "La forme nerveuse atténuée est la plus redoutable, avec décès quasi constant avant l’apparition des œdèmes.",
+            "La forme fébrile pure est la plus rapidement mortelle, sans lésions macroscopiques respiratoires ni œdémateuses.",
+            "La forme cardiaque se complique toujours d’un collapsus foudroyant avant toute manifestation respiratoire notable."
+          ],
+          "correct": 0,
+          "explanation": "La forme pulmonaire de la peste équine s’accompagne d’un œdème pulmonaire intense, de dyspnée sévère et d’un décès rapide par asphyxie."
+        },
+        {
+          "question": "Dans les mesures de police sanitaire décrites pour la peste équine, quelle zone minimale de protection peut être délimitée autour d’un foyer ?",
+          "options": [
+            "Une zone de protection d’au moins 100 km autour du foyer peut être instaurée.",
+            "Une zone de protection de 50 km et une zone de surveillance de 10 km sont les valeurs minimales décrites.",
+            "Une zone de protection de 20 km est la seule mesure spatiale minimale, la zone de surveillance étant facultative.",
+            "Une zone de protection fixe de 5 km est prévue, sans zone de surveillance complémentaire dès lors que les équidés sont vaccinés."
+          ],
+          "correct": 0,
+          "explanation": "Le document mentionne la délimitation par arrêté ministériel d’une zone de protection d’au moins 100 km, complétée par une zone de surveillance d’au moins 50 km au-delà."
+        },
+        {
+          "question": "Quel élément épidémiologique majeur explique la persistance de l’artérite virale équine dans les populations équines ?",
+          "options": [
+            "Les juments convalescentes deviennent des porteuses utérines à vie et assurent la majeure partie de la diffusion inter-saisonnière.",
+            "Les étalons guéris peuvent rester porteurs et excréteurs de virus dans le sperme.",
+            "Les poulains infectés in utero deviennent presque toujours des excréteurs permanents analogues aux IPI bovins.",
+            "Le virus persiste durablement dans les glandes salivaires de tous les équidés guéris, ce qui entretient une transmission oro-nasale chronique."
+          ],
+          "correct": 1,
+          "explanation": "Le portage prolongé dans les glandes annexes de l’appareil génital des étalons est un élément clé de l’épidémiologie de l’AVE. Les juments et les hongres éliminent le virus après guérison."
+        },
+        {
+          "question": "Quel énoncé est exact concernant les juments et les hongres après guérison d’une artérite virale équine ?",
+          "options": [
+            "Ils deviennent des porteurs chroniques respiratoires, avec excrétion intermittente par voie nasale pendant plusieurs années.",
+            "Ils éliminent le virus après guérison et ne constituent pas des porteurs chroniques comparables aux étalons.",
+            "Ils gardent systématiquement une excrétion virale fécale prolongée, à l’origine des foyers enzootiques de haras.",
+            "Ils restent porteurs dans les glandes annexes génitales, mais seulement si l’infection initiale s’est accompagnée d’avortement."
+          ],
+          "correct": 1,
+          "explanation": "Contrairement aux étalons, les juments et les hongres n’assurent pas un portage chronique génital durable après guérison."
+        },
+        {
+          "question": "Parmi les tableaux suivants, lequel est particulièrement évocateur d’une forme clinique d’AVE chez l’adulte ?",
+          "options": [
+            "Une maladie cutanée prurigineuse chronique limitée à la ligne dorsale, sans signe général ni atteinte respiratoire.",
+            "Une fièvre avec conjonctivite, œdèmes déclives et éventuellement avortements dans le même foyer.",
+            "Une stomatite vésiculeuse isolée avec ulcères oraux profonds, lésions podales et mortalité foudroyante constante.",
+            "Une diarrhée hémorragique avec splénomégalie majeure et sidéroleucocytes très nombreux au frottis sanguin."
+          ],
+          "correct": 1,
+          "explanation": "L’AVE associe classiquement fièvre, abattement, inflammation des muqueuses, œdèmes déclives et peut s’accompagner d’avortements."
+        },
+        {
+          "question": "Quel examen constitue la méthode sérologique officielle classique de routine pour l’anémie infectieuse des équidés en France ?",
+          "options": [
+            "Le test de Coggins par immunodiffusion en gélose reste la méthode classique de référence.",
+            "Le test de Coggins est un ELISA compétitif recherchant les IgM anti-gp90 apparues dès les premières 48 heures.",
+            "La méthode officielle classique repose sur la fixation du complément systématiquement confirmée par isolement viral.",
+            "La séroneutralisation seule est retenue en routine, car l’immunodiffusion manque de spécificité pour l’AIE."
+          ],
+          "correct": 0,
+          "explanation": "Le document insiste sur le test de Coggins, basé sur l’immunodiffusion en gélose, comme outil classique officiel de dépistage de l’AIE."
+        },
+        {
+          "question": "Pourquoi un résultat négatif unique au test de Coggins ne suffit-il pas toujours à exclure l’AIE chez un équidé récemment exposé ?",
+          "options": [
+            "Parce que la sensibilité du test chute fortement dès qu’un cheval présente des œdèmes déclives ou une atteinte hépatique.",
+            "Parce que les anticorps précipitants disparaissent en quelques jours après chaque accès fébrile, rendant le test très fluctuant.",
+            "Parce que la séroconversion peut être retardée et imposer un nouveau contrôle après le dernier contact contaminant.",
+            "Parce que le test n’est interprétable que sur liquide cérébrospinal et non sur sérum en phase initiale."
+          ],
+          "correct": 2,
+          "explanation": "Les anticorps détectés par le test de Coggins apparaissent en moyenne trois à quatre semaines après l’infection, parfois plus tardivement. Un négatif trop précoce ne suffit donc pas."
+        },
+        {
+          "question": "Quel mode de transmission est considéré comme principal pour l’AIE dans les conditions naturelles ?",
+          "options": [
+            "La transmission respiratoire directe par aérosols est le mécanisme majeur, surtout chez les chevaux en box collectif.",
+            "La transmission vénérienne est habituelle et explique à elle seule l’entretien enzootique dans les haras.",
+            "La voie digestive par eau souillée représente le mode naturel dominant chez l’adulte comme chez le poulain.",
+            "La transmission indirecte à partir du sang par insectes piqueurs ou matériel contaminé est le mode principal."
+          ],
+          "correct": 3,
+          "explanation": "L’AIE se transmet surtout via le sang, notamment par tabanidés, stomoxes ou matériel iatrogène. Les autres voies existent mais sont secondaires."
+        },
+        {
+          "question": "Quel argument va plutôt en faveur de la dourine plutôt que d’une autre trypanosomose équine ?",
+          "options": [
+            "Le rôle des tiques est indispensable à la maturation du parasite avant toute transmission à l’équidé.",
+            "La transmission est essentiellement vénérienne, sans nécessité de vecteur arthropodien.",
+            "Le trypanosome se transmet surtout par ingestion d’eau souillée au pâturage, puis colonise préférentiellement le tube digestif.",
+            "La maladie requiert obligatoirement le passage par une glossine, ce qui explique sa stricte distribution tropicale."
+          ],
+          "correct": 1,
+          "explanation": "La dourine se distingue précisément par son mode de transmission vénérienne, contrairement aux autres trypanosomoses classiquement vectorielles."
+        },
+        {
+          "question": "Dans la forme typique de dourine, quelle succession clinique est la plus conforme au schéma classique ?",
+          "options": [
+            "Phase digestive fébrile, puis phase cutanée pustuleuse, puis phase de polyarthrite suppurée aiguë.",
+            "Phase respiratoire ulcérative, puis phase cardiaque œdémateuse, puis phase hépatique ictérique terminale.",
+            "Phase musculaire douloureuse, puis phase rénale hémorragique, puis phase méningée rapidement mortelle.",
+            "Phase génitale, puis phase cutanéo-ganglionnaire, puis phase nerveuse évoluant vers la paralysie."
+          ],
+          "correct": 3,
+          "explanation": "La dourine évolue classiquement en trois phases : atteinte génitale, puis plaques cutanées avec polyadénite, puis troubles nerveux aboutissant à la paralysie."
+        },
+        {
+          "question": "Quelle description correspond le mieux aux « plaques nummulaires » de la dourine ?",
+          "options": [
+            "Ce sont des vésicules profondes persistantes du fourreau contenant un exsudat huileux très riche en trypanosomes.",
+            "Ce sont des croûtes épaisses du chanfrein et des membres, pathognomoniques d’une transmission par tiques.",
+            "Il s’agit de plaques cutanées arrondies, saillantes et fugaces, classiquement appelées « douros ».",
+            "Il s’agit d’escarres de décubitus sur les saillies osseuses, observées seulement dans la phase terminale."
+          ],
+          "correct": 2,
+          "explanation": "Les plaques nummulaires, ou « douros », sont une manifestation cutanée classique de la phase intermédiaire de la dourine."
+        },
+        {
+          "question": "Concernant l’encéphalomyélite équine vénézuélienne, quel énoncé résume le mieux la place des équidés dans les épizooties dues aux variants épizootiques ?",
+          "options": [
+            "Les équidés constituent le réservoir sauvage principal, alors que les rongeurs ne jouent qu’un rôle accessoire, en particulier dans les formes cliniques ou réglementaires les plus souvent discutées au cours.",
+            "Les équidés sont des culs-de-sac épidémiologiques constants et ne participent jamais à la contamination des vecteurs.",
+            "Les équidés jouent un rôle amplificateur car ils développent une virémie assez élevée pour contaminer les moustiques.",
+            "La virémie équine n’a de signification que pour les glossines, mais pas pour les moustiques du cycle américain."
+          ],
+          "correct": 2,
+          "explanation": "Pour les variants épizootiques d’EEV, les équidés ne sont pas de simples victimes : ils amplifient le cycle en contaminant les moustiques grâce à une virémie importante."
+        },
+        {
+          "question": "Quel couple réservoir-vecteur est le plus compatible avec le cycle enzootique des virus du complexe EEV ?",
+          "options": [
+            "Des carnivores sauvages et des tiques ixodidées suffisent à entretenir durablement le virus en l’absence de moustiques.",
+            "Des rongeurs réservoirs et des moustiques, notamment du genre Culex, assurent le cycle de base.",
+            "Des oiseaux marins et des puces hématophages constituent le couple biologique déterminant dans les foyers sud-américains.",
+            "Des équidés porteurs chroniques et des culicoïdes maintiennent seuls le cycle enzootique dans les zones humides."
+          ],
+          "correct": 1,
+          "explanation": "Le polycopié insiste sur le rôle majeur des rongeurs et des moustiques dans les cycles enzootiques d’EEV."
+        },
+        {
+          "question": "Chez un étalon suspect de métrite contagieuse équine, quel prélèvement est le plus pertinent parmi les propositions suivantes ?",
+          "options": [
+            "Un écouvillon nasal profond est prioritaire, car le portage est surtout respiratoire et non génital chez le mâle.",
+            "Une biopsie testiculaire est l’examen de première intention, car le germe se loge quasi exclusivement dans le parenchyme testiculaire.",
+            "Un prélèvement de la fosse urétrale fait partie des prélèvements recommandés chez l’étalon.",
+            "Une coproculture ciblée sur les fèces fraîches permet le meilleur dépistage des porteurs asymptomatiques."
+          ],
+          "correct": 2,
+          "explanation": "Chez l’étalon, les prélèvements portent notamment sur la fosse urétrale, parfois l’urètre et le sperme selon le contexte."
+        },
+        {
+          "question": "À quel moment les prélèvements destinés au contrôle des juments vides vis-à-vis de la métrite contagieuse équine doivent-ils idéalement être réalisés ?",
+          "options": [
+            "Exclusivement pendant l’anœstrus hivernal, car la flore génitale y est la plus stable et les faux positifs plus rares.",
+            "Pendant les chaleurs, afin d’optimiser la pertinence du contrôle bactériologique.",
+            "Hors toute période de chaleur, car l’œstrus augmente systématiquement le risque de faux négatifs.",
+            "Uniquement dans les 24 heures suivant la mise bas, quel que soit le statut reproducteur ultérieur de la jument."
+          ],
+          "correct": 1,
+          "explanation": "Le document rappelle que les prélèvements chez les juments vides doivent être réalisés pendant les chaleurs."
+        },
+        {
+          "question": "Quel principe thérapeutique est exact dans la métrite contagieuse équine ?",
+          "options": [
+            "Le traitement n’a aucune utilité pratique car le portage chronique persiste malgré la négativation bactériologique, surtout lorsque l’anamnèse et le contexte d’élevage peuvent orienter vers cette hypothèse au premier abord.",
+            "La jument infectée est traitée exclusivement par vaccination post-exposition, les traitements locaux étant contre-indiqués pendant l’œstrus.",
+            "Le traitement de l’étalon repose surtout sur des lavages et désinfections locaux avec pommade antibiotique, sans éviction définitive de la monte.",
+            "Le traitement de l’étalon impose une antibiothérapie générale prolongée, et toute reprise de monte naturelle devient contre-indiquée à vie."
+          ],
+          "correct": 2,
+          "explanation": "Le portage peut être éliminé par un traitement local bien conduit et contrôlé. L’étalon n’est pas exclu définitivement, mais il doit être recontrôlé avant reprise de la monte."
+        },
+        {
+          "question": "Quel énoncé distingue le surra de la dourine ?",
+          "options": [
+            "Le surra est une maladie strictement spécifique des équidés, tandis que la dourine affecte volontiers les ruminants et les chiens.",
+            "Le surra est transmis surtout par des insectes piqueurs de façon mécanique, alors que la dourine est essentiellement vénérienne.",
+            "Le surra est dû à un alphavirus, tandis que la dourine est due à un flavivirus neurotrope.",
+            "Le surra n’a jamais de forme chronique, alors que la dourine est toujours suraiguë chez le cheval et le dromadaire."
+          ],
+          "correct": 1,
+          "explanation": "Le surra est lié à Trypanosoma evansi et se transmet principalement par insectes piqueurs, contrairement à la dourine due à T. equiperdum et transmise sexuellement."
+        },
+        {
+          "question": "Chez le cheval atteint de surra, quel signe évoque particulièrement l’atteinte neurologique terminale décrite dans le polycopié ?",
+          "options": [
+            "Une paralysie faciale isolée avec kératoconjonctivite sèche persistante et hypersalivation spasmodique.",
+            "Une cécité corticale bilatérale sans modification de la démarche ni de l’état général.",
+            "Une parésie puis une paralysie du train postérieur, décrite en Amérique du Sud comme le « mal de Caderas ».",
+            "Une tétanie généralisée douloureuse déclenchée par les stimuli sonores, avec trismus et hyperesthésie permanente."
+          ],
+          "correct": 2,
+          "explanation": "Le surra équin peut évoluer vers une atteinte neurologique avec parésie du train postérieur, puis paralysie généralisée."
+        },
+        {
+          "question": "Concernant les encéphalites équines américaines de l’Est et de l’Ouest, quel réservoir est considéré comme majeur dans l’entretien du virus ?",
+          "options": [
+            "Les oiseaux sauvages jouent un rôle réservoir majeur dans les cycles naturels.",
+            "Les équidés convalescents assurent à eux seuls le maintien hivernal du virus dans les zones tempérées.",
+            "Les lapins sauvages sont les seuls réservoirs reconnus, d’où la rareté des cas aviaires.",
+            "Les porcs constituent partout le principal réservoir, les oiseaux n’ayant qu’un rôle accessoire de dissémination."
+          ],
+          "correct": 0,
+          "explanation": "Pour les encéphalites américaines de l’Est et de l’Ouest, les oiseaux sauvages sont au cœur des cycles enzootiques, avec intervention de moustiques vecteurs."
+        },
+        {
+          "question": "Quelle affirmation est correcte au sujet de l’encéphalite japonaise des équidés ?",
+          "options": [
+            "Le cheval est le principal amplificateur du virus et permet à lui seul l’entretien enzootique sans avifaune.",
+            "Le virus est un orbivirus à dix segments d’ARN, très proche de celui de la peste équine africaine.",
+            "L’encéphalite japonaise est avant tout une maladie transmise par contact direct entre suidés et équidés en élevage mixte.",
+            "Le porc joue un rôle amplificateur important dans l’épidémiologie de l’encéphalite japonaise."
+          ],
+          "correct": 3,
+          "explanation": "Le cycle de l’encéphalite japonaise implique notamment les oiseaux et les moustiques, avec un rôle amplificateur très important des porcs."
+        },
+        {
+          "question": "Chez les équidés atteints d’encéphalite japonaise, quel tableau clinique est le plus attendu ?",
+          "options": [
+            "Une phase fébrile suivie de signes d’encéphalomyélite, parfois avec parésie progressive du train postérieur.",
+            "Une dermatose nodulaire diffuse avec papules ombiliquées et baisse de production laitière, en particulier dans les formes cliniques ou réglementaires les plus souvent discutées au cours.",
+            "Une entérite hémorragique foudroyante sans fièvre préalable, dominée par l’atteinte digestive.",
+            "Une maladie respiratoire catarrhale pure avec toux, jetage et adénite de l’auge, sans signe nerveux."
+          ],
+          "correct": 0,
+          "explanation": "Le cheval peut développer une phase fébrile suivie de manifestations nerveuses d’allure encéphalomyélitique."
+        },
+        {
+          "question": "Quel énoncé résume correctement la place du cheval dans l’épidémiologie de la fièvre West Nile ?",
+          "options": [
+            "Le cheval est surtout un cul-de-sac épidémiologique, la virémie étant généralement insuffisante pour entretenir le cycle.",
+            "Le cheval est le principal réservoir domestique durable et excrète abondamment le virus par voie respiratoire.",
+            "Le cheval conserve le virus à l’état latent plusieurs années dans les glandes annexes génitales, ce qui peut sembler cohérent dans certaines situations de suspicion collective ou de terrain.",
+            "La virémie équine prolongée constitue la source majeure d’infection pour les oiseaux migrateurs en Europe."
+          ],
+          "correct": 0,
+          "explanation": "Dans West Nile, le cheval est principalement une victime-révélateur ; il ne joue pas un rôle d’amplificateur comparable à celui observé dans certaines autres arboviroses."
+        },
+        {
+          "question": "En France, quelle période est considérée comme particulièrement à risque pour la transmission de West Nile à l’humain et au cheval ?",
+          "options": [
+            "La seconde partie de l’été, autour de mi-août à début octobre, correspond à la période la plus à risque.",
+            "La transmission est répartie de façon parfaitement homogène sur l’année, sans saisonnalité marquée.",
+            "Le risque maximal se situe au printemps précoce, avant toute activité vectorielle importante chez les moustiques.",
+            "La période hivernale froide concentre l’essentiel des cas, en lien avec la survie du virus dans les locaux clos."
+          ],
+          "correct": 0,
+          "explanation": "Le polycopié souligne le caractère saisonnier de la maladie en zone tempérée, avec un pic estival et de début d’automne."
+        },
+        {
+          "question": "Quelle option concernant la vaccination contre West Nile chez le cheval est conforme au polycopié ?",
+          "options": [
+            "Aucun vaccin n’est disponible chez le cheval ; seule la vaccination de l’avifaune domestique est autorisée en Europe.",
+            "La vaccination n’est indiquée qu’après confirmation virologique individuelle d’une infection récente chez le cheval concerné.",
+            "Des vaccins disposent d’une AMM et la primovaccination nécessite deux injections avant rappels annuels.",
+            "La vaccination existe, mais elle repose sur une injection unique à vie avec protection stérilisante définitive."
+          ],
+          "correct": 2,
+          "explanation": "Le document décrit plusieurs vaccins disponibles ou utilisés, et en France des vaccins avec AMM nécessitent une primovaccination en deux injections suivie de rappels."
+        },
+        {
+          "question": "Quelle maladie des équidés, non listée dans les catégories A à E de l’UE mais d’intérêt national, clôt le polycopié ?",
+          "options": [
+            "La grippe équine figure comme seule maladie d’intérêt national non listée, à la fin du document.",
+            "La rhinopneumonie équine est classée comme maladie d’intérêt national spécifique remplaçant la stomatite vésiculeuse.",
+            "La leptospirose équine constitue la seule maladie non listée conservée dans ce fascicule au titre national.",
+            "La stomatite vésiculeuse est présentée comme maladie d’intérêt national chez les équidés."
+          ],
+          "correct": 3,
+          "explanation": "Le fascicule termine par la stomatite vésiculeuse, explicitement présentée comme maladie de la liste d’intérêt national."
+        }
+      ]
+    },
+    {
+      "id": "b5-oiseaux-lagomorphes",
+      "title": "Maladies réglementées des oiseaux et des lagomorphes | Maladies reglementees des oiseaux et des lagomorphes.pdf",
+      "description": "Influenza aviaire, maladie de Newcastle, chlamydiose, pullorose-typhose, mycoplasmoses aviaires, West Nile, encéphalite japonaise, salmonelloses aviaires, tularémie, botulisme aviaire, RHD.",
+      "questions": [
+        {
+          "question": "Parmi les maladies réglementées des oiseaux et des lagomorphes, laquelle appartient à la catégorie A+D+E dans le polycopié ?",
+          "options": [
+            "La chlamydiose aviaire figure parmi les maladies A+D+E, en raison de son caractère zoonotique.",
+            "L’influenza aviaire hautement pathogène appartient aux maladies A+D+E.",
+            "La fièvre West Nile relève des catégories A+D+E chez les oiseaux comme chez les équidés.",
+            "La maladie hémorragique virale du lapin est classée A+D+E car elle impose un plan sanitaire d’urgence européen."
+          ],
+          "correct": 1,
+          "explanation": "Le sommaire du polycopié range l’influenza aviaire hautement pathogène et la maladie de Newcastle dans les maladies A+D+E, contrairement aux autres affections aviaires présentées."
+        },
+        {
+          "question": "Quel élément distingue réglementairement l’influenza aviaire hautement pathogène de l’influenza aviaire faiblement pathogène dans la gestion sanitaire ?",
+          "options": [
+            "La forme hautement pathogène relève d’une gestion beaucoup plus stricte car elle est classée parmi les maladies A+D+E.",
+            "Il n’existe aucune différence réglementaire entre formes hautement et faiblement pathogènes, seule la mortalité variant selon les élevages.",
+            "La forme faiblement pathogène est la seule soumise à déclaration obligatoire, car la forme hautement pathogène n’est pas listée chez les oiseaux.",
+            "La distinction n’a d’intérêt que thérapeutique, puisque les deux formes se gèrent par antibiothérapie métaphylactique."
+          ],
+          "correct": 0,
+          "explanation": "L’IAHP est une maladie de tout premier plan sanitaire. La pathogénicité du virus conditionne fortement l’intensité des mesures de lutte."
+        },
+        {
+          "question": "Dans l’influenza aviaire hautement pathogène, quel tableau chez les oiseaux d’élevage doit faire suspecter une circulation virale sévère ?",
+          "options": [
+            "Une infertilité des mâles reproducteurs sans atteinte des femelles constitue le tableau clinique prioritaire, ce qui peut sembler cohérent dans certaines situations de suspicion collective ou de terrain.",
+            "Une mortalité brutale associée à une chute de ponte et à des signes généraux ou nerveux doit faire fortement suspecter la maladie.",
+            "Une maladie digestive chronique isolée avec amaigrissement progressif sur plusieurs mois est la présentation habituelle.",
+            "Une dermatose vésiculeuse limitée aux tarses avec absence totale de signe respiratoire est le tableau le plus évocateur."
+          ],
+          "correct": 1,
+          "explanation": "L’influenza aviaire hautement pathogène se manifeste classiquement par une atteinte aiguë sévère, souvent avec forte mortalité, chute de ponte et signes respiratoires, généraux ou nerveux."
+        },
+        {
+          "question": "Concernant la maladie de Newcastle, quelle proposition est correcte ?",
+          "options": [
+            "Elle affecte principalement les lagomorphes et n’a qu’une importance marginale chez les oiseaux de basse-cour.",
+            "Il s’agit d’une maladie bactérienne exclusivement digestive, strictement limitée aux colombiformes domestiques.",
+            "Elle est due à un orthomyxovirus et se différencie de l’influenza aviaire seulement par sa transmission vénérienne.",
+            "Il s’agit d’une maladie réglementée majeure des oiseaux, cliniquement polymorphe et d’importance collective."
+          ],
+          "correct": 3,
+          "explanation": "La maladie de Newcastle est une maladie virale réglementée majeure des oiseaux, distincte de l’influenza mais partageant avec elle un très fort enjeu de police sanitaire."
+        },
+        {
+          "question": "Quel argument épidémio-clinique est le plus compatible avec la maladie de Newcastle dans un élevage avicole ?",
+          "options": [
+            "Une métrite vénérienne limitée aux femelles reproductrices, sans diffusion respiratoire ni digestive dans le lot.",
+            "Une affection très contagieuse pouvant associer signes respiratoires, digestifs, nerveux et chute de ponte.",
+            "Une parasitose hématophage transmise uniquement par tiques molles, sans contagion entre volailles.",
+            "Une affection strictement cutanée sans fièvre ni retentissement sur la production ou la mortalité."
+          ],
+          "correct": 1,
+          "explanation": "La maladie de Newcastle peut prendre des formes variées, mais son haut niveau de contagiosité et l’atteinte collective du lot sont des éléments majeurs."
+        },
+        {
+          "question": "Quel diagnostic différentiel important doit être systématiquement envisagé devant un foyer de maladie de Newcastle ?",
+          "options": [
+            "La tularémie est le diagnostic différentiel majeur chez toute poule présentant une baisse de ponte isolée.",
+            "La pullorose aiguë chez le lapin de garenne représente le premier diagnostic différentiel réglementaire.",
+            "La maladie hémorragique virale du lapin constitue le principal diagnostic différentiel, en raison de la proximité taxonomique des virus.",
+            "L’influenza aviaire hautement pathogène doit toujours faire partie des principaux diagnostics différentiels."
+          ],
+          "correct": 3,
+          "explanation": "Sur le plan de la police sanitaire, influenza aviaire et maladie de Newcastle partagent des enjeux comparables, ce qui rend leur distinction essentielle."
+        },
+        {
+          "question": "Quelle affirmation concernant la chlamydiose aviaire est juste ?",
+          "options": [
+            "Elle est due à un mycoplasme strictement extracellulaire et n’a pas d’enjeu en santé publique.",
+            "La chlamydiose aviaire n’atteint que les palmipèdes et n’a aucune importance chez les psittacidés ou les colombidés.",
+            "Sa transmission à l’humain n’est possible qu’après ingestion de viande insuffisamment cuite, jamais par aérosols.",
+            "La chlamydiose aviaire est une zoonose, ce qui impose une vigilance particulière pour les personnes exposées."
+          ],
+          "correct": 3,
+          "explanation": "La chlamydiose aviaire est bien une zoonose ; l’exposition des professionnels et des personnes manipulant des oiseaux ou leurs poussières doit être prise en compte."
+        },
+        {
+          "question": "Dans une suspicion de chlamydiose aviaire, quel contexte oriente particulièrement le diagnostic ?",
+          "options": [
+            "Une maladie nerveuse exclusivement observée chez le lapin après ingestion d’un aliment moisi.",
+            "Des troubles respiratoires ou généraux dans un lot d’oiseaux, associés à un risque zoonotique pour les manipulateurs.",
+            "Une atteinte cutanée vésiculeuse du fourreau chez les mâles reproducteurs de dinde, ce qui peut sembler cohérent dans certaines situations de suspicion collective ou de terrain.",
+            "Une diarrhée néonatale du porcelet liée à une contamination transplacentaire systématique."
+          ],
+          "correct": 1,
+          "explanation": "La chlamydiose aviaire peut se présenter de façon polymorphe, mais l’association d’une pathologie d’élevage et d’un risque zoonotique doit attirer l’attention."
+        },
+        {
+          "question": "Que faut-il retenir à propos de la pullorose et de la typhose aviaire dans ce polycopié ?",
+          "options": [
+            "Ce sont des viroses respiratoires proches de Newcastle, différenciées surtout par l’âge des oiseaux atteints.",
+            "Il s’agit de salmonelloses aviaires réglementées distinctes des salmonelloses de la poule et de la dinde présentées plus loin.",
+            "Elles correspondent à des trypanosomoses aviaires transmises par moustiques dans les élevages tropicaux.",
+            "Ce sont des formes de mycoplasmose réservées aux dindes, sans lien avec le genre Salmonella, notamment lorsque plusieurs arguments cliniques ou épidémiologiques se superposent au début de l’examen."
+          ],
+          "correct": 1,
+          "explanation": "Le document distingue bien la pullorose/typhose d’autres salmonelloses aviaires d’intérêt national, ce qui suppose de connaître leur place réglementaire spécifique."
+        },
+        {
+          "question": "Pourquoi la mycoplasmose aviaire à Mycoplasma gallisepticum ou M. meleagridis ne doit-elle pas être confondue avec une infection à bactérie à paroi classique ?",
+          "options": [
+            "Parce qu’il s’agit en réalité de virus enveloppés très fragiles, cultivables seulement sur œufs embryonnés, surtout lorsque l’anamnèse et le contexte d’élevage peuvent orienter vers cette hypothèse au premier abord.",
+            "Parce qu’ils sont des protozoaires flagellés, proches des trypanosomes, transmis essentiellement par insectes piqueurs.",
+            "Parce qu’ils possèdent une coque fongique épaisse qui les rend insensibles à tous les antiseptiques usuels.",
+            "Parce que les mycoplasmes n’ont pas de paroi cellulaire, ce qui conditionne à la fois leur biologie et le choix des antibiotiques."
+          ],
+          "correct": 3,
+          "explanation": "Comme pour les autres mycoplasmes, l’absence de paroi cellulaire est une caractéristique centrale et explique l’inefficacité des antibiotiques ciblant cette structure."
+        },
+        {
+          "question": "Quel tableau est le plus évocateur d’une mycoplasmose aviaire d’élevage ?",
+          "options": [
+            "Une maladie respiratoire d’évolution collective, souvent associée à une baisse des performances zootechniques et reproductives.",
+            "Une maladie vénérienne limitée aux reproducteurs mâles, sans diffusion au reste du lot par aérosol ou contact.",
+            "Une affection purement digestive des lapins se traduisant par des entérites hémorragiques fulminantes sans atteinte respiratoire.",
+            "Une septicémie hyperaiguë exclusivement transmise par tiques, sans impact sur la ponte ni la croissance."
+          ],
+          "correct": 0,
+          "explanation": "Les mycoplasmoses aviaires sont surtout connues pour leurs conséquences respiratoires et économiques à l’échelle des lots."
+        },
+        {
+          "question": "Dans le chapitre oiseaux-lagomorphes, quel est le statut de la fièvre West Nile ?",
+          "options": [
+            "Elle relève uniquement d’un intérêt national transitoire et n’entre pas dans les catégories européennes.",
+            "Elle ne concerne que les équidés dans ces polycopiés et ne fait l’objet d’aucune surveillance dans l’avifaune.",
+            "Elle est présentée comme une maladie de catégorie E chez les oiseaux.",
+            "Elle est classée parmi les maladies A+D+E, avec abattage systématique de tout le lot aviaire atteint."
+          ],
+          "correct": 2,
+          "explanation": "Le sommaire place la fièvre West Nile dans les maladies réglementées de catégorie E pour les oiseaux."
+        },
+        {
+          "question": "Quel rôle jouent les oiseaux dans l’épidémiologie de la fièvre West Nile ?",
+          "options": [
+            "Ils peuvent servir de réservoirs et participent à l’entretien du cycle avec les moustiques.",
+            "Ils transmettent essentiellement le virus par voie vénérienne, ce qui explique la persistance hivernale.",
+            "Ils sont systématiquement des culs-de-sac épidémiologiques, comme les équidés et les humains.",
+            "Ils ne peuvent être infectés que de façon expérimentale, sans rôle naturel dans la circulation virale."
+          ],
+          "correct": 0,
+          "explanation": "Les oiseaux occupent une place centrale dans le cycle de West Nile, contrairement au cheval qui joue plutôt un rôle de révélateur."
+        },
+        {
+          "question": "Quelle proposition résume correctement l’encéphalite japonaise dans ce polycopié consacré aux oiseaux et lagomorphes ?",
+          "options": [
+            "Elle est présentée comme une maladie d’intérêt national, avec un rôle important des oiseaux dans le cycle épidémiologique.",
+            "Elle est réservée aux lagomorphes et se transmet principalement par voie oro-fécale entre lapins domestiques.",
+            "Elle n’a aucun enjeu zoonotique et n’est étudiée ici que pour son impact sur la qualité des œufs.",
+            "Elle est causée par une bactérie intracellulaire et ne nécessite aucun vecteur arthropode, surtout lorsque l’anamnèse et le contexte d’élevage peuvent orienter vers cette hypothèse au premier abord."
+          ],
+          "correct": 0,
+          "explanation": "L’encéphalite japonaise est une arbovirose à réservoirs aviaires importante à connaître, même si les espèces domestiques n’expriment pas toutes la maladie de la même manière."
+        },
+        {
+          "question": "Dans les salmonelloses de la poule et de la dinde, quel enjeu dépasse la seule pathologie de l’élevage ?",
+          "options": [
+            "Le principal enjeu est l’apparition d’un prurit neurologique transmissible aux carnivores par simple contact.",
+            "La maladie n’a qu’un impact ornemental, car elle n’affecte ni la reproduction ni la sécurité alimentaire.",
+            "Les salmonelloses des volailles ne justifient aucune mesure spécifique car elles ne concernent pas l’humain.",
+            "Le risque de contamination de la chaîne alimentaire et les conséquences de santé publique sont majeurs."
+          ],
+          "correct": 3,
+          "explanation": "Dans les filières avicoles, l’enjeu des salmonelloses dépasse la clinique individuelle : il touche directement la sécurité sanitaire des denrées."
+        },
+        {
+          "question": "Quel couple d’espèces est explicitement visé dans le chapitre « salmonelloses de la poule et de la dinde » ?",
+          "options": [
+            "Le canard et l’oie sont les seules espèces considérées, du fait du risque particulier lié au foie gras.",
+            "Le lapin domestique et le faisan d’élevage sont le cœur de ce chapitre en raison de leur forte sensibilité.",
+            "La poule et la dinde sont les espèces explicitement ciblées par ce chapitre.",
+            "Les pigeons voyageurs et les perroquets représentent les deux espèces de référence pour ce groupe de maladies."
+          ],
+          "correct": 2,
+          "explanation": "Le titre même du chapitre désigne la poule et la dinde comme espèces de référence pour ce point réglementaire."
+        },
+        {
+          "question": "Quel élément explique le caractère grave de la tularémie dans un polycopié sur oiseaux et lagomorphes ?",
+          "options": [
+            "La tularémie n’a qu’une importance économique faible, car elle n’infecte pas l’humain et reste purement animale.",
+            "Elle correspond à une mycose de l’appareil reproducteur du lapin, sans potentiel de dissémination environnementale.",
+            "La tularémie est une zoonose importante qui impose de raisonner aussi en santé publique.",
+            "Elle est causée par un parasite digestif banal des oiseaux d’ornement et ne requiert aucune précaution particulière."
+          ],
+          "correct": 2,
+          "explanation": "La tularémie n’est pas seulement un sujet de pathologie animale ; c’est aussi une zoonose à ne pas méconnaître."
+        },
+        {
+          "question": "Pourquoi le chapitre tularémie figure-t-il logiquement dans un polycopié consacré aux oiseaux et lagomorphes ?",
+          "options": [
+            "Parce qu’il s’agit d’une infection exclusivement spécifique de la poule pondeuse et de la dinde reproductrice.",
+            "Parce que les lagomorphes, notamment le lièvre, et certaines espèces sauvages peuvent intervenir dans l’épidémiologie de la maladie.",
+            "Parce qu’elle n’existe que chez les oiseaux de cage exotiques importés de zones tropicales, surtout lorsque l’anamnèse et le contexte d’élevage peuvent orienter vers cette hypothèse au premier abord.",
+            "Parce qu’elle constitue la principale maladie virale des palmipèdes migrateurs des zones humides européennes."
+          ],
+          "correct": 1,
+          "explanation": "Le positionnement de la tularémie dans ce polycopié est cohérent avec le rôle d’espèces sauvages, notamment lagomorphes, dans l’épidémiologie."
+        },
+        {
+          "question": "Quel mécanisme physiopathologique est central dans le botulisme aviaire ?",
+          "options": [
+            "La maladie résulte de l’action d’une neurotoxine botulinique provoquant une paralysie flasque.",
+            "Le tableau clinique résulte d’une destruction directe des muscles pectoraux par un staphylocoque nécrosant.",
+            "La paralysie est due à une démyélinisation auto-immune postinfectieuse déclenchée par un alphavirus aviaire.",
+            "La maladie est liée à une vasculite hémorragique diffuse provoquée par un reovirus à tropisme endothélial."
+          ],
+          "correct": 0,
+          "explanation": "Comme les autres botulismes, le botulisme aviaire est une toxémie neurologique par toxine botulinique, responsable d’une paralysie flasque."
+        },
+        {
+          "question": "Quel contexte de terrain favorise classiquement le botulisme aviaire ?",
+          "options": [
+            "Les bâtiments froids et très secs de pondeuses plein air sont les seuls contextes véritablement à risque.",
+            "Il apparaît surtout après vaccination vivante mal conduite contre la maladie de Newcastle, avec un tableau de terrain partiellement compatible avant confirmation expérimentale.",
+            "La présence de matières organiques en décomposition et de conditions propices à la production de toxine favorise la maladie.",
+            "Le botulisme aviaire survient presque exclusivement après morsure de tiques molles infectées sur les pattes."
+          ],
+          "correct": 2,
+          "explanation": "Le botulisme est classiquement lié à des substrats organiques en décomposition permettant la production puis l’ingestion de toxine."
+        },
+        {
+          "question": "Quel tableau clinique est le plus compatible avec un botulisme aviaire ?",
+          "options": [
+            "Une faiblesse avec paralysie flasque progressive, souvent sans syndrome inflammatoire marqué au premier plan.",
+            "Une kératoconjonctivite purulente isolée avec infertilité secondaire des mâles constitue la présentation habituelle.",
+            "Une hypertonie généralisée avec trismus et spasmes déclenchés par les manipulations est le tableau typique.",
+            "Une polyarthrite suppurée chaude et douloureuse des tarses domine constamment la phase clinique."
+          ],
+          "correct": 0,
+          "explanation": "La neurotoxine botulinique provoque une paralysie flasque, et non un syndrome spastique comme dans le tétanos."
+        },
+        {
+          "question": "Concernant la maladie hémorragique virale du lapin (RHD), quel énoncé est exact ?",
+          "options": [
+            "Elle touche en priorité les oiseaux de basse-cour et n’atteint les lagomorphes qu’à titre exceptionnel, notamment lorsque plusieurs arguments cliniques ou épidémiologiques se superposent au début de l’examen.",
+            "Elle correspond à une maladie bactérienne chronique du lapin, dominée par des métrites et infertilités prolongées.",
+            "Il s’agit d’une maladie majeure des lagomorphes, caractérisée par une évolution souvent aiguë et un impact collectif important.",
+            "Elle est due à un mycoplasme à paroi fine transmis essentiellement par la semence des mâles reproducteurs."
+          ],
+          "correct": 2,
+          "explanation": "La RHD est l’une des grandes maladies réglementées des lagomorphes et s’exprime volontiers sur un mode aigu collectif."
+        },
+        {
+          "question": "Pourquoi la RHD représente-t-elle un enjeu d’élevage et de faune sauvage ?",
+          "options": [
+            "Parce qu’elle est transmissible à l’humain et constitue avant tout une zoonose professionnelle de l’éleveur.",
+            "Parce qu’elle provoque surtout des infections inapparentes prolongées sans impact démographique notable, surtout lorsque l’anamnèse et le contexte d’élevage peuvent orienter vers cette hypothèse au premier abord.",
+            "Parce qu’elle est exclusivement limitée aux laboratoires expérimentaux et ne concerne pas les lapins sauvages.",
+            "Parce qu’elle peut affecter sévèrement des populations de lapins et perturber à la fois les élevages et les populations libres."
+          ],
+          "correct": 3,
+          "explanation": "La maladie hémorragique virale du lapin a un impact au-delà du seul élevage, en raison de ses conséquences populationnelles."
+        },
+        {
+          "question": "Quel principe général est correct pour la gestion des maladies réglementées aviaires hautement contagieuses comme l’IAHP ou Newcastle ?",
+          "options": [
+            "La confirmation clinique suffit habituellement, les prélèvements de laboratoire n’ayant qu’un intérêt académique.",
+            "La suspicion doit être raisonnée à l’échelle du lot et déclencher rapidement une alerte sanitaire adaptée.",
+            "Le raisonnement se fait exclusivement à l’échelle individuelle, car ces maladies n’ont pas de dynamique collective significative.",
+            "L’antibiothérapie probabiliste immédiate est la mesure prioritaire avant toute notification ou restriction de mouvements."
+          ],
+          "correct": 1,
+          "explanation": "Dans les grandes maladies réglementées aviaires, la dimension collective du lot et la rapidité de la notification sont essentielles."
+        },
+        {
+          "question": "Parmi les situations suivantes, laquelle oriente davantage vers une maladie vectorielle que vers une salmonellose aviaire ?",
+          "options": [
+            "Une circulation saisonnière impliquant moustiques et avifaune réservoir oriente davantage vers West Nile ou l’encéphalite japonaise.",
+            "Une contamination verticale en couvoir et une atteinte des jeunes lots orientent surtout vers une arbovirose saisonnière.",
+            "Une contamination alimentaire des denrées et la maîtrise en filière n’évoquent jamais une infection bactérienne.",
+            "Une septicémie néonatale du poussin liée à la transmission par l’œuf évoque d’abord un botulisme aviaire, ce qui peut sembler cohérent dans certaines situations de suspicion collective ou de terrain."
+          ],
+          "correct": 0,
+          "explanation": "Le polycopié oppose implicitement des maladies bactériennes de filière comme les salmonelloses à des arboviroses saisonnières comme West Nile ou l’encéphalite japonaise."
+        },
+        {
+          "question": "Quel couple maladie-enjeu de santé publique est correctement associé ?",
+          "options": [
+            "Mycoplasmose aviaire : zoonose respiratoire grave de l’éleveur avec transmission interhumaine secondaire fréquente.",
+            "Chlamydiose aviaire : risque zoonotique direct pour les personnes exposées aux oiseaux ou à leurs sécrétions.",
+            "Newcastle : anthropozoonose cutanée grave entraînant des septicémies mortelles chez les manipulateurs.",
+            "RHD : zoonose alimentaire majeure par consommation de viande de lapin insuffisamment cuite."
+          ],
+          "correct": 1,
+          "explanation": "Parmi les maladies ici étudiées, la chlamydiose aviaire se singularise clairement par son enjeu zoonotique bien identifié."
+        },
+        {
+          "question": "Pourquoi la distinction entre mycoplasmose aviaire et chlamydiose aviaire est-elle importante en pratique ?",
+          "options": [
+            "Parce que les deux peuvent donner une clinique respiratoire, mais n’ont pas le même enjeu réglementaire ni le même risque zoonotique.",
+            "Parce que la mycoplasmose n’existe que chez le lapin alors que la chlamydiose est limitée aux dindes, ce qui peut sembler cohérent dans certaines situations de suspicion collective ou de terrain.",
+            "Parce que la mycoplasmose se diagnostique uniquement par sérologie et la chlamydiose uniquement par intradermoréaction.",
+            "Parce que la chlamydiose est toujours une maladie nerveuse aiguë alors que la mycoplasmose est strictement digestive."
+          ],
+          "correct": 0,
+          "explanation": "Des tableaux respiratoires peuvent se recouper, mais le risque zoonotique et les stratégies diagnostiques diffèrent nettement entre ces deux maladies."
+        },
+        {
+          "question": "Dans un lot de lapins avec mortalité aiguë, quel diagnostic réglementé d’intérêt national doit être envisagé en priorité parmi ceux du polycopié ?",
+          "options": [
+            "L’influenza aviaire hautement pathogène est le premier diagnostic à retenir chez le lapin en élevage cunicole fermé.",
+            "La pullorose du lapin doit être considérée avant toute autre hypothèse, car elle représente le principal danger réglementé des lagomorphes.",
+            "La maladie hémorragique virale du lapin doit être fortement envisagée.",
+            "La maladie de Newcastle est le diagnostic prioritaire, car elle touche les lagomorphes plus sévèrement que les oiseaux."
+          ],
+          "correct": 2,
+          "explanation": "Parmi les maladies présentées pour les lagomorphes, la RHD est la référence incontournable devant des mortalités aiguës collectives."
+        },
+        {
+          "question": "Quel raisonnement est le plus juste à propos du botulisme aviaire dans un marais ou une zone humide ?",
+          "options": [
+            "Il faut surtout rechercher des contacts vénériens entre oiseaux atteints, car la transmission sexuelle est le mode dominant.",
+            "Le raisonnement doit d’abord se concentrer sur les morsures de renards, seules responsables des paralysies observées, en particulier dans les formes cliniques ou réglementaires les plus souvent discutées au cours.",
+            "La recherche de cadavres, de matières organiques putréfiées et de conditions favorables à la toxinogenèse fait partie du raisonnement de terrain.",
+            "Le diagnostic de botulisme repose prioritairement sur la mise en évidence d’une fièvre élevée et d’une leucocytose neutrophilique marquée."
+          ],
+          "correct": 2,
+          "explanation": "Le botulisme est très lié à l’écologie locale et à la présence de substrats propices à la toxinogenèse ; l’enquête de terrain est donc importante."
+        },
+        {
+          "question": "Quel énoncé est correct concernant la surveillance de West Nile chez les oiseaux ?",
+          "options": [
+            "Elle n’a aucun intérêt, car seuls les chevaux expriment une virémie suffisamment élevée pour signaler l’activité du virus.",
+            "Elle est inutile si aucun cas humain n’a été détecté, car les oiseaux ne meurent jamais de l’infection.",
+            "Elle se limite réglementairement aux dindes de chair, les oiseaux sauvages n’étant pas intégrés au raisonnement.",
+            "La surveillance de l’avifaune participe au repérage précoce de la circulation virale dans les zones à risque."
+          ],
+          "correct": 3,
+          "explanation": "Le suivi de l’avifaune, notamment sauvage, est un outil essentiel dans plusieurs arboviroses aviaires et en particulier pour West Nile."
+        }
+      ]
+    },
+    {
+      "id": "b5-suides-reglementees",
+      "title": "Maladies réglementées des suidés | Maladies reglementees des suidés.pdf",
+      "description": "Peste porcine classique, PPA, maladie d’Aujeszky, SDRP, diarrhée épidémique porcine, Nipah, Teschen, maladie vésiculeuse du porc, trichinellose.",
+      "questions": [
+        {
+          "question": "Parmi les maladies réglementées des suidés, laquelle fait partie des catégories A-D-E dans le polycopié ?",
+          "options": [
+            "La diarrhée épidémique porcine est rangée parmi les maladies A-D-E au même titre que la peste porcine classique.",
+            "La peste porcine africaine fait partie des maladies A-D-E chez les suidés.",
+            "Le syndrome dysgénésique et respiratoire porcin relève des catégories A-D-E en raison de son impact économique majeur.",
+            "La maladie d’Aujeszky est classée A-D-E car elle impose systématiquement un plan sanitaire d’urgence."
+          ],
+          "correct": 1,
+          "explanation": "Dans le document, les maladies A-D-E des suidés comprennent notamment la peste porcine classique et la peste porcine africaine."
+        },
+        {
+          "question": "Quel élément est exact concernant la peste porcine classique (PPC) ?",
+          "options": [
+            "La PPC est une maladie bactérienne vénérienne chronique qui n’affecte que les reproducteurs.",
+            "La PPC ne concerne que les suidés sauvages, les élevages domestiques étant considérés comme réfractaires.",
+            "La PPC est une maladie virale réglementée majeure des suidés, relevant des catégories A-D-E.",
+            "La PPC est une trypanosomose transmise par tabanidés, sans contagion directe entre porcs."
+          ],
+          "correct": 2,
+          "explanation": "La PPC fait partie des maladies à très forte importance sanitaire, au même rang réglementaire que la PPA dans le polycopié."
+        },
+        {
+          "question": "Quel couple est correctement associé pour différencier peste porcine classique et peste porcine africaine ?",
+          "options": [
+            "PPC : pestivirus ; PPA : asfivirus, ce qui implique deux agents viraux distincts malgré une clinique parfois proche.",
+            "PPC : rétrovirus ; PPA : alphavirus, ce qui explique la persistance génomique de la PPC dans les élevages.",
+            "PPC : asfivirus ; PPA : pestivirus, distinction essentiellement fondée sur l’espèce de tique vectrice.",
+            "PPC : reovirus ; PPA : orthomyxovirus, distinction reposant sur la présence ou non d’une enveloppe, notamment lorsque plusieurs arguments cliniques ou épidémiologiques se superposent au début de l’examen."
+          ],
+          "correct": 0,
+          "explanation": "Les deux pestes porcines ont une expression clinique parfois proche, mais des étiologies virales très différentes : pestivirus pour la PPC, asfivirus pour la PPA."
+        },
+        {
+          "question": "Quel argument épidémiologique est particulièrement important pour la peste porcine africaine (PPA) ?",
+          "options": [
+            "La PPA est très fragile dans le milieu extérieur et ne persiste jamais dans les produits d’origine porcine transformés.",
+            "La PPA se transmet uniquement par voie vénérienne, ce qui limite le risque lié aux denrées ou aux fomites, ce qui peut sembler cohérent dans certaines situations de suspicion collective ou de terrain.",
+            "La très grande résistance virale et le rôle des produits carnés contaminés compliquent fortement la maîtrise de la maladie.",
+            "La PPA n’affecte que le porcelet nouveau-né, ce qui réduit fortement son potentiel de diffusion territoriale."
+          ],
+          "correct": 2,
+          "explanation": "La PPA est redoutable notamment par la résistance de son virus et par les multiples voies de diffusion indirecte, incluant denrées et fomites."
+        },
+        {
+          "question": "Dans une suspicion de PPA, quelle proposition est la plus juste ?",
+          "options": [
+            "La maladie peut être gérée d’abord par antibiothérapie à large spectre, la confirmation de laboratoire venant seulement en second temps.",
+            "Les restrictions ne concernent que les suidés sauvages ; les porcs domestiques peuvent continuer à circuler sous simple surveillance clinique.",
+            "La suspicion de PPA n’impose pas de mesure particulière tant qu’aucun saignement cutané n’a été objectivé à l’autopsie.",
+            "La notification rapide et les mesures de restriction des mouvements sont prioritaires, car il s’agit d’une maladie à plan d’urgence."
+          ],
+          "correct": 3,
+          "explanation": "La PPA est une maladie majeure de police sanitaire. Toute suspicion doit déclencher une réaction immédiate et encadrée."
+        },
+        {
+          "question": "Quel énoncé est correct concernant la maladie d’Aujeszky chez les suidés ?",
+          "options": [
+            "Chez le porc, la maladie se manifeste exclusivement par une dermatose prurigineuse mutilante rapidement mortelle.",
+            "Chez le porc, l’infection peut s’exprimer différemment selon l’âge, avec formes nerveuses chez les jeunes et respiratoires chez les porcs à l’engrais.",
+            "La maladie d’Aujeszky n’a aucun lien avec les herpesvirus et se comporte comme une entérite purement digestive.",
+            "Chez le porc adulte, l’infection est toujours foudroyante, sans portage ni latence possible après guérison, avec un tableau de terrain partiellement compatible avant confirmation expérimentale."
+          ],
+          "correct": 1,
+          "explanation": "Le document rappelle le polymorphisme clinique de la maladie d’Aujeszky chez le porc, ainsi que l’existence de porteurs selon les catégories d’âge."
+        },
+        {
+          "question": "Pourquoi la maladie d’Aujeszky porte-t-elle aussi le nom de « pseudo-rage » dans d’autres espèces sensibles ?",
+          "options": [
+            "Parce qu’elle peut provoquer chez certaines espèces une forme prurigineuse et nerveuse d’allure dramatique, sans être la rage.",
+            "Parce qu’elle est toujours accompagnée d’hydrophobie et de paralysie pharyngée identiques à la rage canine, surtout lorsque l’anamnèse et le contexte d’élevage peuvent orienter vers cette hypothèse au premier abord.",
+            "Parce qu’elle se transmet obligatoirement par morsure de carnivore sauvage infecté, exactement comme la rage.",
+            "Parce qu’elle est due au virus rabique atténué, qui a perdu son pouvoir zoonotique mais conserve un tropisme cutané."
+          ],
+          "correct": 0,
+          "explanation": "Le terme de pseudo-rage traduit la ressemblance clinique trompeuse observée dans certaines espèces non porcines, sans identité étiologique avec la rage."
+        },
+        {
+          "question": "À propos du syndrome dysgénésique et respiratoire porcin (SDRP), quelle affirmation est correcte ?",
+          "options": [
+            "Le SDRP est une maladie strictement cutanée, limitée aux truies gestantes et sans conséquence respiratoire sur les porcelets.",
+            "Le SDRP correspond à une infection bactérienne opportuniste n’apparaissant qu’après peste porcine classique, notamment lorsque plusieurs arguments cliniques ou épidémiologiques se superposent au début de l’examen.",
+            "Le SDRP n’a d’impact que sur la qualité technologique de la viande, sans expression clinique notable dans les élevages.",
+            "Le SDRP affecte à la fois la reproduction et l’appareil respiratoire, ce qui explique son importance majeure en élevage porcin."
+          ],
+          "correct": 3,
+          "explanation": "Le sigle même SDRP rappelle le double versant de la maladie : dysgénésie/reproduction et syndrome respiratoire."
+        },
+        {
+          "question": "Quel raisonnement épidémiologique est particulièrement pertinent pour le SDRP ?",
+          "options": [
+            "La circulation du virus dans les élevages et entre élevages est favorisée par la contagion, les mouvements d’animaux et la complexité des filières.",
+            "Le SDRP n’existe que dans les élevages plein air, où le contact avec les tiques molles est indispensable, notamment lorsque plusieurs arguments cliniques ou épidémiologiques se superposent au début de l’examen.",
+            "La transmission du SDRP est exclusivement vectorielle, ce qui rend secondaires les mouvements d’animaux et de semence.",
+            "Le SDRP ne se diffuse pas entre élevages ; son apparition dépend seulement d’une carence alimentaire individuelle."
+          ],
+          "correct": 0,
+          "explanation": "Le SDRP est au cœur des problématiques de circulation virale dans les filières porcines modernes, avec diffusion facilitée par les flux d’animaux et de matériel biologique."
+        },
+        {
+          "question": "Quelle proposition décrit le mieux la diarrhée épidémique porcine (DEP) ?",
+          "options": [
+            "La DEP est essentiellement une maladie cutanée vésiculeuse d’allure bénigne, sans enjeu zootechnique notable.",
+            "Elle correspond à une salmonellose chronique de l’engraissement sans caractère épizootique, ce qui peut sembler cohérent dans certaines situations de suspicion collective ou de terrain.",
+            "Il s’agit d’une maladie entérique contagieuse pouvant provoquer des pertes majeures, surtout chez les jeunes porcelets.",
+            "Il s’agit d’une maladie nerveuse des truies adultes, responsable d’ataxie et de cécité mais rarement de diarrhée."
+          ],
+          "correct": 2,
+          "explanation": "La DEP est une maladie digestive collective, redoutée notamment pour sa gravité chez les porcelets très jeunes."
+        },
+        {
+          "question": "Dans le polycopié, quelle maladie d’intérêt national des suidés est liée à un risque zoonotique majeur en Asie du Sud-Est ?",
+          "options": [
+            "L’encéphalite à virus Nipah est présentée comme une maladie d’intérêt national majeure.",
+            "La trichinellose n’a aucun intérêt en santé publique et n’est évoquée que pour la pathologie musculaire du porc.",
+            "La maladie de Teschen est la principale zoonose porcine asiatique, à transmission respiratoire directe à l’humain.",
+            "La maladie vésiculeuse du porc est la seule maladie porcine à risque neurologique direct pour l’homme."
+          ],
+          "correct": 0,
+          "explanation": "Le virus Nipah est connu pour son impact majeur en santé publique et pour le rôle que peuvent jouer les porcs dans certains contextes épidémiologiques."
+        },
+        {
+          "question": "Quel tableau clinique est le plus compatible avec une maladie de Teschen ?",
+          "options": [
+            "Une métrite post-saillie avec infertilité marquée chez les truies est le tableau de référence.",
+            "Une vésiculose du groin et des onglons sans atteinte nerveuse constitue la présentation la plus typique.",
+            "Une pneumonie fibrineuse hémorragique foudroyante domine toujours la maladie de Teschen.",
+            "Une atteinte nerveuse avec troubles locomoteurs et paralysies chez des porcs est fortement évocatrice."
+          ],
+          "correct": 3,
+          "explanation": "La maladie de Teschen est classiquement rattachée à des tableaux neurologiques porcins, avec parésie puis paralysie."
+        },
+        {
+          "question": "Quel diagnostic différentiel réglementaire majeur faut-il toujours garder à l’esprit devant une maladie vésiculeuse du porc ?",
+          "options": [
+            "La fièvre aphteuse doit toujours être envisagée en priorité devant des lésions vésiculeuses porcines.",
+            "La maladie d’Aujeszky représente le diagnostic différentiel obligatoire devant toute vésicule du groin.",
+            "La DEP est le premier diagnostic à exclure car elle provoque habituellement des vésicules buccales et unguées.",
+            "La trichinellose est le principal diagnostic différentiel en raison de ses lésions cutanées et podales."
+          ],
+          "correct": 0,
+          "explanation": "Chez le porc, toute maladie vésiculeuse pose d’abord le problème de la fièvre aphteuse, d’où l’importance de la distinction."
+        },
+        {
+          "question": "Pourquoi la maladie vésiculeuse du porc représente-t-elle un enjeu de police sanitaire malgré une clinique parfois moins dramatique que d’autres affections ?",
+          "options": [
+            "Parce qu’elle se transmet à l’humain avec un taux élevé d’atteintes neurologiques graves, notamment lorsque plusieurs arguments cliniques ou épidémiologiques se superposent au début de l’examen.",
+            "Parce qu’elle entraîne systématiquement une mortalité de 100 % chez toutes les catégories d’âge.",
+            "Parce qu’elle provoque une persistance virale à vie dans la semence de tous les verrats infectés.",
+            "Parce qu’elle mime des maladies vésiculeuses majeures comme la fièvre aphteuse, ce qui impose une gestion prudente de toute suspicion."
+          ],
+          "correct": 3,
+          "explanation": "Le danger de la maladie vésiculeuse du porc tient autant à son diagnostic différentiel qu’à sa propre diffusion."
+        },
+        {
+          "question": "Quel énoncé résume correctement l’enjeu de la trichinellose dans le chapitre consacré aux suidés ?",
+          "options": [
+            "La trichinellose touche exclusivement les suidés sauvages ; les porcs d’élevage n’entrent pas dans le raisonnement réglementaire.",
+            "La trichinellose relève surtout d’un enjeu de sécurité sanitaire des denrées et de santé publique.",
+            "Chez le porc, la trichinellose est avant tout une maladie vésiculeuse réglementée de diagnostic clinique facile.",
+            "La trichinellose n’est qu’une affection digestive bénigne du porcelet sevré, sans impact en inspection sanitaire."
+          ],
+          "correct": 1,
+          "explanation": "La trichinellose est un sujet central à l’interface entre élevage, inspection des viandes et santé publique."
+        },
+        {
+          "question": "Quel principe de prévention est cohérent avec la maîtrise du risque trichine dans les élevages porcins ?",
+          "options": [
+            "Le contrôle du risque est essentiellement fondé sur la quarantaine des verrats avant chaque saillie naturelle.",
+            "La prévention repose surtout sur la vaccination systématique des porcs avec rappel semestriel obligatoire.",
+            "La seule mesure utile consiste à supplémenter les porcs en fer et en sélénium pour empêcher l’enkystement larvaire.",
+            "La biosécurité, la lutte contre les nuisibles et la maîtrise de l’alimentation sont des points essentiels."
+          ],
+          "correct": 3,
+          "explanation": "Le polycopié insiste sur des exigences de biosécurité et de maîtrise de l’environnement, qui sont logiques pour prévenir l’exposition à Trichinella."
+        },
+        {
+          "question": "Parmi les situations suivantes, laquelle oriente le plus vers une PPC plutôt que vers une PPA ?",
+          "options": [
+            "Une maladie exclusivement transmise par tiques molles, sans contagion directe ni diffusion par produits porcins, oriente d’abord vers la PPC.",
+            "La présence d’un virus ADN géant résistant dans les viandes transformées est typique de la PPC.",
+            "Une maladie provoquée par un asfivirus à très grande résistance environnementale correspond le mieux à la PPC.",
+            "Une suspicion de pestivirus chez des porcs fébriles avec nécessité d’un diagnostic de laboratoire pour distinguer PPC et PPA."
+          ],
+          "correct": 3,
+          "explanation": "Cliniquement, PPC et PPA peuvent se ressembler ; la distinction repose d’abord sur le laboratoire et sur la connaissance de l’agent causal."
+        },
+        {
+          "question": "Quel élément pratique rend les pestes porcines particulièrement redoutables dans les filières porcines modernes ?",
+          "options": [
+            "Les pestes porcines ne survivent pas aux transports et ne circulent jamais par fomites ou produits animaux.",
+            "La diffusion peut être favorisée par les mouvements d’animaux, de personnes, de véhicules et de produits contaminés.",
+            "Le seul facteur de diffusion réellement important est la transmission verticale, ce qui limite les foyers aux maternités.",
+            "La propagation dépend presque uniquement d’un vecteur spécifique absent d’Europe, ce qui annule le risque de dissémination secondaire."
+          ],
+          "correct": 1,
+          "explanation": "Les polycopiés sur les maladies réglementées insistent de manière constante sur les flux et les fomites dans la diffusion des pestes porcines."
+        },
+        {
+          "question": "Quel énoncé concernant le virus Nipah est le plus exact dans le contexte porcin ?",
+          "options": [
+            "Le porc peut jouer un rôle d’hôte amplificateur dans certaines situations épidémiologiques, avec un enjeu majeur pour l’humain.",
+            "Le virus Nipah est une bactérie digestive opportuniste des porcelets, sans conséquence neurologique ni zoonotique.",
+            "Le porc est un cul-de-sac épidémiologique strict, ce qui exclut toute implication dans les épidémies humaines.",
+            "La maladie due au virus Nipah se limite aux suidés sauvages et n’a jamais concerné les élevages domestiques, notamment lorsque plusieurs arguments cliniques ou épidémiologiques se superposent au début de l’examen."
+          ],
+          "correct": 0,
+          "explanation": "Le virus Nipah est emblématique des zoonoses émergentes où les porcs peuvent intervenir comme amplificateurs entre réservoir sauvage et humains."
+        },
+        {
+          "question": "Quel signe fait davantage penser à une maladie de Teschen qu’à une DEP ?",
+          "options": [
+            "Une diarrhée néonatale aqueuse avec forte mortalité des très jeunes porcelets oriente d’abord vers Teschen.",
+            "Une baisse de fertilité des truies sans autre signe est la présentation typique de Teschen.",
+            "Une atteinte digestive collective sans signe neurologique rend Teschen beaucoup plus probable que DEP.",
+            "Des troubles nerveux et des paralysies orientent davantage vers la maladie de Teschen."
+          ],
+          "correct": 3,
+          "explanation": "La DEP est une maladie entérique, tandis que la maladie de Teschen est associée à une expression neurologique."
+        },
+        {
+          "question": "Pourquoi la maladie d’Aujeszky garde-t-elle une importance réglementaire chez les suidés même dans des contextes de faible circulation ?",
+          "options": [
+            "Parce qu’elle n’est préoccupante qu’en clinique féline et n’a plus d’intérêt dans la filière porcine.",
+            "Parce qu’elle est devenue une maladie purement individuelle sans enjeu collectif ni commercial, en particulier dans les formes cliniques ou réglementaires les plus souvent discutées au cours.",
+            "Parce qu’elle implique des enjeux de statut sanitaire et de maintien de garanties pour les échanges et les élevages.",
+            "Parce que sa seule conséquence est un retard de croissance bénin, sans incidence sur les flux d’animaux."
+          ],
+          "correct": 2,
+          "explanation": "Le poids réglementaire d’Aujeszky dépasse la seule clinique : il touche au statut sanitaire et aux échanges."
+        },
+        {
+          "question": "Quel argument différencie le SDRP d’une peste porcine dans le raisonnement initial ?",
+          "options": [
+            "Le SDRP n’affecte jamais les porcelets, ce qui permet de l’exclure devant tout problème respiratoire de maternité, avec un tableau de terrain partiellement compatible avant confirmation expérimentale.",
+            "Le SDRP produit toujours des vésicules cutanées, contrairement aux pestes porcines qui ne donnent que de la diarrhée.",
+            "Le SDRP associe surtout atteinte respiratoire et troubles de reproduction, alors que les pestes porcines évoquent d’abord une maladie réglementée de très haute alerte systémique.",
+            "Le SDRP est une maladie parasitaire non contagieuse, alors que les pestes porcines sont exclusivement bactériennes."
+          ],
+          "correct": 2,
+          "explanation": "Le SDRP a une physiopathologie et une clinique différentes des pestes porcines, même s’il peut provoquer des pertes lourdes."
+        },
+        {
+          "question": "Quel élément de biosécurité est logique vis-à-vis de la PPA ou de la PPC ?",
+          "options": [
+            "Le risque est entièrement annulé dès lors qu’aucun animal ne présente de fièvre au contrôle d’entrée unique.",
+            "Les introductions de porcs d’origine inconnue sont acceptables si les véhicules ont été simplement rincés à l’eau.",
+            "La seule mesure vraiment utile est la supplémentation vitaminique des animaux en période de stress.",
+            "Le contrôle strict des introductions et des mouvements est fondamental."
+          ],
+          "correct": 3,
+          "explanation": "Pour des maladies aussi contagieuses et réglementées, la maîtrise des introductions est un pilier de la prévention."
+        },
+        {
+          "question": "Dans le chapitre sur les suidés, quelle maladie appartient aux catégories C-D-E ?",
+          "options": [
+            "La maladie d’Aujeszky est la maladie de catégorie C-D-E présentée dans le polycopié.",
+            "La maladie vésiculeuse du porc relève de la catégorie C-D-E alors que la PPC relève seulement de la catégorie E.",
+            "La diarrhée épidémique porcine est l’unique maladie classée C-D-E chez les suidés.",
+            "Le SDRP est la maladie de catégorie C-D-E, la maladie d’Aujeszky étant rangée en A-D-E."
+          ],
+          "correct": 0,
+          "explanation": "Le sommaire du document individualise la maladie d’Aujeszky dans la rubrique C-D-E."
+        },
+        {
+          "question": "Parmi les maladies suivantes, laquelle est explicitement rangée parmi les maladies d’intérêt national réglementées dans le polycopié suidés ?",
+          "options": [
+            "La leptospirose du porc est la maladie d’intérêt national centrale du document, en particulier dans les formes cliniques ou réglementaires les plus souvent discutées au cours.",
+            "La maladie vésiculeuse du porc fait partie des maladies d’intérêt national présentées.",
+            "La rage porcine est la seule maladie d’intérêt national décrite dans ce fascicule.",
+            "La peste bovine porcine est la principale maladie d’intérêt national non catégorisée."
+          ],
+          "correct": 1,
+          "explanation": "Le sommaire des maladies d’intérêt national réglementées chez les suidés inclut notamment la DEP, Nipah, Teschen, maladie vésiculeuse du porc et trichinellose."
+        },
+        {
+          "question": "Quel raisonnement de terrain est le plus cohérent devant des lésions vésiculeuses du porc sans diagnostic établi ?",
+          "options": [
+            "Il s’agit le plus souvent d’un botulisme atypique, donc la recherche d’autres maladies réglementées n’est pas prioritaire.",
+            "La présence de vésicules suffit à exclure les maladies listées et oriente d’abord vers une simple dermatite de contact, notamment lorsque plusieurs arguments cliniques ou épidémiologiques se superposent au début de l’examen.",
+            "Il faut raisonner immédiatement en maladie réglementée et exclure rapidement les grandes vésiculoses, notamment la fièvre aphteuse.",
+            "Le traitement symptomatique doit précéder toute alerte, car les vésiculoses porcines ne nécessitent pas de confirmation officielle."
+          ],
+          "correct": 2,
+          "explanation": "Le caractère vésiculeux chez le porc impose un raisonnement de haute vigilance, compte tenu des enjeux réglementaires."
+        },
+        {
+          "question": "Quel énoncé sur la DEP est correct du point de vue de l’épidémiologie de troupeau ?",
+          "options": [
+            "La DEP n’est transmissible que par voie sexuelle, ce qui concentre les cas chez les reproducteurs adultes.",
+            "La DEP a un potentiel de diffusion rapide à l’échelle du lot, avec impact particulièrement marqué en maternité.",
+            "La DEP reste presque toujours limitée à un seul animal index et ne prend pas de forme collective en pratique.",
+            "La DEP survient uniquement après morsure de rongeurs, sans transmission oro-fécale entre porcs, ce qui peut sembler cohérent dans certaines situations de suspicion collective ou de terrain."
+          ],
+          "correct": 1,
+          "explanation": "La DEP est une maladie hautement contagieuse du tube digestif, avec dynamique de troupeau nette."
+        },
+        {
+          "question": "Quel couple maladie-présentation est le mieux associé ?",
+          "options": [
+            "Trichinellose : métrite des truies ; maladie de Teschen : parasitose musculaire liée aux rongeurs, notamment lorsque plusieurs arguments cliniques ou épidémiologiques se superposent au début de l’examen.",
+            "Trichinellose : enjeu d’inspection des viandes et de santé publique ; maladie de Teschen : expression neurologique du porc.",
+            "Trichinellose : maladie vésiculeuse ; maladie de Teschen : entérite néonatale du porcelet sous la mère.",
+            "Trichinellose : maladie respiratoire chronique ; maladie de Teschen : zoonose alimentaire de l’adulte."
+          ],
+          "correct": 1,
+          "explanation": "Ces deux affections n’ont ni la même clinique ni les mêmes enjeux ; la première est surtout une parasitose d’intérêt sanitaire des denrées, la seconde une maladie nerveuse."
+        },
+        {
+          "question": "Quel élément rend le diagnostic clinique seul insuffisant pour distinguer correctement plusieurs grandes maladies réglementées des suidés ?",
+          "options": [
+            "Les maladies réglementées porcines ont des signes pathognomoniques constants qui rendent superflue toute analyse complémentaire.",
+            "Les analyses de laboratoire ne sont utiles qu’après guérison, car aucun agent n’est détectable en phase aiguë.",
+            "Des tableaux systémiques ou nerveux peuvent se chevaucher, ce qui impose la confirmation par le laboratoire.",
+            "Le laboratoire n’a d’intérêt que pour la trichinellose ; toutes les autres maladies se distinguent sans ambiguïté sur le terrain."
+          ],
+          "correct": 2,
+          "explanation": "Comme pour beaucoup de maladies réglementées, la confirmation étiologique de laboratoire est indispensable devant des tableaux cliniques parfois proches."
+        },
+        {
+          "question": "Pourquoi la trichinellose est-elle maintenue dans le champ du polycopié suidés alors qu’elle diffère fortement des autres maladies présentées ?",
+          "options": [
+            "Parce qu’elle provoque les mêmes tableaux vésiculeux que la maladie vésiculeuse du porc, ce qui impose de les apprendre ensemble.",
+            "Parce qu’elle a un enjeu réglementaire et de santé publique majeur, centré sur la sécurité des viandes.",
+            "Parce qu’elle est la principale cause de troubles respiratoires et reproducteurs du porc en Europe occidentale.",
+            "Parce qu’elle est la seule maladie porcine à transmission strictement verticale obligatoire."
+          ],
+          "correct": 1,
+          "explanation": "Sa logique de présentation est réglementaire et sanitaire : la trichinellose engage directement la protection du consommateur."
+        }
+      ]
+    },
+    {
+      "id": "b5-ruminants-reglementes",
+      "title": "Maladies réglementées des ruminants | Maladies réglementées des ruminants.pdf",
+      "description": "Maladies catégorisées des ruminants, grandes maladies vectorielles, maladies de reproduction, fièvre Q, paratuberculose, prions, maladies d’intérêt national transitoires.",
+      "questions": [
+        {
+          "question": "Parmi les maladies réglementées des ruminants présentées dans le polycopié, laquelle appartient aux maladies de catégorie A+D+E ?",
+          "options": [
+            "La fièvre Q est classée A+D+E car elle impose un plan national d’urgence à chaque foyer.",
+            "La trichomonose bovine relève des catégories A+D+E chez tous les ruminants domestiques.",
+            "La paratuberculose fait partie des maladies A+D+E en raison de sa diffusion mondiale et de sa chronicité.",
+            "La peste des petits ruminants est classée parmi les maladies A+D+E."
+          ],
+          "correct": 3,
+          "explanation": "Dans le document, les maladies A+D+E des ruminants incluent notamment la PPR, la PPCB, la fièvre de la vallée du Rift, la clavelée/variole caprine, la dermatose nodulaire contagieuse et la peste bovine."
+        },
+        {
+          "question": "Quel couple de maladies est présenté ensemble en tête du chapitre ruminants parmi les maladies A+D+E ?",
+          "options": [
+            "La fièvre Q et la paratuberculose sont présentées ensemble comme noyau des maladies A+D+E.",
+            "La leucose bovine enzootique et l’IBR/VVIP sont traitées comme un unique couple de maladies A+D+E.",
+            "La clavelée et la variole caprine sont regroupées dans un même chapitre.",
+            "La campylobactériose génitale bovine et l’épididymite contagieuse du bélier ouvrent ensemble le chapitre A+D+E."
+          ],
+          "correct": 2,
+          "explanation": "Le sommaire regroupe explicitement la clavelée et la variole caprine dans une même entrée."
+        },
+        {
+          "question": "Pourquoi la fièvre de la Vallée du Rift est-elle particulièrement importante dans un polycopié de maladies réglementées des ruminants ?",
+          "options": [
+            "Parce qu’elle n’affecte que les bovins adultes en production laitière et n’a aucun impact pour l’humain.",
+            "Parce qu’elle combine un enjeu épizootique majeur et un risque zoonotique notable.",
+            "Parce qu’elle est une maladie strictement vénérienne des petits ruminants, sans intervention vectorielle.",
+            "Parce qu’elle est due à une bactérie sporulée persistant surtout dans les aliments concentrés."
+          ],
+          "correct": 1,
+          "explanation": "La fièvre de la Vallée du Rift se distingue par son importance sanitaire chez les ruminants et par son retentissement en santé publique."
+        },
+        {
+          "question": "Quelle proposition correspond à la péripneumonie contagieuse bovine (PPCB) ?",
+          "options": [
+            "Il s’agit d’une maladie digestive aiguë des veaux sous la mère, sans atteinte pleuro-pulmonaire notable.",
+            "Il s’agit d’une maladie réglementée majeure des bovins à expression respiratoire, historiquement redoutée pour sa contagiosité.",
+            "Elle est due à un flavivirus transmis exclusivement par moustiques des zones humides, notamment lorsque plusieurs arguments cliniques ou épidémiologiques se superposent au début de l’examen.",
+            "Elle touche surtout les caprins laitiers et n’atteint le bovin qu’exceptionnellement dans les conditions naturelles."
+          ],
+          "correct": 1,
+          "explanation": "La PPCB est une grande maladie respiratoire des bovins, d’importance historique et réglementaire, à ne pas confondre avec les pleuropneumonies des petits ruminants."
+        },
+        {
+          "question": "Quel élément différencie la peste bovine de la peste des petits ruminants sur le plan de l’espèce cible principale ?",
+          "options": [
+            "La peste bovine vise classiquement les bovins, alors que la peste des petits ruminants concerne surtout ovins et caprins.",
+            "La peste bovine n’affecte que les cervidés sauvages, contrairement à la PPR qui ne touche que les camélidés.",
+            "La peste bovine et la peste des petits ruminants ciblent exactement les mêmes espèces avec la même sensibilité clinique.",
+            "La PPR touche avant tout les bovins d’engraissement, tandis que la peste bovine est limitée au mouton, en particulier dans les formes cliniques ou réglementaires les plus souvent discutées au cours."
+          ],
+          "correct": 0,
+          "explanation": "Leur simple dénomination rappelle déjà la distinction des espèces de référence, même si d’autres espèces peuvent intervenir épidémiologiquement."
+        },
+        {
+          "question": "Dans le groupe C+D+E des ruminants, quelle maladie est explicitement associée au complexe BVD/maladie des muqueuses ?",
+          "options": [
+            "La maladie hémorragique épizootique correspond au complexe BVD/maladie des muqueuses dans la nouvelle nomenclature.",
+            "La diarrhée virale bovine / maladie des muqueuses occupe un chapitre spécifique de ce groupe.",
+            "La paratuberculose remplace désormais le terme de BVD/maladie des muqueuses dans les catégories C+D+E.",
+            "La fièvre catarrhale ovine est présentée comme synonyme réglementaire de la maladie des muqueuses."
+          ],
+          "correct": 1,
+          "explanation": "Le sommaire mentionne explicitement « diarrhée virale bovine / maladie des muqueuses » dans les maladies de catégorie C+D+E."
+        },
+        {
+          "question": "Quel risque majeur justifie l’importance de la BVD dans un cours de maladies réglementées des ruminants ?",
+          "options": [
+            "La persistance d’animaux infectés permanents et la multiplicité des expressions cliniques en font une maladie difficile à maîtriser.",
+            "La BVD n’a qu’un impact anecdotique car elle n’est détectable que chez les bovins de réforme au moment de l’abattage.",
+            "La BVD est simple à éradiquer car il n’existe ni portage persistant ni transmission transplacentaire, ce qui peut sembler cohérent dans certaines situations de suspicion collective ou de terrain.",
+            "Son importance est surtout limitée à une expression strictement nerveuse, sans retentissement reproducteur ni collectif."
+          ],
+          "correct": 0,
+          "explanation": "La BVD est une maladie complexe de filière, notamment à cause des animaux IPI et de la diversité des formes cliniques."
+        },
+        {
+          "question": "Dans ce polycopié, quelle maladie des ruminants est un orbivirus de grande importance réglementaire et économique ?",
+          "options": [
+            "La fièvre catarrhale ovine (FCO) correspond à cet énoncé.",
+            "La campylobactériose génitale bovine est l’orbivirose de référence chez les ruminants d’élevage.",
+            "La fièvre Q est l’orbivirose la plus importante du groupe C+D+E.",
+            "La leucose bovine enzootique est l’orbivirose majeure des ruminants transmise par culicoïdes."
+          ],
+          "correct": 0,
+          "explanation": "La FCO est bien une infection à orbivirus transmise par culicoïdes, avec un fort enjeu sanitaire et commercial."
+        },
+        {
+          "question": "Quelle maladie des ruminants est surtout connue pour sa surveillance sérologique de troupeau et son impact sur les échanges commerciaux, tout en pouvant rester cliniquement discrète ?",
+          "options": [
+            "La fièvre charbonneuse correspond à ce profil, car elle est surtout sérologique et rarement clinique.",
+            "La paratuberculose répond exactement à cette définition, avec dépistage officiel unique et exclusion immédiate de tout le cheptel.",
+            "La leucose bovine enzootique correspond à cette description.",
+            "La pleuropneumonie contagieuse caprine est la maladie la plus discrète cliniquement mais la plus suivie sérologiquement."
+          ],
+          "correct": 2,
+          "explanation": "La leucose bovine enzootique a longtemps été au cœur des dispositifs de surveillance et des garanties d’échanges."
+        },
+        {
+          "question": "Quel couple est correctement associé dans les maladies ruminants de catégorie C+D+E ?",
+          "options": [
+            "IBR/VVIP correspond à l’infection respiratoire des béliers par Brucella ovis et à la métrite des chèvres laitières.",
+            "IBR/VVIP est l’abréviation retenue pour la fièvre Q et la maladie hémorragique épizootique.",
+            "IBR/VVIP correspond à la rhinotrachéite infectieuse bovine / vulvo-vaginite infectieuse pustuleuse.",
+            "IBR/VVIP désigne l’infection à Campylobacter fetus chez les bovins et les petits ruminants."
+          ],
+          "correct": 2,
+          "explanation": "Le sommaire développe explicitement la rhinotrachéite infectieuse bovine / vulvo-vaginite infectieuse pustuleuse sous cette dénomination."
+        },
+        {
+          "question": "Parmi les maladies D+E des ruminants, laquelle est essentiellement une maladie vénérienne bovine ?",
+          "options": [
+            "La maladie hémorragique épizootique est la grande maladie vénérienne bovine du groupe D+E.",
+            "La paratuberculose est la principale maladie vénérienne chronique des troupeaux allaitants.",
+            "La fièvre charbonneuse ne s’exprime chez les ruminants que par transmission sexuelle au moment de la monte.",
+            "La campylobactériose génitale bovine est une maladie vénérienne bovine."
+          ],
+          "correct": 3,
+          "explanation": "Le document isole clairement la campylobactériose génitale bovine parmi les maladies D+E, avec une logique de reproduction et de transmission sexuelle."
+        },
+        {
+          "question": "Quel agent ou tableau est le plus directement lié à l’épididymite contagieuse du bélier dans un raisonnement de santé reproductive ovine ?",
+          "options": [
+            "Il s’agit d’abord d’une maladie pulmonaire enzootique des jeunes agneaux, sans lien avec la reproduction.",
+            "Une atteinte de l’appareil génital mâle avec retentissement sur la fertilité des béliers est au cœur de cette maladie.",
+            "Une dermatose nodulaire diffuse avec virémie vectorielle représente le mécanisme principal de l’épididymite contagieuse du bélier.",
+            "La maladie touche surtout les femelles pleines en fin de gestation, avec entérite hémorragique et avortement septique."
+          ],
+          "correct": 1,
+          "explanation": "L’épididymite contagieuse du bélier est d’abord une maladie de la reproduction, centrée sur les mâles ovins."
+        },
+        {
+          "question": "Pourquoi la fièvre charbonneuse conserve-t-elle une place particulière dans un polycopié de maladies réglementées ?",
+          "options": [
+            "La maladie est surtout importante pour ses séquelles nerveuses chroniques, beaucoup plus que pour sa brutalité évolutive.",
+            "Parce qu’elle est limitée à une métrite bénigne des femelles et ne présente pas de risque pour l’humain.",
+            "Parce qu’elle est une arbovirose saisonnière exclusivement transmise par moustiques, sans persistance tellurique.",
+            "Parce qu’elle associe gravité clinique, enjeu zoonotique et implications immédiates de police sanitaire."
+          ],
+          "correct": 3,
+          "explanation": "La fièvre charbonneuse est un sujet emblématique de maladie à déclaration immédiate avec risque zoonotique fort."
+        },
+        {
+          "question": "Quel élément rapproche la maladie hémorragique épizootique de la fièvre catarrhale ovine sur le plan épidémiologique ?",
+          "options": [
+            "Elles se transmettent principalement par le lait et le colostrum, sans rôle notable des arthropodes.",
+            "Ce sont deux maladies à transmission vectorielle impliquant des culicoïdes.",
+            "Ce sont deux maladies vénériennes bovines chroniques entretenues surtout par les mâles porteurs.",
+            "Leur diffusion dépend avant tout des tiques molles et non des diptères piqueurs."
+          ],
+          "correct": 1,
+          "explanation": "La parenté épidémiologique entre MHE et FCO tient notamment à l’intervention des culicoïdes."
+        },
+        {
+          "question": "Quel énoncé est correct concernant le surra dans le fascicule ruminants ?",
+          "options": [
+            "Le surra y est traité comme une maladie exclusivement bactérienne des bovins européens, ce qui peut sembler cohérent dans certaines situations de suspicion collective ou de terrain.",
+            "Le surra est classé A+D+E chez les ruminants, avec vaccination obligatoire dès la suspicion.",
+            "Le surra est inclus parmi les maladies D+E, bien qu’il soit souvent plus spontanément évoqué chez d’autres espèces que les ruminants.",
+            "Le surra est absent du polycopié ruminants, car il ne concerne que les équidés et jamais les autres espèces d’élevage."
+          ],
+          "correct": 2,
+          "explanation": "Le sommaire du fascicule ruminants inclut bien le surra parmi les maladies D+E."
+        },
+        {
+          "question": "Quelle maladie D+E des ruminants est principalement liée à la reproduction bovine et à la transmission lors de la saillie ou de l’insémination ?",
+          "options": [
+            "La maladie hémorragique épizootique est essentiellement transmise à la saillie par les taureaux porteurs chroniques.",
+            "La trichomonose bovine répond à cette définition.",
+            "La paratuberculose bovine est d’abord une maladie vénérienne avant d’être une entérite chronique.",
+            "La fièvre Q se transmet presque exclusivement lors de la monte naturelle chez les bovins laitiers."
+          ],
+          "correct": 1,
+          "explanation": "La trichomonose bovine appartient au groupe des maladies de reproduction et de monte à connaître en pratique d’élevage."
+        },
+        {
+          "question": "Parmi les maladies de catégorie E du polycopié ruminants, laquelle est particulièrement importante comme zoonose abortive ?",
+          "options": [
+            "La fièvre Q est la zoonose abortive majeure de ce groupe.",
+            "La paratuberculose est la principale zoonose abortive aiguë des élevages de ruminants en Europe.",
+            "La leucose bovine enzootique est la grande zoonose abortive responsable de fièvre Q humaine.",
+            "La tremblante ovine est la principale maladie de catégorie E responsable d’avortements zoonotiques."
+          ],
+          "correct": 0,
+          "explanation": "La fièvre Q occupe une place particulière parmi les maladies E du fait de son impact en santé publique, notamment autour des mises bas et avortements."
+        },
+        {
+          "question": "Quel trait clinique ou lésionnel caractérise le mieux la paratuberculose des ruminants ?",
+          "options": [
+            "Une entérite chronique hypertrophique avec amaigrissement progressif et parfois diarrhée chez les espèces concernées est typique.",
+            "Une dermatose papuleuse du dos et des membres, transmise par arthropodes, signe la majorité des cas, ce qui peut sembler cohérent dans certaines situations de suspicion collective ou de terrain.",
+            "Une métrite pustuleuse aiguë après la saillie représente la présentation clinique la plus habituelle.",
+            "Une pneumonie fibrineuse suraiguë avec mortalité massive en moins de quarante-huit heures est le tableau classique."
+          ],
+          "correct": 0,
+          "explanation": "La paratuberculose est avant tout une entérite chronique à évolution longue, avec retentissement zootechnique majeur."
+        },
+        {
+          "question": "Quelle maladie à prions des ruminants apparaît dans la partie « intérêt national » du polycopié ?",
+          "options": [
+            "La fièvre Q et la paratuberculose sont les deux seules maladies à prions retenues dans le document.",
+            "La dermatose nodulaire contagieuse des bovins est traitée comme l’ESB dans la rubrique prions.",
+            "L’encéphalopathie spongiforme bovine figure dans cette partie.",
+            "La campylobactériose génitale bovine est la principale maladie à prions d’intérêt national."
+          ],
+          "correct": 2,
+          "explanation": "Dans la partie consacrée aux maladies d’intérêt national, l’ESB est explicitement individualisée parmi les encéphalopathies spongiformes transmissibles."
+        },
+        {
+          "question": "Quel autre grand chapitre à prions complète l’ESB dans le polycopié des ruminants ?",
+          "options": [
+            "La fièvre catarrhale ovine est présentée comme le pendant ovin de l’ESB parmi les maladies à prions.",
+            "La maladie hémorragique épizootique constitue le chapitre caprin équivalent à l’ESB.",
+            "La paratuberculose ovine est traitée comme le second chapitre majeur de prion chez les petits ruminants.",
+            "La tremblante du mouton et de la chèvre est présentée comme l’autre grand chapitre à prions."
+          ],
+          "correct": 3,
+          "explanation": "Le sommaire cite explicitement la tremblante du mouton et de la chèvre en parallèle de l’ESB."
+        },
+        {
+          "question": "Quelle maladie figurant dans la partie « intérêt national » est classiquement associée aux cervidés plutôt qu’aux ruminants domestiques traditionnels ?",
+          "options": [
+            "La maladie du dépérissement chronique correspond à cette affection.",
+            "L’hypodermose bovine est la maladie classiquement propre aux cervidés sauvages dans le document.",
+            "La clavelée est la maladie d’intérêt national des cervidés décrite après la tremblante.",
+            "L’agalactie contagieuse est présentée comme la maladie emblématique des cervidés élevés."
+          ],
+          "correct": 0,
+          "explanation": "La maladie du dépérissement chronique est le pendant cervidé des maladies à prions présentées dans le polycopié."
+        },
+        {
+          "question": "Pourquoi la maladie d’Aujeszky figure-t-elle aussi dans un polycopié des ruminants alors qu’elle est surtout connue chez le porc ?",
+          "options": [
+            "Parce que les ruminants peuvent être atteints et exprimer une forme prurigineuse ou nerveuse dramatique, même s’ils ne sont pas le réservoir principal.",
+            "Parce qu’elle n’existe chez les ruminants que sous forme vaccinale et n’a pas d’expression clinique naturelle.",
+            "Parce qu’elle est chez eux une maladie digestive chronique de troupeau, sans lien avec le porc, surtout lorsque l’anamnèse et le contexte d’élevage peuvent orienter vers cette hypothèse au premier abord.",
+            "Parce que les ruminants constituent le réservoir principal du virus et contaminent secondairement les porcs."
+          ],
+          "correct": 0,
+          "explanation": "Le document rappelle la possibilité d’atteinte des ruminants par la maladie d’Aujeszky, ce qui justifie sa présence dans ce fascicule."
+        },
+        {
+          "question": "Quel intérêt pratique justifie la présence de la stomatite vésiculeuse dans la rubrique d’intérêt national des ruminants ?",
+          "options": [
+            "Elle n’est incluse que pour des raisons académiques, sans enjeu diagnostique différentiel sur le terrain.",
+            "Elle est due à un prion et se confond surtout avec l’ESB au stade clinique précoce, surtout lorsque l’anamnèse et le contexte d’élevage peuvent orienter vers cette hypothèse au premier abord.",
+            "Elle concerne seulement les carnivores domestiques et n’a pas d’expression chez les ruminants.",
+            "Elle doit être connue car elle peut mimer d’autres maladies vésiculeuses majeures, notamment la fièvre aphteuse."
+          ],
+          "correct": 3,
+          "explanation": "Le caractère vésiculeux de la maladie impose de la connaître dans une logique de diagnostic différentiel avec des maladies réglementées majeures."
+        },
+        {
+          "question": "Dans la partie « intérêt national », quel chapitre correspond à une zoonose bactérienne classique à connaître même si elle n’est pas spécifique des ruminants ?",
+          "options": [
+            "L’hypodermose bovine est la zoonose bactérienne classique retenue dans cette partie.",
+            "La tularémie est le chapitre concerné.",
+            "La tremblante ovine est la grande zoonose bactérienne terminale du document.",
+            "La maladie du dépérissement chronique est la seule zoonose bactérienne des cervidés décrite ici."
+          ],
+          "correct": 1,
+          "explanation": "La tularémie figure bien dans la liste des maladies d’intérêt national du polycopié ruminants."
+        },
+        {
+          "question": "Quelle maladie réglementée à titre transitoire concerne classiquement les petits ruminants et s’exprime par une atteinte mammaire, articulaire ou oculaire selon l’espèce ?",
+          "options": [
+            "La leucose bovine enzootique correspond à cette maladie transitoire des chèvres et brebis laitières.",
+            "L’agalactie contagieuse correspond à ce profil.",
+            "La campylobactériose génitale bovine est la principale cause d’agalactie contagieuse caprine.",
+            "La maladie hémorragique épizootique représente la grande infection mammaire transitoire des petits ruminants."
+          ],
+          "correct": 1,
+          "explanation": "L’agalactie contagieuse est une maladie traditionnelle des petits ruminants à connaître dans les rubriques d’intérêt national transitoire."
+        },
+        {
+          "question": "Quel énoncé est exact à propos de l’arthrite-encéphalite caprine à virus (CAEV) dans le fascicule ruminants ?",
+          "options": [
+            "Elle appartient au groupe A+D+E et impose un plan sanitaire d’urgence européen en cas de suspicion.",
+            "Elle est classée uniquement en catégorie B+D+E, au même titre que la rage des ruminants.",
+            "Elle n’est pas mentionnée dans ce fascicule car elle relève exclusivement de la pathologie canine.",
+            "Elle figure parmi les maladies d’intérêt national réglementées à titre transitoire."
+          ],
+          "correct": 3,
+          "explanation": "Le sommaire place l’arthrite-encéphalite caprine à virus dans la partie des maladies réglementées à titre transitoire."
+        },
+        {
+          "question": "Pourquoi le botulisme bovin mérite-t-il une entrée spécifique dans les maladies d’intérêt national transitoires ?",
+          "options": [
+            "Parce qu’il est devenu la principale maladie vésiculeuse réglementée des bovins après l’éradication de la fièvre aphteuse.",
+            "La maladie est classée ici uniquement en raison de son traitement antibiotique obligatoire à vie.",
+            "Parce qu’il s’agit d’une intoxination grave de troupeau, avec enjeux de diagnostic et de prévention collective.",
+            "Parce qu’il correspond à une parasitose cutanée des veaux liée aux hypodermes."
+          ],
+          "correct": 2,
+          "explanation": "Le botulisme bovin reste un sujet de santé collective important, notamment en élevage allaitant ou en situation d’exposition alimentaire."
+        },
+        {
+          "question": "Quel chapitre clôt le sommaire du polycopié ruminants ?",
+          "options": [
+            "La trichomonose bovine est le dernier chapitre, après les maladies d’intérêt national transitoires.",
+            "La tremblante du mouton et de la chèvre constitue le dernier chapitre du polycopié.",
+            "L’hypodermose bovine clôt la liste des maladies présentées dans ce fascicule.",
+            "La fièvre Q ferme le document juste après la paratuberculose."
+          ],
+          "correct": 2,
+          "explanation": "Le sommaire se termine effectivement par l’hypodermose bovine."
+        },
+        {
+          "question": "Quel raisonnement général est le plus juste devant une suspicion de maladie réglementée des ruminants ?",
+          "options": [
+            "Il faut articuler suspicion clinique, contexte épidémiologique, risque zoonotique éventuel et mesures réglementaires précoces.",
+            "Le raisonnement se limite d’abord au traitement individuel, la confirmation de laboratoire étant secondaire même pour les maladies A.",
+            "Les mesures d’isolement ou de restriction de mouvements n’ont d’intérêt que pour les maladies à prions.",
+            "La réglementation n’intervient qu’après autopsie complète de plusieurs animaux, jamais au stade de la suspicion clinique."
+          ],
+          "correct": 0,
+          "explanation": "Le polycopié annonce clairement comme objectifs l’identification des éléments de suspicion et la mise en œuvre des premières mesures adaptées."
+        },
+        {
+          "question": "Quel couple maladie-mode de transmission est correctement apparié ?",
+          "options": [
+            "Campylobactériose génitale bovine : transmission par culicoïdes ; MHE : transmission vénérienne par les taureaux.",
+            "Fièvre charbonneuse : transmission par moustiques ; fièvre Q : transmission sexuelle obligatoire, avec un tableau de terrain partiellement compatible avant confirmation expérimentale.",
+            "Paratuberculose : transmission vectorielle majeure ; FCO : transmission essentiellement spermatique.",
+            "Campylobactériose génitale bovine : transmission vénérienne ; maladie hémorragique épizootique : transmission vectorielle."
+          ],
+          "correct": 3,
+          "explanation": "Le document juxtapose des maladies très différentes, ce qui suppose de bien distinguer maladies de reproduction et maladies vectorielles."
+        }
+      ]
+    },
+    {
+      "id": "b5-pharmacie-legislation",
+      "title": "Législation vétérinaire : prescription et délivrance | Pharmacie legislation Important.pdf",
+      "description": "Prescription, ordonnance, cascade, résidus, équidés, antibiotiques critiques, hormones, délivrance et renouvellement en législation vétérinaire.",
+      "questions": [
+        {
+          "question": "En législation vétérinaire, quelle distinction est correcte ?",
+          "options": [
+            "La prescription et l’ordonnance sont deux synonymes stricts qui n’ont aucune portée juridique distincte, dans une logique de conformité apparente à l’ordonnance et au circuit de délivrance.",
+            "La prescription n’existe que lorsqu’un pharmacien exécute l’ordonnance, sans intervention du vétérinaire.",
+            "La prescription est la recommandation thérapeutique ; l’ordonnance est le support écrit qui la consigne éventuellement.",
+            "L’ordonnance correspond au diagnostic clinique, alors que la prescription désigne la délivrance au comptoir."
+          ],
+          "correct": 2,
+          "explanation": "Le cours distingue clairement l’acte de prescrire et le document écrit qui peut le formaliser. Cette distinction a une vraie portée médico-légale."
+        },
+        {
+          "question": "Pourquoi la rédaction d’une ordonnance est-elle présentée comme toujours souhaitable même lorsqu’elle n’est pas strictement obligatoire ?",
+          "options": [
+            "Parce qu’elle permet au pharmacien de substituer librement tout médicament par un générique humain.",
+            "Parce qu’elle remplace la pharmacovigilance et dispense de toute traçabilité en officine.",
+            "Parce qu’elle a une valeur médico-légale, réduit le risque d’erreur et aide à prévenir les litiges.",
+            "Parce qu’elle est le seul moyen réglementaire de prouver qu’un examen clinique a été réalisé avec anesthésie."
+          ],
+          "correct": 2,
+          "explanation": "Le cours insiste sur la dimension juridique et sécuritaire de l’ordonnance, même lorsque la réglementation n’en impose pas systématiquement la remise."
+        },
+        {
+          "question": "Quel est le principe général du choix du médicament avant recours à la cascade ?",
+          "options": [
+            "Il faut d’abord choisir le médicament le moins cher, quitte à régulariser ensuite le cadre juridique par la cascade.",
+            "Il faut d’abord prescrire un médicament disposant d’une AMM pour l’espèce considérée et l’indication visée.",
+            "Le recours à un médicament humain doit toujours être privilégié avant toute spécialité vétérinaire.",
+            "La cascade s’applique d’emblée à tout animal, même lorsqu’un médicament vétérinaire adapté avec AMM existe."
+          ],
+          "correct": 1,
+          "explanation": "La cascade est une dérogation hiérarchisée. Elle n’a de sens que lorsqu’aucun médicament autorisé approprié n’est disponible."
+        },
+        {
+          "question": "Après le 28/01/2022, combien de cascades distinctes le règlement européen prévoit-il selon les filières ?",
+          "options": [
+            "Quatre cascades coexistent : une supplémentaire étant réservée aux équidés de sport, dans une logique de conformité apparente à l’ordonnance et au circuit de délivrance.",
+            "Deux cascades seulement sont prévues : une pour carnivores domestiques, une pour tous les animaux de rente.",
+            "Une seule cascade uniforme s’applique à toutes les espèces, ce qui simplifie totalement la prescription vétérinaire.",
+            "Trois cascades sont distinguées : animaux non producteurs, producteurs de denrées et espèces aquatiques productrices."
+          ],
+          "correct": 3,
+          "explanation": "Le cours souligne le changement introduit par le règlement 2019/6, avec trois logiques de cascade selon les catégories d’animaux."
+        },
+        {
+          "question": "Dans la cascade applicable aux animaux exclus de la consommation, quelle proposition est correcte ?",
+          "options": [
+            "Seuls des médicaments humains peuvent être prescrits, les médicaments vétérinaires d’un autre État membre étant exclus.",
+            "Un médicament vétérinaire autorisé dans un autre État membre peut être utilisé sans restriction d’espèce ou d’indication dans cette cascade.",
+            "Les vaccins provenant d’un pays tiers hors UE peuvent être utilisés librement dans le cadre de la cascade, ce qui peut sembler recevable avant une lecture attentive des exigences réglementaires détaillées.",
+            "Les préparations magistrales sont toujours prioritaires sur tout médicament vétérinaire ou humain disponible."
+          ],
+          "correct": 1,
+          "explanation": "Pour les animaux exclus de la consommation, la cascade a été assouplie et peut mobiliser un médicament vétérinaire autorisé dans un autre État membre."
+        },
+        {
+          "question": "Quelle obligation doit apparaître sur l’ordonnance lorsqu’un médicament est prescrit hors AMM ?",
+          "options": [
+            "Il faut inscrire uniquement le nom commercial du médicament, sans faire apparaître le statut juridique dérogatoire.",
+            "Seule une mention verbale au détenteur est nécessaire ; aucune mention écrite n’est exigée.",
+            "La mention « hors RCP » suffit dans tous les cas, même si le médicament n’a pas d’AMM.",
+            "Le caractère « hors AMM » doit être indiqué sur l’ordonnance."
+          ],
+          "correct": 3,
+          "explanation": "Le cours présente cette mention comme une protection juridique importante pour le prescripteur."
+        },
+        {
+          "question": "Pour un animal destiné à la consommation, quelle contrainte supplémentaire s’impose dans le cadre de la cascade ?",
+          "options": [
+            "Il suffit que le médicament ait une AMM humaine, même si la substance n’a pas de LMR applicable.",
+            "La substance active doit respecter les règles relatives aux LMR et à l’usage sur animaux producteurs de denrées.",
+            "Le respect des LMR ne concerne que les antibiotiques, pas les autres familles de médicaments, dans une logique de conformité apparente à l’ordonnance et au circuit de délivrance.",
+            "La cascade est purement interdite chez tout animal producteur, sans aucune exception possible."
+          ],
+          "correct": 1,
+          "explanation": "Chez les animaux producteurs de denrées, la cascade reste possible mais sous des contraintes strictes liées aux résidus."
+        },
+        {
+          "question": "Quel texte européen est cité dans le cours comme définissant les LMR ?",
+          "options": [
+            "La directive 2001/82/CE est donnée comme unique texte de référence actuel pour les LMR vétérinaires.",
+            "Le règlement 2019/6 crée seul les LMR sans renvoi à d’autres textes spécifiques.",
+            "Le règlement 37/2010 est cité pour la définition des limites maximales de résidus.",
+            "Le règlement 122/2013 fixe les LMR générales pour toutes les denrées animales et végétales."
+          ],
+          "correct": 2,
+          "explanation": "Le cours mentionne explicitement le règlement 37/2010 pour les LMR."
+        },
+        {
+          "question": "Quel texte européen est mentionné dans le cours à propos des substances essentielles chez les équidés ?",
+          "options": [
+            "Le règlement 122/2013 est cité pour la liste des substances essentielles des équidés.",
+            "Le règlement 2019/6 remplace toute liste spécifique et supprime la notion de substance essentielle chez les équidés.",
+            "La liste des substances essentielles des équidés est fixée uniquement par les stud-books nationaux.",
+            "Le règlement 37/2010 est le texte unique listant les substances essentielles équines."
+          ],
+          "correct": 0,
+          "explanation": "Le cours cite spécifiquement le règlement 122/2013 pour les substances essentielles des équidés."
+        },
+        {
+          "question": "Quelle affirmation est correcte sur les médicaments humains à prescription restreinte utilisés en médecine vétérinaire ?",
+          "options": [
+            "Les médicaments humains à prescription restreinte sont prioritaires dans la cascade par rapport aux médicaments vétérinaires européens.",
+            "Tout médicament humain à prescription restreinte devient librement prescriptible dès lors qu’il est utilisé chez un animal exclu de la consommation.",
+            "Leur usage est entièrement laissé à l’appréciation du pharmacien, sans conséquence pour le prescripteur vétérinaire.",
+            "Ils ne peuvent pas être prescrits librement en cascade ; leur usage est encadré et certaines catégories sont exclues."
+          ],
+          "correct": 3,
+          "explanation": "Le cours rappelle que la cascade n’ouvre pas un droit illimité d’utiliser n’importe quel médicament humain à prescription restreinte."
+        },
+        {
+          "question": "Quel lien existe entre prescription et examen clinique dans le cours ?",
+          "options": [
+            "La prescription précède l’examen clinique, qui n’a qu’une valeur facultative de confirmation après traitement.",
+            "L’examen clinique conduit au diagnostic, puis au choix du traitement, puis seulement à la prescription et à la délivrance.",
+            "L’examen clinique n’est requis que pour les stupéfiants ; il n’a pas de place pour les autres médicaments vétérinaires.",
+            "La délivrance du médicament peut valablement tenir lieu d’examen clinique si l’animal est bien identifié, ce qui peut sembler recevable avant une lecture attentive des exigences réglementaires détaillées."
+          ],
+          "correct": 1,
+          "explanation": "Le cours place explicitement l’examen clinique avant la prescription, dans la logique diagnostique normale."
+        },
+        {
+          "question": "Quelle règle générale est rappelée à propos du nombre d’ordonnances ?",
+          "options": [
+            "En principe, une ordonnance correspond à un animal, ou à un groupe d’animaux en rurale.",
+            "Une seule ordonnance annuelle doit regrouper tous les animaux d’un même propriétaire, quelle que soit l’espèce.",
+            "Une ordonnance n’est jamais nominative chez l’animal et ne peut donc pas identifier un individu ou un lot.",
+            "Le nombre d’ordonnances dépend uniquement du nombre de médicaments prescrits, pas du nombre d’animaux concernés."
+          ],
+          "correct": 0,
+          "explanation": "Le cours précise le principe « une ordonnance = un animal », avec l’exception des groupes d’animaux en pratique rurale."
+        },
+        {
+          "question": "Parmi les risques que la prescription doit éviter, lequel est explicitement mentionné dans le cours ?",
+          "options": [
+            "La présence de résidus dangereux pour le consommateur des denrées produites par les animaux traités fait partie des risques à prévenir.",
+            "Le prescripteur n’a pas à tenir compte des effets indésirables sur l’animal dès lors qu’il respecte une AMM.",
+            "Le seul risque réglementaire pris en compte est l’échec commercial du traitement pour le propriétaire, avec une lecture qui peut paraître compatible au premier abord dans un dossier de dispensation.",
+            "Les effets sur l’environnement ne sont jamais considérés en législation de la prescription vétérinaire."
+          ],
+          "correct": 0,
+          "explanation": "Le cours rappelle que la prescription engage aussi la sécurité du consommateur et l’impact environnemental, pas seulement l’efficacité clinique."
+        },
+        {
+          "question": "Quelles mentions font partie des mentions obligatoires générales de l’ordonnance ?",
+          "options": [
+            "La durée du traitement et la voie d’administration peuvent être laissées à l’appréciation du pharmacien, avec une lecture qui peut paraître compatible au premier abord dans un dossier de dispensation.",
+            "Seuls le nom commercial du médicament et la signature du pharmacien sont nécessaires sur toute ordonnance vétérinaire.",
+            "L’identification du prescripteur, du détenteur, de l’animal, du traitement et la date de prescription sont obligatoires.",
+            "Les coordonnées du détenteur ne sont jamais requises, seul le numéro SIRE de l’animal étant obligatoire."
+          ],
+          "correct": 2,
+          "explanation": "Le cours énumère plusieurs mentions obligatoires relatives au prescripteur, au détenteur, à l’animal et au traitement."
+        },
+        {
+          "question": "Comment le vétérinaire doit-il sécuriser la partie libre au bas de l’ordonnance ?",
+          "options": [
+            "Il doit laisser un blanc suffisant pour que le pharmacien puisse ajouter si besoin des médicaments complémentaires.",
+            "La signature peut être reportée au verso sans conséquence, même si plusieurs lignes restent libres au recto.",
+            "Il suffit de dater l’ordonnance sans la signer si le tampon professionnel du vétérinaire figure en en-tête, ce qui peut sembler recevable avant une lecture attentive des exigences réglementaires détaillées.",
+            "Il doit signer immédiatement sous la dernière ligne ou rendre l’espace restant inutilisable par un moyen approprié."
+          ],
+          "correct": 3,
+          "explanation": "Cette règle vise à éviter les ajouts frauduleux et fait partie des exigences formelles rappelées dans le cours."
+        },
+        {
+          "question": "Quelle particularité doit être prise en compte pour les animaux destinés à la consommation ?",
+          "options": [
+            "La seule différence tient à l’obligation de rédiger l’ordonnance sur papier bleu pour les animaux de rente.",
+            "Le prescripteur n’a pas à distinguer les animaux producteurs des autres dès lors qu’il s’agit d’une espèce domestique.",
+            "Le prescripteur doit intégrer les règles relatives aux résidus et aux denrées animales dans son choix thérapeutique.",
+            "Les animaux producteurs de denrées échappent au principe de la cascade et ne peuvent recevoir aucun médicament hors indication."
+          ],
+          "correct": 2,
+          "explanation": "Le statut « producteur de denrées » modifie profondément le raisonnement réglementaire du médicament."
+        },
+        {
+          "question": "Dans le cours, pourquoi les équidés font-ils l’objet d’un développement particulier ?",
+          "options": [
+            "Parce qu’ils ne peuvent recevoir que des préparations magistrales, les spécialités vétérinaires leur étant interdites.",
+            "Parce qu’il faut distinguer notamment la filière bouchère de la filière sport et loisirs dans le raisonnement thérapeutique.",
+            "Parce qu’ils sont toujours considérés comme producteurs de denrées quel que soit leur statut administratif.",
+            "Parce que les équidés sont exclus par principe de toute prescription vétérinaire et relèvent uniquement de la médecine humaine."
+          ],
+          "correct": 1,
+          "explanation": "Le cours consacre un point spécifique aux équidés, justement parce que leur statut alimentaire n’est pas uniforme."
+        },
+        {
+          "question": "Quelle proposition est correcte à propos des antibiotiques en médecine vétérinaire selon le cours ?",
+          "options": [
+            "Les antibiotiques vétérinaires ne nécessitent jamais d’ordonnance dès lors qu’ils sont destinés à un animal non producteur.",
+            "Tous les antibiotiques obéissent exactement aux mêmes règles, sans aucune spécificité réglementaire.",
+            "Les antibiotiques critiques peuvent être renouvelés librement pendant un an si le vétérinaire ne s’y oppose pas.",
+            "Les antibiotiques critiques font l’objet d’un encadrement renforcé par rapport aux autres antibiotiques."
+          ],
+          "correct": 3,
+          "explanation": "Le cours distingue bien les règles générales applicables à tous les antibiotiques et les exigences supplémentaires propres aux antibiotiques critiques."
+        },
+        {
+          "question": "Quelle affirmation résume le mieux le régime des antibiotiques critiques ?",
+          "options": [
+            "Ils font l’objet de règles supplémentaires destinées à encadrer strictement leur usage.",
+            "Ils peuvent être délivrés sans examen clinique si l’animal a déjà reçu la même molécule l’année précédente.",
+            "Ils échappent aux règles de durée de validité des ordonnances grâce à leur intérêt stratégique.",
+            "Leur statut critique permet au contraire une prescription plus libre, pour éviter les retards thérapeutiques."
+          ],
+          "correct": 0,
+          "explanation": "Le caractère critique justifie un encadrement plus sévère, non un allègement des exigences."
+        },
+        {
+          "question": "Pourquoi les hormones font-elles l’objet d’un point particulier dans le cours ?",
+          "options": [
+            "Parce qu’elles ne relèvent pas du droit du médicament vétérinaire mais uniquement du droit du travail.",
+            "Parce qu’elles sont toujours totalement interdites, sans aucune exception pour aucune espèce, surtout lorsque l’on raisonne en pratique officinale quotidienne et en sécurité réglementaire.",
+            "Parce qu’elles sont assimilées automatiquement à des stupéfiants quel que soit leur usage ou leur classe.",
+            "Parce que leur prescription est encadrée de manière spécifique, notamment en lien avec les enjeux de production et de réglementation."
+          ],
+          "correct": 3,
+          "explanation": "Les hormones n’obéissent pas au simple régime général ; le cours leur réserve une section spécifique pour souligner cet encadrement."
+        },
+        {
+          "question": "Quelle règle générale de délivrance ressort du cours ?",
+          "options": [
+            "Le pharmacien peut transformer toute prescription orale en délivrance régulière, même sans support écrit quand l’ordonnance est obligatoire.",
+            "La délivrance a priorité sur la prescription et permet de modifier la durée de traitement sans recontacter le prescripteur.",
+            "La délivrance doit rester conforme à la prescription, dans le respect de la réglementation applicable au médicament concerné.",
+            "La délivrance peut librement corriger une prescription vétérinaire si le pharmacien estime un autre traitement plus rationnel."
+          ],
+          "correct": 2,
+          "explanation": "Le cours n’oppose pas prescription et délivrance, mais rappelle qu’elles doivent être cohérentes et réglementairement conformes."
+        },
+        {
+          "question": "Quelle question est centrale pour la durée de validité d’une ordonnance vétérinaire ?",
+          "options": [
+            "Cette durée dépend de la catégorie du médicament et des règles spécifiques applicables, notamment pour certaines classes comme les antibiotiques critiques.",
+            "La validité n’a aucune importance dès lors que le médicament a déjà été délivré une première fois, dans une logique de conformité apparente à l’ordonnance et au circuit de délivrance.",
+            "Toute ordonnance vétérinaire a automatiquement une validité de cinq ans si elle est datée et signée.",
+            "La durée de validité d’une ordonnance dépend uniquement de l’âge de l’animal et jamais du médicament prescrit."
+          ],
+          "correct": 0,
+          "explanation": "Le cours prévoit une partie spécifique sur la validité des ordonnances, preuve que cette question n’est pas uniforme."
+        },
+        {
+          "question": "Quel énoncé est correct concernant le renouvellement d’une délivrance ?",
+          "options": [
+            "Le renouvellement est toujours possible tant que le détenteur conserve l’ordonnance d’origine, dans le cadre des règles générales de prescription, de délivrance et de traçabilité rappelées par la fiche.",
+            "Le renouvellement n’est pas libre : il dépend de la nature du médicament et du cadre réglementaire applicable.",
+            "Le pharmacien décide seul du nombre de renouvellements, sans devoir tenir compte de l’ordonnance.",
+            "Le renouvellement est interdit pour tous les médicaments vétérinaires, même lorsque le texte l’autorise."
+          ],
+          "correct": 1,
+          "explanation": "Le cours consacre une partie entière au renouvellement, signe que les règles varient selon les médicaments."
+        },
+        {
+          "question": "Pourquoi le cours insiste-t-il sur le changement réglementaire du 28 janvier 2022 ?",
+          "options": [
+            "Parce qu’à cette date toute ordonnance vétérinaire est devenue facultative, même pour les antibiotiques critiques.",
+            "La date marque uniquement un changement de numérotation des formulaires, sans incidence sur le fond du droit, ce qui peut sembler recevable avant une lecture attentive des exigences réglementaires détaillées.",
+            "Parce que l’entrée en application du règlement européen 2019/6 modifie plusieurs règles de prescription et de cascade.",
+            "Parce que depuis cette date les médicaments humains peuvent être substitués librement en médecine vétérinaire."
+          ],
+          "correct": 2,
+          "explanation": "Le cours a précisément été remanié pour intégrer les changements liés à l’application du règlement 2019/6."
+        },
+        {
+          "question": "Quelle proposition correspond le mieux à la logique médico-légale de la prescription vétérinaire ?",
+          "options": [
+            "Le vétérinaire n’a qu’une obligation de moyen oral ; aucune justification écrite n’est jamais utile en cas de litige.",
+            "Le prescripteur doit pouvoir justifier un choix thérapeutique scientifiquement et réglementairement fondé.",
+            "Le choix thérapeutique peut être délégué au détenteur si celui-ci connaît déjà la maladie de son animal.",
+            "La conformité réglementaire importe peu tant que la clinique semble compatible avec un traitement possible."
+          ],
+          "correct": 1,
+          "explanation": "La prescription engage la responsabilité du vétérinaire ; elle ne peut reposer ni sur l’improvisation ni sur une simple habitude de terrain."
+        },
+        {
+          "question": "Quel raisonnement est correct pour un animal non producteur de denrées en l’absence de médicament vétérinaire adapté disponible en France ?",
+          "options": [
+            "La seule option réglementaire est alors l’abstention thérapeutique, aucun recours dérogatoire n’étant prévu, avec une lecture qui peut paraître compatible au premier abord dans un dossier de dispensation.",
+            "Le passage direct à un médicament importé d’un pays tiers est obligatoire avant d’envisager toute préparation magistrale.",
+            "Le vétérinaire doit toujours attendre une autorisation nominative préalable avant toute prescription, même si un médicament européen existe déjà.",
+            "La cascade peut conduire à utiliser un médicament vétérinaire autorisé dans un autre État membre, puis éventuellement un médicament humain ou une préparation magistrale."
+          ],
+          "correct": 3,
+          "explanation": "Le cours décrit une hiérarchie précise, et non un choix arbitraire, des solutions dérogatoires."
+        },
+        {
+          "question": "Quel est l’objectif du principe de la cascade ?",
+          "options": [
+            "Permettre de traiter un animal lorsqu’aucun médicament vétérinaire autorisé parfaitement adapté n’est disponible, tout en conservant un cadre juridique hiérarchisé.",
+            "Permettre au pharmacien d’adapter librement l’ordonnance vétérinaire au stock disponible à l’officine.",
+            "Autoriser systématiquement le remplacement d’un médicament vétérinaire par une spécialité humaine moins coûteuse.",
+            "Supprimer toute distinction entre animaux producteurs et non producteurs en matière de prescription, avec une lecture qui peut paraître compatible au premier abord dans un dossier de dispensation."
+          ],
+          "correct": 0,
+          "explanation": "La cascade n’est ni un droit absolu ni un outil de convenance ; c’est une dérogation encadrée pour éviter l’impasse thérapeutique."
+        },
+        {
+          "question": "Quelle proposition illustre correctement le raisonnement sur les risques pris en compte par le prescripteur ?",
+          "options": [
+            "Le vétérinaire doit tenir compte de l’animal, de l’utilisateur, du consommateur et de l’environnement.",
+            "Seul l’intérêt économique immédiat du propriétaire entre dans l’évaluation du prescripteur.",
+            "Le risque environnemental est expressément exclu du raisonnement réglementaire en droit du médicament vétérinaire.",
+            "La prescription vétérinaire ne considère que l’efficacité pharmacologique, pas les effets indésirables ni les résidus."
+          ],
+          "correct": 0,
+          "explanation": "Le cours expose une vision large du risque médicamenteux, dépassant l’animal lui-même."
+        },
+        {
+          "question": "Quel élément peut justifier qu’un médicament humain ne soit pas librement utilisable en cascade malgré son intérêt apparent ?",
+          "options": [
+            "Son régime de prescription restreinte peut faire obstacle à son emploi vétérinaire hors des cas prévus.",
+            "Tout médicament humain devient automatiquement utilisable chez l’animal dès lors que le vétérinaire l’estime pertinent.",
+            "Le pharmacien peut toujours remplacer un médicament humain prescrit en cascade par n’importe quel générique vétérinaire.",
+            "Seule la voie orale permet d’utiliser un médicament humain en cascade, les formes injectables étant interdites."
+          ],
+          "correct": 0,
+          "explanation": "Le cours attire l’attention sur les médicaments humains à prescription restreinte, qui ne peuvent pas être mobilisés sans discernement."
+        },
+        {
+          "question": "Quel message pratique sur la rédaction de l’ordonnance ressort nettement du cours ?",
+          "options": [
+            "Les mentions techniques détaillées sont inutiles si le vétérinaire connaît personnellement le propriétaire de l’animal.",
+            "Une prescription difficilement lisible n’a pas d’importance si la signature du prescripteur est reconnaissable.",
+            "Une ordonnance peut rester volontairement succincte puisque le pharmacien complétera les modalités pratiques à la délivrance.",
+            "Elle doit être claire, complète et comprise par le détenteur, pour sécuriser l’exécution du traitement."
+          ],
+          "correct": 3,
+          "explanation": "Le texte insiste sur la clarté du document et sur la compréhension effective par le détenteur."
+        }
+      ]
+    },
+    {
+      "id": "b5-pharmacie-officine",
+      "title": "Pharmacie vétérinaire à l’officine | Pharmacie veterinaire fiche.pdf",
+      "description": "Mentions obligatoires, validité, renouvellement, colisage, ordonnancier, absence de substitution générique, traçabilité et dispensation à l’officine.",
+      "questions": [
+        {
+          "question": "Dans la fiche pratique de pharmacie vétérinaire, quelle mention figure sur le conditionnement des médicaments vétérinaires concernés par la dispensation sur ordonnance ?",
+          "options": [
+            "Le conditionnement porte uniquement la mention « réserve hospitalière vétérinaire » quel que soit le produit.",
+            "La seule mention obligatoire visible est « prescription restreinte humaine » lorsqu’il s’agit d’un médicament vétérinaire listé.",
+            "Le conditionnement porte les mentions « usage vétérinaire » et « à ne délivrer que sur ordonnance ».",
+            "Les mentions de délivrance ne figurent jamais sur le conditionnement et ne sont disponibles que dans l’index de l’ANMV."
+          ],
+          "correct": 2,
+          "explanation": "La fiche rappelle explicitement ces deux mentions, qui permettent d’identifier le cadre de délivrance du médicament vétérinaire."
+        },
+        {
+          "question": "Parmi les mentions suivantes, laquelle doit figurer sur une ordonnance vétérinaire selon la fiche ?",
+          "options": [
+            "Seul le nom commercial du médicament et la signature du pharmacien sont exigés sur l’ordonnance vétérinaire.",
+            "L’identification du prescripteur, celle du détenteur et celle de l’animal doivent figurer sur l’ordonnance.",
+            "Les coordonnées du détenteur de l’animal sont facultatives dès lors que le vétérinaire connaît déjà son client.",
+            "L’ordonnance ne doit jamais mentionner l’espèce ni l’âge de l’animal pour préserver le secret professionnel."
+          ],
+          "correct": 1,
+          "explanation": "La fiche énumère précisément les mentions obligatoires portant sur le prescripteur, le détenteur, l’animal et le traitement."
+        },
+        {
+          "question": "Quelle information relative au traitement doit apparaître sur l’ordonnance selon la fiche pratique ?",
+          "options": [
+            "La durée du traitement ne doit jamais être portée sur l’ordonnance pour éviter toute rigidité thérapeutique.",
+            "La posologie, la quantité prescrite, la durée du traitement et la voie d’administration doivent être indiquées.",
+            "Le point d’injection ou d’implantation ne doit pas être mentionné même lorsqu’il est pertinent cliniquement.",
+            "Seule la dénomination du médicament suffit, les modalités d’administration relevant du pharmacien au moment de la délivrance."
+          ],
+          "correct": 1,
+          "explanation": "La fiche rappelle plusieurs éléments obligatoires du traitement, y compris la voie d’administration et, le cas échéant, le point d’injection ou d’implantation."
+        },
+        {
+          "question": "Quelle règle de forme doit respecter la signature du vétérinaire sur l’ordonnance ?",
+          "options": [
+            "Une signature est inutile si l’ordonnance est imprimée sur papier à en-tête du vétérinaire, avec une lecture qui peut paraître compatible au premier abord dans un dossier de dispensation.",
+            "Il peut signer à distance de la dernière ligne si le cachet de l’officine est déjà apposé au recto.",
+            "Le vétérinaire doit signer immédiatement sous la dernière ligne ou rendre inutilisable l’espace laissé libre.",
+            "La signature peut être remplacée par le seul numéro d’ordre d’inscription sur l’ordonnancier du pharmacien."
+          ],
+          "correct": 2,
+          "explanation": "La fiche reprend la règle de sécurisation de l’espace libre pour éviter tout ajout ultérieur frauduleux."
+        },
+        {
+          "question": "Quelle est la durée de validité de l’ordonnance dans le cas général selon la fiche ?",
+          "options": [
+            "La validité générale maximale est de trois mois, quelle que soit la classe thérapeutique.",
+            "La validité n’est pas limitée dans le temps si la mention « traitement à vie » figure sur l’ordonnance.",
+            "Dans le cas général, toute ordonnance vétérinaire vaut cinq ans, sauf pour les vaccins vivants.",
+            "Dans le cas général, la validité maximale est d’un an."
+          ],
+          "correct": 3,
+          "explanation": "La fiche précise qu’en cas général la validité maximale est d’un an, même si la mention « traitement à vie » est inscrite."
+        },
+        {
+          "question": "Quelle est la durée de validité maximale retenue dans la fiche pour les antibiotiques d’importance critique (AIC) ?",
+          "options": [
+            "La durée maximale est d’un an, comme pour toute substance de liste II en médecine vétérinaire.",
+            "La validité est de sept jours seulement pour tous les antibiotiques, critiques ou non.",
+            "La durée maximale est d’un mois pour les AIC.",
+            "Les AIC ne peuvent pas être délivrés en officine et n’ont donc pas de durée de validité propre."
+          ],
+          "correct": 2,
+          "explanation": "La fiche pratique distingue explicitement les AIC du cas général et limite la validité de l’ordonnance à un mois."
+        },
+        {
+          "question": "Quelle règle de renouvellement s’applique aux antibiotiques d’importance critique dans la fiche ?",
+          "options": [
+            "Le renouvellement est interdit pour les antibiotiques d’importance critique.",
+            "Le renouvellement est libre pendant un an si la spécialité a déjà été délivrée une première fois.",
+            "Le renouvellement dépend seulement du conditionnement et n’est jamais interdit par principe pour les AIC.",
+            "Le renouvellement est possible sans ordonnance lorsqu’il reste des quantités déjà délivrées dans le même foyer."
+          ],
+          "correct": 0,
+          "explanation": "Le tableau de la fiche précise très clairement que les AIC ne sont pas renouvelables."
+        },
+        {
+          "question": "Quelle règle de renouvellement est associée aux anabolisants, anticatabolisants et bêta-agonistes dans la fiche ?",
+          "options": [
+            "Le renouvellement n’est interdit que chez les animaux de rente, mais reste libre chez les carnivores domestiques.",
+            "Le renouvellement est automatique tant que l’ordonnance mentionne un traitement chronique.",
+            "Le renouvellement est autorisé pendant un an comme pour les substances vénéneuses de liste II.",
+            "Le renouvellement est interdit pour ces substances."
+          ],
+          "correct": 3,
+          "explanation": "La fiche place ces substances dans les catégories non renouvelables."
+        },
+        {
+          "question": "Quelle règle de renouvellement s’applique aux substances vénéneuses de liste I selon la fiche ?",
+          "options": [
+            "Elles ne sont jamais délivrables à l’officine, même sur ordonnance vétérinaire conforme, dans le cadre des règles générales de prescription, de délivrance et de traçabilité rappelées par la fiche.",
+            "Elles sont renouvelables automatiquement sans mention écrite dès lors que l’animal est un animal de compagnie.",
+            "Elles sont non renouvelables sauf indication écrite du vétérinaire précisant le nombre de renouvellements ou la durée du traitement.",
+            "Elles sont renouvelables librement pendant un an, sauf si le pharmacien estime un risque de mésusage."
+          ],
+          "correct": 2,
+          "explanation": "La fiche distingue clairement la liste I de la liste II : la première n’est renouvelable qu’en cas de mention explicite du vétérinaire."
+        },
+        {
+          "question": "Quelle règle de renouvellement s’applique aux substances vénéneuses de liste II selon la fiche ?",
+          "options": [
+            "Elles sont renouvelables pendant un an sauf interdiction écrite du vétérinaire.",
+            "Elles ne sont jamais renouvelables car toute substance vénéneuse relève du même régime que la liste I.",
+            "Elles ne peuvent être renouvelées qu’après nouvel examen clinique obligatoire documenté par le pharmacien.",
+            "Elles sont renouvelables sans limite de temps tant que le produit reste inscrit à l’index de l’ANMV."
+          ],
+          "correct": 0,
+          "explanation": "La fiche attribue à la liste II un régime plus souple que celui de la liste I."
+        },
+        {
+          "question": "Que dit la fiche à propos des médicaments vétérinaires soumis à prescription mais non listés, comme les sérums et vaccins ?",
+          "options": [
+            "Ils sont délivrables sans ordonnance dès lors qu’ils ne figurent pas sur les listes de substances vénéneuses.",
+            "Ils sont tous assimilés aux AIC et leur renouvellement est donc interdit sans exception, surtout lorsque l’on raisonne en pratique officinale quotidienne et en sécurité réglementaire.",
+            "Le pharmacien peut librement adapter la durée et la quantité sans tenir compte du texte de l’ordonnance.",
+            "Les règles standard de renouvellement des médicaments listés ne s’appliquent pas à eux ; leur dispensation suit les indications de l’ordonnance."
+          ],
+          "correct": 3,
+          "explanation": "La fiche précise que les principes de renouvellement présentés ne s’appliquent pas aux médicaments soumis à prescription non listés, comme sérums et vaccins."
+        },
+        {
+          "question": "Dans la fiche, quelle quantité maximale peut être délivrée en une fois pour un médicament vétérinaire listé prescrit au long cours ?",
+          "options": [
+            "Elle est toujours limitée strictement à sept jours, même pour un traitement chronique et un conditionnement adapté.",
+            "Elle peut couvrir une année complète d’emblée si la mention « chronique » figure sur l’ordonnance, dans une logique de conformité apparente à l’ordonnance et au circuit de délivrance.",
+            "Elle n’est jamais limitée par le pharmacien dès lors que le médicament a une AMM vétérinaire française.",
+            "Elle est limitée à la durée du traitement ou à quatre semaines / trente jours, éventuellement trois mois selon le conditionnement."
+          ],
+          "correct": 3,
+          "explanation": "La fiche encadre la quantité délivrée, notamment pour éviter des délivrances excessives sur longue durée."
+        },
+        {
+          "question": "Quel est le principe du « colisage » des médicaments vétérinaires listés dans la fiche ?",
+          "options": [
+            "Le colisage est libre sans limite de délai si le propriétaire de l’animal a déjà reçu au moins une délivrance identique.",
+            "Le pharmacien peut recourir à un intermédiaire si le délai entre les soins et la délivrance n’excède pas dix jours.",
+            "Le colisage n’est autorisé qu’avec des médicaments humains utilisés dans le cadre de la cascade.",
+            "Le colisage est interdit pour tout médicament vétérinaire listé, quel que soit le délai ou les conditions matérielles."
+          ],
+          "correct": 1,
+          "explanation": "La fiche autorise le recours à un intermédiaire dans un cadre précis, avec un délai maximal de dix jours entre soins et délivrance."
+        },
+        {
+          "question": "Quelle caractéristique doit présenter le paquet lors d’un colisage selon la fiche ?",
+          "options": [
+            "Il doit être scellé, opaque et permettre au destinataire de vérifier qu’il n’a pas été ouvert par un tiers.",
+            "Il peut être remplacé par un simple sachet non fermé si la quantité délivrée est inférieure à une semaine de traitement.",
+            "Il doit rester transparent pour permettre l’identification immédiate du contenu par toute personne qui le transporte.",
+            "Il doit être signé extérieurement par le vétérinaire, sans obligation d’opacité ni de scellement."
+          ],
+          "correct": 0,
+          "explanation": "La fiche décrit précisément les conditions matérielles du paquet utilisé pour le colisage."
+        },
+        {
+          "question": "Que doit-on joindre à l’intérieur du paquet lors du colisage ?",
+          "options": [
+            "Seule une copie de l’ordonnancier est exigée, l’ordonnance originale restant toujours à l’officine.",
+            "Aucun document ne doit être placé dans le paquet pour des raisons de confidentialité.",
+            "L’ordonnance doit être jointe à l’intérieur du paquet.",
+            "Le résumé des caractéristiques du produit remplace obligatoirement l’ordonnance dans le paquet."
+          ],
+          "correct": 2,
+          "explanation": "La fiche mentionne explicitement la présence de l’ordonnance à l’intérieur du paquet scellé."
+        },
+        {
+          "question": "Quelle obligation de conservation concerne l’ordonnancier des médicaments vétérinaires ?",
+          "options": [
+            "Il doit impérativement être tenu sur support papier manuscrit et conservé pendant trois ans.",
+            "L’ordonnancier n’est requis que pour les stupéfiants et n’a pas d’utilité pour les autres médicaments vétérinaires.",
+            "Il doit être conservé un an seulement, car les ordonnances vétérinaires ont au plus cette durée de validité.",
+            "Il peut être tenu sur support papier ou informatique et doit être conservé dix ans."
+          ],
+          "correct": 3,
+          "explanation": "La fiche précise à la fois les supports possibles et la durée de conservation de l’ordonnancier."
+        },
+        {
+          "question": "Parmi les mentions suivantes, laquelle fait partie des mentions obligatoires de l’ordonnancier ?",
+          "options": [
+            "Le numéro de sécurité sociale du détenteur de l’animal doit être porté sur l’ordonnancier.",
+            "Le numéro de lot de fabrication du médicament délivré doit être inscrit.",
+            "Le diagnostic clinique détaillé du vétérinaire doit être reproduit mot pour mot dans l’ordonnancier.",
+            "Le prix d’achat du médicament par l’officine doit obligatoirement être noté sur l’ordonnancier."
+          ],
+          "correct": 1,
+          "explanation": "La fiche liste le numéro de lot parmi les mentions obligatoires, avec le numéro d’ordre, la quantité délivrée, le prescripteur, la date et d’autres éléments."
+        },
+        {
+          "question": "Que signifie la mention « médicaments remis par… » dans l’ordonnancier ?",
+          "options": [
+            "Elle remplace le nom du vétérinaire prescripteur si celui-ci a aussi assuré la délivrance.",
+            "Elle désigne le laboratoire fabricant à l’origine du lot de production inscrit sur l’ordonnance.",
+            "Elle est utilisée uniquement lorsque le médicament a été préparé magistralement à l’officine.",
+            "Elle identifie l’intermédiaire qui remet les médicaments lorsqu’il y a eu colisage."
+          ],
+          "correct": 3,
+          "explanation": "Cette mention assure la traçabilité spécifique du colisage et de la remise par un intermédiaire."
+        },
+        {
+          "question": "Quel droit du pharmacien d’officine ne s’applique pas à la pharmacie vétérinaire selon la fiche ?",
+          "options": [
+            "Le droit de substitution générique ne s’applique pas à la pharmacie vétérinaire.",
+            "Le droit de vérifier l’authenticité d’une ordonnance vétérinaire ne s’applique pas en pharmacie vétérinaire.",
+            "Le droit d’inscrire la délivrance à l’ordonnancier ne s’applique pas en médecine vétérinaire.",
+            "Le droit de refuser une délivrance manifestement irrégulière n’existe pas pour le médicament vétérinaire."
+          ],
+          "correct": 0,
+          "explanation": "La fiche est très claire : le pharmacien ne peut pas substituer un médicament vétérinaire par un autre ni par un médicament humain."
+        },
+        {
+          "question": "Que doit faire le pharmacien en cas d’indisponibilité d’une spécialité antibiotique vétérinaire prescrite ?",
+          "options": [
+            "Il doit annuler la délivrance et renvoyer systématiquement le propriétaire vers un autre praticien.",
+            "Il doit se rapprocher du prescripteur afin de ne pas retarder de manière préjudiciable la mise en route du traitement.",
+            "Il peut substituer d’office un antibiotique humain équivalent sans prévenir le vétérinaire, dans le cadre des règles générales de prescription, de délivrance et de traçabilité rappelées par la fiche.",
+            "Il peut délivrer un autre antibiotique vétérinaire de son choix à condition de l’inscrire dans l’ordonnancier."
+          ],
+          "correct": 1,
+          "explanation": "La fiche exclut la substitution libre et impose de reprendre contact avec le prescripteur."
+        },
+        {
+          "question": "Les pharmaciens d’officine doivent-ils conserver une copie de toutes les prescriptions vétérinaires selon la fiche ?",
+          "options": [
+            "Non, sauf pour les stupéfiants, ils n’ont pas l’obligation générale de conserver une copie des prescriptions vétérinaires.",
+            "Oui, mais uniquement pour les médicaments de liste II, pas pour les AIC ni les vaccins.",
+            "Non, ils n’ont jamais le droit de conserver une copie, même pour les stupéfiants, surtout lorsque l’on raisonne en pratique officinale quotidienne et en sécurité réglementaire.",
+            "Oui, ils doivent conserver systématiquement pendant dix ans une copie de toute prescription vétérinaire délivrée."
+          ],
+          "correct": 0,
+          "explanation": "La fiche prévoit une exception notable pour les stupéfiants, mais pas d’obligation générale de conservation des copies pour tous les médicaments."
+        },
+        {
+          "question": "Depuis le 11 mai 2012, quel statut de prescription concerne les médicaments vétérinaires destinés à la prévention des chaleurs des animaux de compagnie ?",
+          "options": [
+            "Ils ne peuvent plus être délivrés que dans les établissements de soins vétérinaires, jamais en officine.",
+            "Ils sont devenus des médicaments en accès direct à l’officine sans ordonnance pour les carnivores domestiques.",
+            "Ils relèvent tous de la liste des stupéfiants depuis cette date.",
+            "Ils sont soumis à prescription vétérinaire et relèvent de la liste II."
+          ],
+          "correct": 3,
+          "explanation": "La fiche cite explicitement cette évolution réglementaire pour les produits destinés à la prévention des chaleurs."
+        },
+        {
+          "question": "Quelle affirmation concernant certains médicaments vétérinaires est correcte selon la fiche ?",
+          "options": [
+            "Tout médicament vétérinaire doté d’une AMM peut être délivré au public si le propriétaire présente une ordonnance signée.",
+            "Le pentobarbital peut être délivré au public pour usage vétérinaire dès lors que l’animal est identifié individuellement.",
+            "La kétamine et la tilétamine sont des exemples de médicaments listés mais librement dispensables au public, ce qui peut sembler recevable avant une lecture attentive des exigences réglementaires détaillées.",
+            "La dispensation au public de certains médicaments vétérinaires est interdite, comme la kétamine, la tilétamine ou le pentobarbital."
+          ],
+          "correct": 3,
+          "explanation": "La fiche donne précisément ces exemples de substances dont la dispensation au public est interdite."
+        },
+        {
+          "question": "Pourquoi la fiche attire-t-elle l’attention sur la kétamine, la tilétamine ou le clenbutérol ?",
+          "options": [
+            "Parce qu’ils ne peuvent être inscrits ni à l’ordonnancier ni sur une ordonnance vétérinaire, avec une lecture qui peut paraître compatible au premier abord dans un dossier de dispensation.",
+            "Parce qu’ils sont les seuls médicaments vétérinaires autorisés en officine pour la médecine équine de sport.",
+            "Parce que certains médicaments vétérinaires peuvent faire l’objet de détournements d’usage, hallucinogènes ou anabolisants par exemple.",
+            "Parce qu’ils ne nécessitent jamais d’ordonnance et exposent surtout à des erreurs de prix de vente."
+          ],
+          "correct": 2,
+          "explanation": "La fiche cite explicitement le risque de détournement d’usage pour certaines molécules."
+        },
+        {
+          "question": "Quel est le rôle de l’ANMV rappelé dans la fiche ?",
+          "options": [
+            "L’ANMV est l’autorité compétente française en matière d’évaluation et de gestion du risque pour le médicament vétérinaire.",
+            "L’ANMV est l’organisme qui remplace le vétérinaire pour la rédaction des ordonnances à l’officine.",
+            "L’ANMV est uniquement chargée de la vente au détail des médicaments vétérinaires à l’officine, dans le cadre des règles générales de prescription, de délivrance et de traçabilité rappelées par la fiche.",
+            "L’ANMV n’a qu’un rôle ordinal consultatif et ne participe pas à l’évaluation des médicaments vétérinaires."
+          ],
+          "correct": 0,
+          "explanation": "La fiche présente l’ANMV comme l’autorité compétente française du médicament vétérinaire au sein de l’ANSES."
+        },
+        {
+          "question": "Combien de types de déclarations de pharmacovigilance vétérinaire sont mentionnés dans la fiche ?",
+          "options": [
+            "Aucun système de pharmacovigilance n’est prévu pour le médicament vétérinaire délivré en officine.",
+            "Deux types sont mentionnés : effets indésirables chez l’animal et effets indésirables chez l’humain liés à un médicament vétérinaire.",
+            "Un seul type est prévu, limité aux échecs thérapeutiques constatés chez l’animal traité, surtout lorsque l’on raisonne en pratique officinale quotidienne et en sécurité réglementaire.",
+            "Trois types sont prévus : animal, humain et environnement, avec formulaires totalement distincts obligatoires."
+          ],
+          "correct": 1,
+          "explanation": "La fiche mentionne explicitement deux grands types de déclaration au titre de la pharmacovigilance vétérinaire."
+        },
+        {
+          "question": "Quelles mentions le pharmacien doit-il porter sur l’ordonnance lors de la délivrance ou du renouvellement ?",
+          "options": [
+            "Le nom et l’adresse de la pharmacie, la date de délivrance, le numéro d’ordre, la quantité délivrée et, le cas échéant, la mention de l’intermédiaire.",
+            "Aucune mention ne doit être ajoutée sur l’ordonnance pour éviter de la modifier après signature du vétérinaire.",
+            "Le diagnostic du vétérinaire et le numéro d’identification de l’animal doivent être ajoutés par le pharmacien.",
+            "Uniquement le prix facturé et le numéro de lot, les autres mentions relevant exclusivement de l’ordonnancier, ce qui peut sembler recevable avant une lecture attentive des exigences réglementaires détaillées."
+          ],
+          "correct": 0,
+          "explanation": "La fiche distingue bien les mentions portées par le vétérinaire de celles ajoutées ensuite par le pharmacien lors de la délivrance."
+        },
+        {
+          "question": "Quel raisonnement est correct à propos de la dispensation de médicaments humains pour un usage vétérinaire dans le cadre de la cascade ?",
+          "options": [
+            "Elle n’est jamais possible en officine, même lorsque la cascade l’autorise juridiquement, avec une lecture qui peut paraître compatible au premier abord dans un dossier de dispensation.",
+            "Elle échappe à toute traçabilité puisqu’il ne s’agit pas d’un médicament disposant d’une AMM vétérinaire.",
+            "Elle exige une ordonnance vétérinaire et obéit aux mêmes exigences de traçabilité qu’un médicament à AMM vétérinaire.",
+            "Elle peut être faite sans ordonnance à condition que le médicament humain soit déjà disponible à l’officine."
+          ],
+          "correct": 2,
+          "explanation": "La fiche précise que la traçabilité doit être assurée de la même manière, y compris avec inscription du numéro de lot à l’ordonnancier."
+        },
+        {
+          "question": "Quelle restriction spécifique concernant les médicaments humains est rappelée dans la fiche ?",
+          "options": [
+            "Les restrictions ne concernent que les vaccins humains, jamais les antibiotiques ni les immunomodulateurs.",
+            "De nombreux antibiotiques humains d’importance critique et certains médicaments humains de prescription restreinte ne doivent pas être délivrés pour un usage vétérinaire à l’officine.",
+            "Les médicaments humains de prescription restreinte deviennent tous autorisés en cascade si l’animal est un animal de compagnie.",
+            "Tout médicament humain est librement délivrable à l’officine sur simple demande orale du vétérinaire, surtout lorsque l’on raisonne en pratique officinale quotidienne et en sécurité réglementaire."
+          ],
+          "correct": 1,
+          "explanation": "La fiche donne des exemples de médicaments humains de prescription restreinte qui ne doivent pas être délivrés à un vétérinaire ou à un propriétaire d’animal."
+        },
+        {
+          "question": "Quel exemple de toxicité interspécifique est cité dans la fiche pour justifier la prudence avec les médicaments humains ?",
+          "options": [
+            "La metformine est donnée comme exemple de molécule sans toxicité particulière chez le lapin.",
+            "L’ibuprofène est cité comme parfaitement sûr chez toutes les espèces carnivores domestiques.",
+            "Le paracétamol est cité comme toxique chez le chat.",
+            "Le paracétamol est présenté comme un antalgique humain interchangeable avec toute spécialité vétérinaire féline."
+          ],
+          "correct": 2,
+          "explanation": "La fiche rappelle qu’un médicament banal en médecine humaine peut être dangereux dans certaines espèces, d’où la prudence exigée."
+        }
+      ]
     }
   ]
 }
